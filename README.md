@@ -9,7 +9,7 @@
     <img width="200" alt="That Handsome Devil (2005)" src="images/That Handsome Devil (2005).jpg" />
 </div>
 
-- ### That Handsome Devil (2005) ([Bandcamp][bc/album/that-handsome-devil]; [YouTube][yt/album/that-handsome-devil]):
+- ### That Handsome Devil (2005) ([Bandcamp][bc/album/that-handsome-devil]; [YouTube][yt/album/that-handsome-devil])
     1\. Standing Room In Heaven ([Bandcamp][bc/track/standing-room-in-heaven]; [YouTube][yt/track/standing-room-in-heaven])\
     2\. Yada Yada ([Bandcamp][bc/track/yada-yada]; [YouTube][yt/track/yada-yada])\
     3\. Sleep it Off ([Bandcamp][bc/track/sleep-it-off]; [YouTube][yt/track/sleep-it-off])\
@@ -23,7 +23,7 @@
     <img width="200" alt="A City Dressed In Dynamite (2008)" src="images/A City Dressed in Dynamite (2008).png" />
 </div>
 
-- ### A City Dressed In Dynamite (2008) ([Bandcamp][bc/album/a-city-dressed-in-dynamite]; [YouTube][yt/album/a-city-dressed-in-dynamite]):
+- ### A City Dressed In Dynamite (2008) ([Bandcamp][bc/album/a-city-dressed-in-dynamite]; [YouTube][yt/album/a-city-dressed-in-dynamite])
     1\. Damn Door ([Bandcamp][bc/track/damn-door]; [YouTube][yt/track/damn-door])\
     2\. Wintergreen ([Bandcamp][bc/track/wintergreen]; [YouTube][yt/track/wintergreen])\
     3\. Rob The Prez-O-Dent ([Bandcamp][bc/track/rob-the-prez-o-dent]; [YouTube][yt/track/rob-the-prez-o-dent])\
@@ -46,7 +46,7 @@
     <img width="200" alt="Enlightenment's For Suckers (2009)" src="images/Enlightement&apos;s For Suckers (2009).png" />
 </div>
 
-- ### Enlightenment\'s For Suckers (2009) ([Bandcamp][bc/album/enlightenments-for-suckers]; [YouTube][yt/album/enlightenments-for-suckers]):
+- ### Enlightenment\'s For Suckers (2009) ([Bandcamp][bc/album/enlightenments-for-suckers]; [YouTube][yt/album/enlightenments-for-suckers])
     1\. Bullet Math ([Bandcamp][bc/track/bullet-math]; [YouTube][yt/track/bullet-math])\
     2\. Stockholm Syndrome ([Bandcamp][bc/track/stockholm-syndrome]; [YouTube][yt/track/stockholm-syndrome])\
     3\. Disco City ([Bandcamp][bc/track/disco-city]; [YouTube][yt/track/disco-city])\
@@ -348,6 +348,23 @@
     10\. Order of the Alphabet ([YouTube][yt/track/order-of-the-alphabet])\
     11\. Pimphand ([YouTube][yt/track/pimphand])\
     12\. Hands Up (feat. Thirtyseven) ([YouTube][yt/track/hands-up])
+
+<br>
+
+## FDR:
+
+<br>
+<div align="left">
+    <img width="200" alt="Fear of Death and the Need for Reproduction (2014)" src="images/Fear of Death and the Need for Reproduction (2014).jpg" />
+</div>
+
+- ### Fear of Death and the Need for Reproduction (2014) ([Bandcamp][bc/album/fear-of-death-and-the-need-for-reproduction])
+    1\. Cold Shoulder of a Beautiful Woman at the Bar ([Bandcamp][bc/track/cold-shoulder-of-a-beautiful-woman-at-the-bar])\
+    2\. Showing Up ([Bandcamp][bc/track/showing-up]; [YouTube][yt/track/showing-up])\
+    3\. Bedouin Dreams ([Bandcamp][bc/track/bedouin-dreams]; [YouTube][yt/track/bedouin-dreams])\
+    4\. Destroyer of All Things ([Bandcamp][bc/track/destroyer-of-all-things]; [YouTube][yt/track/destroyer-of-all-things])\
+    5\. Where the Cameras Don\'t See ([Bandcamp][bc/track/where-the-cameras-dont-see]; [YouTube][yt/track/where-the-cameras-dont-see])\
+    6\. Night Owls ([Bandcamp][bc/track/night-owls]; [YouTube][yt/track/night-owls])
 
 
 <!-- links -->
@@ -788,3 +805,20 @@
 [yt/track/order-of-the-alphabet]: https://youtu.be/OIGlR67JpBI?si=-DPtfRh441BWgws2
 [yt/track/pimphand]: https://youtu.be/3mNW-hkGTG8?si=qpbkCjOJggYbCIHM
 [yt/track/hands-up]: https://youtu.be/ELagixPYAkA?si=QuJ7R7DbSQZpjLDJ
+
+<!-- Fear of Death and the Need for Reproduction (2014) -->
+[bc/album/fear-of-death-and-the-need-for-reproduction]: https://fdr1.bandcamp.com/album/fear-of-death-and-the-need-for-reproduction
+[bc/track/cold-shoulder-of-a-beautiful-woman-at-the-bar]: https://fdr1.bandcamp.com/track/cold-shoulder-of-a-beautiful-woman-at-the-bar
+[bc/track/showing-up]: https://fdr1.bandcamp.com/track/showing-up
+[bc/track/bedouin-dreams]: https://fdr1.bandcamp.com/track/bedouin-dreams
+[bc/track/destroyer-of-all-things]: https://fdr1.bandcamp.com/track/destroyer-of-all-things
+[bc/track/where-the-cameras-dont-see]: https://fdr1.bandcamp.com/track/where-the-cameras-dont-see
+[bc/track/night-owls]: https://fdr1.bandcamp.com/track/night-owls
+
+[yt/album/fear-of-death-and-the-need-for-reproduction]: None
+[yt/track/cold-shoulder-of-a-beautiful-woman-at-the-bar]: None
+[yt/track/showing-up]: https://youtu.be/GnTumi_S83A
+[yt/track/bedouin-dreams]: https://youtu.be/CjqV6pP6ZaE
+[yt/track/destroyer-of-all-things]: https://youtu.be/5va8Q8c4JN4
+[yt/track/where-the-cameras-dont-see]: https://youtu.be/WUTGDiOjsck
+[yt/track/night-owls]: https://youtu.be/WHvZlvdc9Z8
