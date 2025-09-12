@@ -6,7 +6,7 @@
 
 <br>
 <div align="left">
-    <img width="200" alt="That Handsome Devil (2005)" src="https://gist.github.com/user-attachments/assets/264bd4a5-f03f-403c-b07c-a27ee5b777aa" />
+    <img width="200" alt="That Handsome Devil (2005)" src="images/That Handsome Devil (2005).jpg" />
 </div>
 
 - ### That Handsome Devil (2005) ([Bandcamp][bc/album/that-handsome-devil]; [YouTube][yt/album/that-handsome-devil]):
@@ -20,7 +20,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="A City Dressed In Dynamite (2008)" src="https://gist.github.com/user-attachments/assets/bc379434-0695-4f44-bc00-d01fca4063cd" />
+    <img width="200" alt="A City Dressed In Dynamite (2008)" src="images/A City Dressed in Dynamite (2008).png" />
 </div>
 
 - ### A City Dressed In Dynamite (2008) ([Bandcamp][bc/album/a-city-dressed-in-dynamite]; [YouTube][yt/album/a-city-dressed-in-dynamite]):
@@ -43,7 +43,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="Enlightenment's For Suckers (2009)" src="https://gist.github.com/user-attachments/assets/1df37267-29eb-4171-abee-3d60a0b90cc7" />
+    <img width="200" alt="Enlightenment's For Suckers (2009)" src="images/Enlightement&apos;s For Suckers (2009).png" />
 </div>
 
 - ### Enlightenment\'s For Suckers (2009) ([Bandcamp][bc/album/enlightenments-for-suckers]; [YouTube][yt/album/enlightenments-for-suckers]):
@@ -55,7 +55,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="The Jungle Book (2010)" src="https://gist.github.com/user-attachments/assets/33e398c1-45b8-4d84-ae32-9a32f37c0f61" />
+    <img width="200" alt="The Jungle Book (2010)" src="images/The Jungle Book (2010).jpg" />
 </div>
 
 - ### The Jungle Book (2010) ([Bandcamp][bc/album/the-jungle-book]; [YouTube][yt/album/the-jungle-book])
@@ -69,7 +69,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="The Heart Goes To Heaven, The Head Goes To Hell (2011)" src="https://gist.github.com/user-attachments/assets/e345920a-c935-4b29-88a2-2a9b7c1be346" />
+    <img width="200" alt="The Heart Goes To Heaven, The Head Goes To Hell (2011)" src="images/The Heart Goes To Heaven, The Head Goes To Hell (2011).png" />
 </div>
 
 - ### The Heart Goes To Heaven, The Head Goes To Hell (2011) ([Bandcamp][bc/album/the-heart-goes-to-heaven-the-head-goes-to-hell]; [YouTube][yt/album/the-heart-goes-to-heaven-the-head-goes-to-hell])
@@ -89,7 +89,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="Drugs & Guns For Everyone (2014)" src="https://gist.github.com/user-attachments/assets/faa3d513-999e-45d6-83ed-7c8d0db8bf67" />
+    <img width="200" alt="Drugs & Guns For Everyone (2014)" src="images/Drugs & Guns For Everyone (2014).jpg" />
 </div>
 
 - ### Drugs & Guns For Everyone (2014) ([Bandcamp][bc/album/drugs-guns-for-everyone]; [YouTube][yt/album/drugs-guns-for-everyone])
@@ -108,7 +108,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="History Is A Suicide Note (2017)" src="https://gist.github.com/user-attachments/assets/e7100780-16d9-4e82-85e6-17b688ad20dc" />
+    <img width="200" alt="History Is A Suicide Note (2017)" src="images/History Is A Suicide Note (2017).jpg" />
 </div>
 
 - ### History Is A Suicide Note (2017) ([Bandcamp][bc/album/history-is-a-suicide-note]; [YouTube][yt/album/history-is-a-suicide-note])
@@ -121,7 +121,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="Your Parents Are Sellouts (2021)" src="https://gist.github.com/user-attachments/assets/f5b7c311-0355-40b6-861c-4ad043fe98bc" />
+    <img width="200" alt="Your Parents Are Sellouts (2021)" src="images/Your Parents Are Sellouts (2021).png" />
 </div>
 
 - ### Your Parents Are Sellouts (2021) ([Bandcamp][bc/album/your-parents-are-sellouts]; [YouTube][yt/album/your-parents-are-sellouts])
@@ -142,7 +142,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="Exploitopia (2024)" src="https://gist.github.com/user-attachments/assets/e253d7e8-a36d-4aa1-abdc-3fe0e35b9044" />
+    <img width="200" alt="Exploitopia (2024)" src="images/Exploitopia (2024).jpg" />
 </div>
 
 - ### Exploitopia (2024) ([Bandcamp][bc/album/exploitopia]; [YouTube][yt/album/exploitopia])
@@ -162,7 +162,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="Hating New People" src="https://gist.github.com/user-attachments/assets/5f6e65e9-f65e-4876-a71c-8084617c08b7" />
+    <img width="200" alt="Hating New People" src="images/Hating New People.webp" />
 </div>
 
 - ### That Handsome Devil: Other
@@ -208,7 +208,7 @@
 
 <br>
 <div align="left">
-    <img width="200" alt="Jesus Chrysler (2018)" src="https://gist.github.com/user-attachments/assets/da5bdf18-656f-416e-931c-adcfea449819" />
+    <img width="200" alt="Jesus Chrysler (2018)" src="images/Jesus Chrysler (2018).jpg" />
 </div>
 
 - ### Jesus Chrysler (2018) ([Bandcamp][bc/album/jesus-chrysler]; [YouTube][yt/album/jesus-chrysler])
@@ -225,7 +225,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="How to Make Your Art Matter (2020)" src="https://gist.github.com/user-attachments/assets/228cf033-85fe-4beb-ba0f-f3e4213c7f73" />
+    <img width="200" alt="How to Make Your Art Matter (2020)" src="images/How to Make Your Art Matter (2020).jpg" />
 </div>
 
 - ### How to Make Your Art Matter (2020) ([Bandcamp][bc/album/how-to-make-your-art-matter]; [YouTube][yt/album/how-to-make-your-art-matter])
@@ -242,7 +242,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="Tales of the Haunted Microphone (2021)" src="https://gist.github.com/user-attachments/assets/fd634a1e-b623-4d5a-bab5-578bc1401d07" />
+    <img width="200" alt="Tales of the Haunted Microphone (2021)" src="images/Tales of the Haunted Microphone (2021).png" />
 </div>
 
 - ### Tales of the Haunted Microphone (2021) ([Bandcamp][bc/album/tales-of-the-haunted-microphone]; [YouTube][yt/album/tales-of-the-haunted-microphone])
@@ -256,7 +256,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="Tales of the Haunted Microphone 2 (2023)" src="https://gist.github.com/user-attachments/assets/7922c990-1531-433e-b53e-d19a81663249" />
+    <img width="200" alt="Tales of the Haunted Microphone 2 (2023)" src="images/Tales of the Haunted Microphone 2 (2023).png" />
 </div>
 
 - ### Tales of the Haunted Microphone 2 (2023) ([Bandcamp][bc/album/tales-of-the-haunted-microphone-2]; [YouTube][yt/album/tales-of-the-haunted-microphone-2])
@@ -273,7 +273,7 @@
 
 <br><br><br>
 <div align="left">
-    <img width="200" alt="The Sound of Me Coping with Loss (2024)" src="https://gist.github.com/user-attachments/assets/d08f6de7-5b4a-4e5e-b3b0-8615ff2ab9f1" />
+    <img width="200" alt="The Sound of Me Coping with Loss (2024)" src="images/The Sound of Me Coping with Loss (2024).jpg" />
 </div>
 
 - ### The Sound of Me Coping with Loss (2024) ([Bandcamp][bc/album/the-sound-of-me-coping-with-loss])
@@ -288,7 +288,7 @@
 
 <br>
 <div align="left">
-    <img width="200" alt="American Style Cardboard (2012)" src="https://gist.github.com/user-attachments/assets/c447e1e1-5683-48f7-b11f-5b1f79e973fb" />
+    <img width="200" alt="American Style Cardboard (2012)" src="images/American Style Cardboard (2012).jpg" />
 </div>
 
 - ### American Style Cardboard (2012) ([Bandcamp][bc/album/american-style-cardboard]; [YouTube][yt/album/american-style-cardboard])
@@ -307,7 +307,7 @@
 
 <br>
 <div align="left">
-    <img width="200" alt="Fire & Ice (2002)" src="https://gist.github.com/user-attachments/assets/e978789f-a02d-4377-974c-f95d44fb1913" />
+    <img width="200" alt="Fire & Ice (2002)" src="images/Fire & Ice (2002).webp" />
 </div>
 
 - ### Fire & Ice (2002) ([Official Site][os/album/fire-and-ice]; [last.fm][lf/album/fire-and-ice]; [YouTube][yt/album/fire-and-ice])
@@ -332,7 +332,7 @@
 
 <br>
 <div align="left">
-    <img width="200" alt="Fire & Ice (2002)" src="https://gist.github.com/user-attachments/assets/c446efff-3ab8-4649-b547-1e92086d41c7" />
+    <img width="200" alt="Alaskan Fishermen (2012)" src="images/Alaskan Fishermen (2012).webp" />
 </div>
 
 - ### Alaskan Fishermen (2012) ([last.fm][lf/album/alaskan-fishermen]; [YouTube][yt/album/alaskan-fishermen])
