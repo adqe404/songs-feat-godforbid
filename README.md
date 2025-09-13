@@ -387,12 +387,26 @@
 
 - #### Anthembanger 2012 (2014) ([Bandcamp][bc/track/anthembanger-2012])
 
-<br><br><br>
+<br>
+
+## World Around Records:
+
+<br>
 <div align="left">
     <img width="200" alt="Big Day for the Little People (2012)" src="images/Big Day for the Little People (2012).jpg" />
 </div>
 
-- #### Big Day for the Little People (2012) ([Bandcamp][bc/track/big-day-for-the-little-people]; [YouTube][yt/track/big-day-for-the-little-people])
+- ### Singles 2011-2012 (2013) ([Bandcamp][bc/album/singles-2001-2012])
+    1\. Man Mantis - Gonna Die Here ([Bandcamp][bc/track/gonna-die-here]; [YouTube][yt/track/gonna-die-here])\
+    2\. Humpasaur Jones - The Patience ([Bandcamp][bc/track/the-patience]; [YouTube][yt/track/the-patience])\
+    3\. Zilla Rocca - Bad Weather Classic (Dr. Quandary Remix) (feat. Mally & Curly Castro) ([Bandcamp][bc/track/bad-weather-classic]; [YouTube][yt/track/bad-weather-classic])\
+    4\. Louis Mackey - Everything, Everywhere, Always ([Bandcamp][bc/track/everything-everywhere-always]; [YouTube][yt/track/everything-everywhere-always])\
+    5\. Dr. Quandary - Oneiric Field Mandala ([Bandcamp][bc/track/oneiric-field-mandala]; [YouTube][yt/track/oneiric-field-mandala])\
+    ***6\. Godforbid & Thirtyseven - Big Day for the Little People ([Bandcamp][bc/track/big-day-for-the-little-people]; [YouTube][yt/track/big-day-for-the-little-people])***\
+    7\. IV the Polymath & Thirtyseven - The Frame ([Bandcamp][bc/track/the-frame]; [YouTube][yt/track/the-frame])\
+    8\. Naturetone - Stargazing (feat. DLO) ([Bandcamp][bc/track/stargazing])\
+    9\. Algorhythms - Open Ended ([Bandcamp][bc/track/open-ended]; [YouTube][yt/track/open-ended])\
+    10\. Small Professor - The Old Eleven ([Bandcamp][bc/track/the-old-eleven])
 
 <br><br><br>
 <div align="left">
@@ -400,7 +414,17 @@
 </div>
 
 - ### We Are World Around Vol. 4. (2014) ([Bandcamp][bc/album/we-are-world-around-vol-4])
-    7\. No Truce ([Bandcamp][bc/track/no-truce]; [YouTube][yt/track/no-truce])
+    1\. Suplington - Smile, Soon It\'ll Be Winter ([Bandcamp][bc/track/smile-soon-itll-be-winter])\
+    2\. Man Mantis - Super Not a Cop ([Bandcamp][bc/track/super-not-a-cop])\
+    3\. Louis Mackey & Dr. Quandary - Ghosts of the Commonwealth ([Bandcamp][bc/track/ghosts-of-the-common-wealth])\
+    4\. Ill Clinton - Hidden ([Bandcamp][bc/track/hidden])\
+    5\. Louis Mackey & Solve One - Lots of Lip ([Bandcamp][bc/track/lots-of-lip]; [YouTube][yt/track/lots-of-lip])\
+    6\. Naturetone - Sky ([Bandcamp][bc/track/sky])\
+    ***7\. Godforbid & Thirtyseven - No Truce ([Bandcamp][bc/track/no-truce]; [YouTube][yt/track/no-truce])***\
+    8\. Louis Mackey - Maundy Thursday ([Bandcamp][bc/track/maundy-thursday])\
+    9\. Josh Cote - Witch Doctor ([Bandcamp][bc/track/witch-doctor])\
+    10\. Louis Mackey - I Think About You All of the Time ([Bandcamp][bc/track/i-think-about-you-all-of-the-time])\
+    11\. DJ Multiple Sex Partners - Pale White Cutie Pie (Closing Theme) ([Bandcamp][bc/track/pale-white-cutie-pie-closing-theme]; [YouTube][yt/track/pale-white-cutie-pie-closing-theme])
 
 <br>
 
@@ -1391,17 +1415,46 @@
 
 [yt/track/anthembanger-2012]: None
 
-<!-- Big Day for the Little People (2012) -->
+<!-- Singles 2011-2012 (2013) -->
+[bc/album/singles-2001-2012]: https://worldaround.bandcamp.com/album/singles-2011-2012
+[bc/track/gonna-die-here]: https://worldaround.bandcamp.com/track/gonna-die-here
+[bc/track/the-patience]: https://worldaround.bandcamp.com/track/the-patience
+[bc/track/bad-weather-classic]: https://worldaround.bandcamp.com/track/bad-weather-classic-dr-quandary-remix-feat-mally-curly-castro
+[bc/track/everything-everywhere-always]: https://worldaround.bandcamp.com/track/everything-everywhere-always
+[bc/track/oneiric-field-mandala]: https://worldaround.bandcamp.com/track/oneiric-field-mandala
 [bc/track/big-day-for-the-little-people]: https://worldaround.bandcamp.com/track/big-day-for-the-little-people
+[bc/track/the-frame]: https://worldaround.bandcamp.com/track/the-frame
+[bc/track/stargazing]: https://worldaround.bandcamp.com/track/stargazing-feat-dlo
+[bc/track/open-ended]: https://worldaround.bandcamp.com/track/open-ended
+[bc/track/the-old-eleven]: https://worldaround.bandcamp.com/track/the-old-eleven
 
+[yt/track/gonna-die-here]: https://youtu.be/xzsoGRuPq6A
+[yt/track/the-patience]: https://youtu.be/nR_3RBVb8Ho
+[yt/track/bad-weather-classic]: https://youtu.be/Hy2wIhJBZDs
+[yt/track/everything-everywhere-always]: https://youtu.be/MwfxKXYqpoE
+[yt/track/oneiric-field-mandala]: https://youtu.be/6oOFee4FMlw
 [yt/track/big-day-for-the-little-people]: https://youtu.be/KT59sFCmVcs
+[yt/track/the-frame]: https://youtu.be/KGz6SkDnoSI
+[yt/track/open-ended]: https://youtu.be/LrRL1mxuaC4
 
 <!-- We Are World Around Vol. 4. (2014) -->
 [bc/album/we-are-world-around-vol-4]: https://worldaround.bandcamp.com/album/we-are-world-around-vol-4
+[bc/track/smile-soon-itll-be-winter]: https://worldaround.bandcamp.com/track/smile-soon-itll-be-winter
+[bc/track/super-not-a-cop]: https://worldaround.bandcamp.com/track/super-not-a-cop
+[bc/track/ghosts-of-the-common-wealth]: https://worldaround.bandcamp.com/track/ghosts-of-the-commonwealth
+[bc/track/hidden]: https://worldaround.bandcamp.com/track/hidden
+[bc/track/lots-of-lip]: https://worldaround.bandcamp.com/track/lots-of-lip-2
+[bc/track/sky]: https://worldaround.bandcamp.com/track/sky
 [bc/track/no-truce]: https://worldaround.bandcamp.com/track/no-truce
+[bc/track/maundy-thursday]: https://worldaround.bandcamp.com/track/maundy-thursday
+[bc/track/witch-doctor]: https://worldaround.bandcamp.com/track/witch-doctor
+[bc/track/i-think-about-you-all-of-the-time]: https://worldaround.bandcamp.com/track/i-think-about-you-all-of-the-time-2
+[bc/track/pale-white-cutie-pie-closing-theme]: https://worldaround.bandcamp.com/track/pale-white-cutie-pie-closing-theme
 
 [yt/album/we-are-world-around-vol-4]: None
+[yt/track/lots-of-lip]: https://youtu.be/DqN2i6umPyM
 [yt/track/no-truce]: https://youtu.be/nByfKm-C-oc
+[yt/track/pale-white-cutie-pie-closing-theme]: https://youtu.be/ufEEElwl1XQ
 
 <!-- Monolith (2020) -->
 [bc/album/monolith]: https://cursedoutpro.bandcamp.com/album/monolith
