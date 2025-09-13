@@ -282,6 +282,13 @@
     3\. Going Through Your Stuff ([Bandcamp][bc/track/going-through-your-stuff])\
     4\. Spring ([Bandcamp][bc/track/spring])
 
+<br><br><br>
+<div align="left">
+    <img width="200" alt="Mamas Don't Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover)" src="images/Mamas Don&apos;t Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover).jpg" />
+</div>
+
+- #### Mamas Don\'t Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover) ([YouTube][yt/track/mamas-dont-let-your-babies-grow-up-to-be-cowboys-cover])
+
 <br>
 
 ## Docdelay:
@@ -348,6 +355,13 @@
     10\. Order of the Alphabet ([YouTube][yt/track/order-of-the-alphabet])\
     11\. Pimphand ([YouTube][yt/track/pimphand])\
     12\. Hands Up (feat. Thirtyseven) ([YouTube][yt/track/alaskan-fishermen/hands-up])
+
+<br><br><br>
+<div align="left">
+    <img width="200" alt="I'm A Fool" src="images/I&apos;m A Fool.jpg" />
+</div>
+
+- #### I\'m A Fool ([YouTube][yt/track/im-fool])
 
 <br>
 
@@ -1289,6 +1303,9 @@
 [yt/track/going-through-your-stuff]: None
 [yt/track/spring]: None
 
+<!-- Mamas Don't Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover) -->
+[yt/track/mamas-dont-let-your-babies-grow-up-to-be-cowboys-cover]: https://youtu.be/uxrtBc2TGfA
+
 <!-- American Style Cardboard (2012) -->
 [bc/album/american-style-cardboard]: https://docdelay.bandcamp.com/album/american-style-cardboard
 [bc/track/a-bit-of-a-drag]: https://docdelay.bandcamp.com/track/a-bit-of-a-drag
@@ -1335,7 +1352,7 @@
 
 <!-- Alaskan Fishermen (2012) -->
 [lf/album/alaskan-fishermen]: https://www.last.fm/music/Alaskan+Fishermen/Alaskan+Fishermen
-[yt/album/alaskan-fishermen]: https://youtube.com/playlist?list=OLAK5uy_mZdU-AVZ9dhZ3GrNdSsJbTqJIrUPzng14&si=ZQWzYz8IbRACGknJ
+[yt/album/alaskan-fishermen]: https://youtube.com/playlist?list=OLAK5uy_mZdU-AVZ9dhZ3GrNdSsJbTqJIrUPzng14
 [yt/track/cult-classic]: https://youtu.be/BTW7Ve-sDVA
 [yt/track/the-new-now]: https://youtu.be/zJpAOUfPnXI
 [yt/track/dirt]: https://youtu.be/s7yEgzm-O-c
@@ -1348,6 +1365,9 @@
 [yt/track/order-of-the-alphabet]: https://youtu.be/OIGlR67JpBI
 [yt/track/pimphand]: https://youtu.be/3mNW-hkGTG8
 [yt/track/alaskan-fishermen/hands-up]: https://youtu.be/ELagixPYAkA
+
+<!-- I'm A Fool -->
+[yt/track/im-fool]: https://youtu.be/qsXdh1nO7dg
 
 <!-- Fear of Death and the Need for Reproduction (2014) -->
 [bc/album/fear-of-death-and-the-need-for-reproduction]: https://fdr1.bandcamp.com/album/fear-of-death-and-the-need-for-reproduction
