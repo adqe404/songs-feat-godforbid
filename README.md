@@ -436,13 +436,13 @@
 </div>
 
 - ### Camarah Walleed & Jaxn (2020) ([last.fm][lf/album/camarah-walleed-and-jaxn]; [YouTube][yt/album/camarah-walleed-and-jaxn])
-    **1\. Mami Blu (feat. Father Time & Godforbid) ([YouTube][yt/track/mami-blu])**\
+    ***1\. Mami Blu (feat. Father Time & Godforbid) ([YouTube][yt/track/mami-blu])***\
     2\. Flying Hammerz (feat. Louie Sincere & Jos Rockwell) ([YouTube][yt/track/flying-hammerz])\
     3\. Say That to Say This (feat. Jos Rockwell) ([YouTube][yt/track/say-that-to-say-this])\
     4\. Subtle Movements (feat. Father Time) ([YouTube][yt/track/subtle-movements])\
-    **5\. Hi-Speed Havok (feat. Father Time, King Author & Godforbid) ([YouTube][yt/track/hi-speed-havok])**\
-    **6\. Hey Kids! (feat. Godforbid) ([YouTube][yt/track/hey-kids])**\
-    **7\. Steel Sharpen Steel (feat. Father Time, Thirstin Howl the 3rd & Godforbid) ([YouTube][yt/track/steel-sharpen-steel])**\
+    ***5\. Hi-Speed Havok (feat. Father Time, King Author & Godforbid) ([YouTube][yt/track/hi-speed-havok])***\
+    ***6\. Hey Kids! (feat. Godforbid) ([YouTube][yt/track/hey-kids])***\
+    ***7\. Steel Sharpen Steel (feat. Father Time, Thirstin Howl the 3rd & Godforbid) ([YouTube][yt/track/steel-sharpen-steel])***\
     8\. Spitting Image ([YouTube][yt/track/spitting-image])\
     9\. Goodnight Irene ([YouTube][yt/track/goodnight-irene])\
     10\. Finer Things (feat. Father Time) ([YouTube][yt/track/finer-things])\
@@ -457,7 +457,7 @@
 - ### Ripple Effect (2020) ([Bandcamp][bc/album/ripple-effect]; [YouTube][yt/album/ripple-effect])
     1\. Ripple Effect ([Bandcamp][bc/track/ripple-effect])\
     2\. Can\'t Calm Me Down ([Bandcamp][bc/track/cant-calm-me-down]; [YouTube][yt/track/cant-calm-me-down])\
-    **3\. Beatz \'n\' Thangz (feat. Ajax Lo & Godforbid) ([Bandcamp][bc/track/beatz-n-thangz]; [YouTube][yt/track/beatz-n-thangz])**\
+    ***3\. Beatz \'n\' Thangz (feat. Ajax Lo & Godforbid) ([Bandcamp][bc/track/beatz-n-thangz]; [YouTube][yt/track/beatz-n-thangz])***\
     4\. Do You! (feat. Ajax Lo) ([Bandcamp][bc/track/do-you]; [YouTube][yt/track/do-you])\
     5\. Sandy\'s Message (Intro) ([Bandcamp][bc/track/sandys-message-intro])\
     6\. America? ([Bandcamp][bc/track/america]; [YouTube][yt/track/america])\
@@ -479,7 +479,7 @@
     6\. In Between the Lines (feat. Ms. B\'haved) ([Bandcamp][bc/track/in-between-the-lines]; [YouTube][yt/track/in-between-the-lines])\
     7\. Ain\'t Runnin\' with Me (feat. T.I.M.E.) ([Bandcamp][bc/track/aint-runnin-with-me]; [YouTube][yt/track/aint-runnin-with-me])\
     8\. Issue\'s ([Bandcamp][bc/track/issues]; [YouTube][yt/track/issues])\
-    **9\. Walk On (feat. Godforbid of T.H.D) ([Bandcamp][bc/track/walk-on]; [YouTube][yt/track/walk-on])**\
+    ***9\. Walk On (feat. Godforbid of T.H.D) ([Bandcamp][bc/track/walk-on]; [YouTube][yt/track/walk-on])***\
     10\. I Told Jesus ([Bandcamp][bc/track/i-told-jesus]; [YouTube][yt/track/i-told-jesus])\
     11\. 94.5 Skit Intro (Live) ([YouTube][yt/track/94.5-skit-intro-live])\
     12\. Make U Do Right ([Bandcamp][bc/track/make-u-do-right]; [YouTube][yt/track/make-u-do-right])\
@@ -499,7 +499,7 @@
 
 - ### The Backwards Thank You (2021) ([Bandcamp][bc/album/the-backwards-thank-you]; [YouTube][yt/album/the-backwards-thank-you])
     1\. Art of War ([Bandcamp][bc/track/art-of-war]; [YouTube][yt/track/art-of-war])\
-    **2\. Chrome (feat. Godforbid) ([Bandcamp][bc/track/the-backwards-thank-you/chrome]; [YouTube][yt/track/the-backwards-thank-you/chrome])**\
+    ***2\. Chrome (feat. Godforbid) ([Bandcamp][bc/track/the-backwards-thank-you/chrome]; [YouTube][yt/track/the-backwards-thank-you/chrome])***\
     3\. Einstein ([Bandcamp][bc/track/einstein]; [YouTube][yt/track/einstein])\
     4\. Pussy ([Bandcamp][bc/track/pussy]; [YouTube][yt/track/pussy])\
     5\. Hungry ([Bandcamp][bc/track/hungry]; [YouTube][yt/track/hungry])\
@@ -525,7 +525,7 @@
     3\. Animals (feat. Santosh Lalonde) ([Bandcamp][bc/track/animals]; [YouTube][yt/track/animals])\
     4\. Buried Alive ([Bandcamp][bc/track/buried-alive]; [YouTube][yt/track/buried-alive])\
     5\. Turn the Clocks Back (feat. Hua Li & Lex French) ([Bandcamp][bc/track/turn-the-clocks-back]; [YouTube][yt/track/turn-the-clocks-back])\
-    **6\. Build a Machine (feat. Godforbid) ([Bandcamp][bc/track/build-a-machine]; [YouTube][yt/track/build-a-machine])**
+    ***6\. Build a Machine (feat. Godforbid) ([Bandcamp][bc/track/build-a-machine]; [YouTube][yt/track/build-a-machine])***
 
 <br>
 
@@ -543,7 +543,7 @@
     4\. Walk On By ([YouTube][yt/track/walk-on-by])\
     5\. Shine On You Crazy Diamond ([YouTube][yt/track/shine-on-you-crazy-diamond])\
     6\. Wicked Game ([YouTube][yt/track/wicked-game])\
-    **7\. I\'m gonna be (500 miles) ([YouTube][yt/track/im-gonna-be-500-miles])**\
+    ***7\. I\'m gonna be (500 miles) ([YouTube][yt/track/im-gonna-be-500-miles])***\
     8\. Karma Police ([YouTube][yt/track/karma-police])\
     9\. Ride the Lightning ([YouTube][yt/track/ride-the-lightning])\
     10\. Cry Me a River ([YouTube][yt/track/cry-me-a-river])\
@@ -591,7 +591,7 @@
     6\. Break in the Action ([YouTube][yt/track/break-in-the-action])\
     7\. A Name to the Face ([YouTube][yt/track/a-name-to-the-face])\
     8\. This is Canon Now ([YouTube][yt/track/this-is-canon-now])\
-    **9\. So Strange ([YouTube][yt/track/so-strange])**\
+    ***9\. So Strange ([YouTube][yt/track/so-strange])***\
     10\. Young World ([YouTube][yt/track/young-world])
 
 <br>
@@ -617,7 +617,7 @@
 - ### FREAKSHOW (2024) ([Bandcamp][bc/album/freakshow]; [YouTube][yt/album/freakshow])
     1\. OPEN ([Bandcamp][bc/track/open]; [YouTube][yt/track/open])\
     2\. MRNG ([Bandcamp][bc/track/mrng]; [YouTube][yt/track/mrng])\
-    **3\. MUSIC THERAPY (feat. GODFORBID) ([Bandcamp][bc/track/music-therapy]; [YouTube][yt/track/music-therapy])**\
+    ***3\. MUSIC THERAPY (feat. GODFORBID) ([Bandcamp][bc/track/music-therapy]; [YouTube][yt/track/music-therapy])***\
     4\. SKNMX ([Bandcamp][bc/track/sknmx]; [YouTube][yt/track/sknmx])\
     5\. HOT! ([Bandcamp][bc/track/hot]; [YouTube][yt/track/hot])\
     6\. NO ([Bandcamp][bc/track/no]; [YouTube][yt/track/no])\
@@ -651,7 +651,7 @@
     8\. Oxygen (feat. Akil the MC) ([Bandcamp][bc/track/oxygen]; [YouTube][yt/track/oxygen])\
     9\. Mama Say (feat. Savannah McFarland) ([Bandcamp][bc/track/mama-say]; [YouTube][yt/track/mama-say])\
     10\. Cruel Summer (feat. Michael & Cade Parenti) ([Bandcamp][bc/track/cruel-summer]; [YouTube][yt/track/cruel-summer])\
-    **11\. Cubanas & Pina Coloda\'s (feat. Godforbid) ([Bandcamp][bc/track/cubanas-and-pina-colodas]; [YouTube][yt/track/cubanas-and-pina-colodas])**\
+    ***11\. Cubanas & Pina Coloda\'s (feat. Godforbid) ([Bandcamp][bc/track/cubanas-and-pina-colodas]; [YouTube][yt/track/cubanas-and-pina-colodas])***\
     12\. Hands Up ([Bandcamp][bc/track/where-do-i-go-from-here/hands-up]; [YouTube][yt/track/where-do-i-go-from-here/hands-up])\
     13\. Definition of Ill (feat. Ryu, Complex & Blade) ([Bandcamp][bc/track/definition-of-ill]; [YouTube][yt/track/definition-of-ill])\
     14\. Lights, Camera, Action (feat. IMANI) ([Bandcamp][bc/track/lights-camera-action]; [YouTube][yt/track/lights-camera-action])\
@@ -673,11 +673,11 @@
 - ### Know Thyself LP (2022) ([Bandcamp][bc/album/know-thyself-lp])
     1\. Groundhog\'s Day (feat. Kool A.D.) ([Bandcamp][bc/track/groundhogs-day]; [YouTube][yt/track/groundhogs-day])\
     2\. Polo (feat. Pajama Sam x A-F-R-O) ([Bandcamp][bc/track/polo]; [YouTube][yt/track/polo])\
-    **3\. Flower Print (feat. Godforbid x Thirstin Howl III) ([Bandcamp][bc/track/flower-print]; [YouTube][yt/track/flower-print])**\
+    ***3\. Flower Print (feat. Godforbid x Thirstin Howl III) ([Bandcamp][bc/track/flower-print]; [YouTube][yt/track/flower-print])***\
     4\. Really Real (feat. A-F-R-O x Nahte Renmus x Pajama Sam) ([Bandcamp][bc/track/really-real]; [YouTube][yt/track/really-real])\
     5\. The Other Side of the Footlights (feat. Louis Mackey) ([Bandcamp][bc/track/the-other-side-of-the-footlights]; [YouTube][yt/track/the-other-side-of-the-footlights])\
     6\. Expensive (feat. A-F-R-O x Mr. Muthafuckin\' eXquire) ([Bandcamp][bc/track/expensive]; [YouTube][yt/track/expensive])\
-    **7\. Know Thyself (feat. Godforbid x Mr. Muthafuckin\' eXquire x A-F-R-O) ([Bandcamp][bc/track/know-thyself]; [YouTube][yt/track/know-thyself])**\
+    ***7\. Know Thyself (feat. Godforbid x Mr. Muthafuckin\' eXquire x A-F-R-O) ([Bandcamp][bc/track/know-thyself]; [YouTube][yt/track/know-thyself])***\
     8\. Shirt Trade (feat. A-F-R-O x Pajama Sam) ([Bandcamp][bc/track/shirt-trade])\
     9\. Who is that Knows (feat. Defcee x Subtex) ([Bandcamp][bc/track/who-is-that-knows])\
     10\. Fool Fool (feat. A-F-R-O) ([Bandcamp][bc/track/fool-fool])\
@@ -692,7 +692,7 @@
     19\. Intoxicated Demigodz (feat. Kool A.D.) ([Bandcamp][bc/track/intoxicated-demigodz])\
     20\. Swim Along (feat. A-F-R-O x Nahte Renmus) ([Bandcamp][bc/track/swim-along])\
     21\. Kamala (feat. Mr. Muthafuckin\' eXquire x A-F-R-O) ([Bandcamp][bc/track/kamala])\
-    **22\. Flower Print (feat. Godforbid x Thirstin Howl III) (remix by Krohme) ([Bandcamp][bc/track/flower-print-remix])**
+    ***22\. Flower Print (feat. Godforbid x Thirstin Howl III) (remix by Krohme) ([Bandcamp][bc/track/flower-print-remix])***
 
 <br>
 
@@ -721,7 +721,7 @@
     4\. Black Tar (feat. PremRock & Has-Lo) ([Bandcamp][bc/track/black-tar]; [YouTube][yt/track/black-tar])\
     5\. Your Gods & Mine (feat. Zilla Rocca) ([Bandcamp][bc/track/your-gods-and-mine]; [YouTube][yt/track/your-gods-and-mine])\
     6\. The Blown Fuse (feat. Has-Lo) ([Bandcamp][bc/track/the-blown-fuse]; [YouTube][yt/track/the-blown-fuse])\
-    **7\. Jukebox Buddha (feat. Godforbid & Louis Mackey) ([Bandcamp][bc/track/jukebox-buddha]; [YouTube][yt/track/jukebox-buddha])**\
+    ***7\. Jukebox Buddha (feat. Godforbid & Louis Mackey) ([Bandcamp][bc/track/jukebox-buddha]; [YouTube][yt/track/jukebox-buddha])***\
     8\. Can\'t Go On Without You (feat. Astrid Engberg) ([Bandcamp][bc/track/cant-go-on-without-you]; [YouTube][yt/track/cant-go-on-without-you])\
     9\. Into the Dirt (feat. Elder Orange & Has-Lo) ([Bandcamp][bc/track/into-the-dirt]; [YouTube][yt/track/into-the-dirt])
 
@@ -744,7 +744,7 @@
     7\. These Nights (feat. Mike Titan) ([YouTube][yt/track/these-nights])\
     8\. They Gon Pay ([YouTube][yt/track/they-gon-pay])\
     9\. Pinky Promises (feat. J Bizz) ([YouTube][yt/track/pinky-promises])\
-    **10\. Line Em Up (feat. Godforbid & Camarah Walleed) ([YouTube][yt/track/line-em-up])**\
+    ***10\. Line Em Up (feat. Godforbid & Camarah Walleed) ([YouTube][yt/track/line-em-up])***\
     11\. Still Alive & Well ([YouTube][yt/track/still-alive-and-well])
 
 <br><br><br>
@@ -766,7 +766,7 @@
 - ### The Ceremony of Innocence (2022) ([Bandcamp][bc/album/the-ceremony-of-innocence]; [YouTube][yt/album/the-ceremony-of-innocence])
     1\. Ab Initio ([Bandcamp][bc/track/ab-initio])\
     2\. Cursed Earth (feat. Sleep Sinatra, Chino XL & Lord Goat) ([Bandcamp][bc/track/cursed-earth])\
-    **3\. Dark Water (feat. Godforbid & Thirstin Howl III) ([Bandcamp][bc/track/dark-water])**\
+    ***3\. Dark Water (feat. Godforbid & Thirstin Howl III) ([Bandcamp][bc/track/dark-water])***\
     4\. Charles Oakley (feat. Hell Razah, Shyheim, Myalansky & DJ Flipcyide) ([Bandcamp][bc/track/charles-oakley])\
     5\. Lycans (feat. Born Unique, Double A.B. & Sleep Sinatra) ([Bandcamp][bc/track/lycans])\
     6\. Et Bestia (Interlude) ([Bandcamp][bc/track/et-bestia])\
@@ -793,7 +793,7 @@
     4\. Crunchtime ([Google Drive][gd/track/crunchtime])\
     5\. Tomato (feat. Rhyminal & Grime Tha MC) ([Google Drive][gd/track/tomato])\
     6\. Throw Out Your Back ([Google Drive][gd/track/throw-out-your-back])\
-    **7\. You Want Fire? (feat. Excetera, Godforbid, White Mic & Egadz) ([Google Drive][gd/track/you-want-fire])**\
+    ***7\. You Want Fire? (feat. Excetera, Godforbid, White Mic & Egadz) ([Google Drive][gd/track/you-want-fire])***\
     8\. Settle Down ([Google Drive][gd/track/settle-down])\
     9\. Crowd Control (feat. Ed O.G., The Yukonn MC & DJ Frank White) ([Google Drive][gd/track/crowd-control])\
     10\. Bathtub ([Google Drive][gd/track/bathtub])\
@@ -823,12 +823,12 @@
 </div>
 
 - ### Welcome To Oz (2021) ([Apple Music][am/album/welcome-to-oz])
-    1\. Welcome To Oz
-    2\. NOW Replay (feat. Banana Who)
-    3\. Wicked (feat. Hayley Orrantia)
-    4\. KANSAS
-    5\. Haven\'t you heard? (feat. Jenny March)
-    **6\. Goodbye (feat. Godforbid) ([Google Drive][gd/track/goodbye])**
+    1\. Welcome To Oz\
+    2\. NOW Replay (feat. Banana Who)\
+    3\. Wicked (feat. Hayley Orrantia)\
+    4\. KANSAS\
+    5\. Haven\'t you heard? (feat. Jenny March)\
+    ***6\. Goodbye (feat. Godforbid) ([Google Drive][gd/track/goodbye])***\
     7\. All Together Now (feat. Mr. Mountain)
 
 <br>
@@ -841,9 +841,9 @@
 </div>
 
 - ### Spring Feast (2025) ([Bandcamp][bc/album/spring-feast]; [YouTube][yt/album/spring-feast])
-    **1\. Stoic Ownership (feat. Godforbid & Fishdoll) ([Bandcamp][bc/track/stoic-ownership]; [YouTube][yt/track/stoic-ownership])**\
+    ***1\. Stoic Ownership (feat. Godforbid & Fishdoll) ([Bandcamp][bc/track/stoic-ownership]; [YouTube][yt/track/stoic-ownership])***\
     2\. Until Skies Renew (feat. Fishdoll) ([Bandcamp][bc/track/until-skies-renew]; [YouTube][yt/track/until-skies-renew])\
-    **3\. Sidewalk Petrichor (feat. Godforbid) ([Bandcamp][bc/track/sidewalk-petrichor]; [YouTube][yt/track/sidewalk-petrichor])**\
+    ***3\. Sidewalk Petrichor (feat. Godforbid) ([Bandcamp][bc/track/sidewalk-petrichor]; [YouTube][yt/track/sidewalk-petrichor])***\
     4\. Spooky Thang?! ([Bandcamp][bc/track/spooky-thang]; [YouTube][yt/track/spooky-thang])\
     5\. WINDY ([Bandcamp][bc/track/windy]; [YouTube][yt/track/windy])\
     6\. Keep On (feat. Saso & Brian Lottermann) ([Bandcamp][bc/track/keep-on]; [YouTube][yt/track/keep-on])\
@@ -865,7 +865,7 @@
     1\. ELUSIVE ([Bandcamp][bc/track/elusive]; [Youtube][yt/track/elusive])\
     2\. JOAN ([Bandcamp][bc/track/joan]; [Youtube][yt/track/joan])\
     3\. SLOW ([Bandcamp][bc/track/slow]; [Youtube][yt/track/slow])\
-    **4\. DAMAGED (FT. GODFORBID) ([Bandcamp][bc/track/damaged]; [Youtube][yt/track/damaged])**\
+    ***4\. DAMAGED (FT. GODFORBID) ([Bandcamp][bc/track/damaged]; [Youtube][yt/track/damaged])***\
     5\. IN MY ROOM ([Bandcamp][bc/track/in-my-room]; [Youtube][yt/track/in-my-room])\
     6\. THIEVES ([Bandcamp][bc/track/thieves]; [Youtube][yt/track/thieves])\
     7\. OCEANIC ([Bandcamp][bc/track/oceanic]; [Youtube][yt/track/oceanic])\
@@ -889,7 +889,7 @@
     4\. The Meeahh ([Bandcamp][bc/track/the-meeahh])\
     5\. Pick Pocket ([Bandcamp][bc/track/pick-pocket])\
     6\. Ladder of Success ([Bandcamp][bc/track/ladder-of-success])\
-    **7\. Fishermen Files (feat. Alaskan Fishermen) ([Bandcamp][bc/track/fishermen-files])**\
+    ***7\. Fishermen Files (feat. Alaskan Fishermen) ([Bandcamp][bc/track/fishermen-files])***\
     8\. Slugz Blaze U Down ([Bandcamp][bc/track/slugz-blaze-u-down])\
     9\. Run Their Gonna Kill You ([Bandcamp][bc/track/run-their-gonna-kill-you])\
     10\. Toe To Toe ([Bandcamp][bc/track/toe-to-toe])\
@@ -901,7 +901,7 @@
     16\. RL Cartel ([Bandcamp][bc/track/rl-cartel])\
     17\. Trust No Bitch ([Bandcamp][bc/track/trust-no-bitch])\
     18\. Russian Rullet Muzik ([Bandcamp][bc/track/russian-rullet-muzik])\
-    **19\. Internet Digiteck (feat. GodForbid of Alaskan Fishermen) ([Bandcamp][bc/track/internet-digiteck])**\
+    ***19\. Internet Digiteck (feat. GodForbid of Alaskan Fishermen) ([Bandcamp][bc/track/internet-digiteck])***\
     20\. The Legacy ([Bandcamp][bc/track/the-legacy])\
     21\. Back To The Lab ([Bandcamp][bc/track/back-to-the-lab])\
     22\. Arizona\'s Greatest (feat. Atllas) ([Bandcamp][bc/track/arizonas-greatest])\
