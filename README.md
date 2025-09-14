@@ -1931,3 +1931,17 @@
 [bc/track/never-sold-my-sold]: https://racklo.bandcamp.com/track/never-sold-my-sold-feat-thirstin-howl-the-3rd
 [bc/track/steal]: https://racklo.bandcamp.com/track/steal-starring-rack-lo
 [bc/track/one-way-or-another]: https://racklo.bandcamp.com/track/one-way-or-another-feat-richie-balance
+
+<!-- AVGVSTVS (2017) -->
+[bc/album/avgvstvs]: https://louismackey.bandcamp.com/album/avgvstvs
+[bc/track/these-flying-days]: https://louismackey.bandcamp.com/track/these-flying-days
+[bc/track/rap-beers]: https://louismackey.bandcamp.com/track/rap-beers
+[bc/track/flammarion-garments]: https://louismackey.bandcamp.com/track/flammarion-garments
+[bc/track/same-old-same-old]: https://louismackey.bandcamp.com/track/same-old-same-old-2
+[bc/track/hyde-park-ave]: https://louismackey.bandcamp.com/track/hyde-park-ave
+[bc/track/interlude-jobes-lament]: https://louismackey.bandcamp.com/track/interlude-jobes-lament
+[bc/track/live-from-the-pit]: https://louismackey.bandcamp.com/track/live-from-the-pit
+[bc/track/paper-cups]: https://louismackey.bandcamp.com/track/paper-cups
+[bc/track/buckminster-fuller]: https://louismackey.bandcamp.com/track/buckminster-fuller-feat-godforbid
+[bc/track/it-cuts-either-way]: https://louismackey.bandcamp.com/track/it-cuts-either-way
+[bc/track/from-mouth-to-heart]: https://louismackey.bandcamp.com/track/from-mouth-to-heart
