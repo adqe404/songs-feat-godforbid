@@ -947,6 +947,28 @@
     24\. Steal ([Bandcamp][bc/track/steal])\
     25\. One Way Or Another (feat. Richie Balance) ([Bandcamp][bc/track/one-way-or-another])
 
+<br>
+
+## Louis Mackey:
+
+<br>
+<div align="left">
+    <img width="200" alt="AVGVSTVS (2017)" src="images/AVGVSTVS (2017).jpg" />
+</div>
+
+- ### AVGVSTVS (2017) ([Bandcamp][bc/album/avgvstvs])
+    1\. These Flying Days ([Bandcamp][bc/track/these-flying-days])\
+    2\. Rap Beers ([Bandcamp][bc/track/rap-beers])\
+    3\. Flammarion Garments ([Bandcamp][bc/track/flammarion-garments])\
+    4\. Same Old, Same Old ([Bandcamp][bc/track/same-old-same-old])\
+    5\. Hyde Park Ave. ([Bandcamp][bc/track/hyde-park-ave])\
+    6\. Interlude (Jobe\'s Lament) ([Bandcamp][bc/track/interlude-jobes-lament])\
+    7\. Live From the Pit ([Bandcamp][bc/track/live-from-the-pit])\
+    8\. Paper Cups ([Bandcamp][bc/track/paper-cups])\
+    ***9\. Buckminster Fuller (feat. Godforbid) ([Bandcamp][bc/track/buckminster-fuller])***\
+    10\. It Cuts Either Way ([Bandcamp][bc/track/it-cuts-either-way])\
+    11\. From Mouth to Heart ([Bandcamp][bc/track/from-mouth-to-heart])
+
 
 <!-- links -->
 
