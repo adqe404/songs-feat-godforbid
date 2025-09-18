@@ -787,6 +787,27 @@
 
 <br><br><br>
 <div align="left">
+    <img width="200" alt="Fistful of Dollar$ (2017)" src="images/Fistful of Dollar$ (2017).png" />
+</div>
+
+- ### Fistful of Dollar$ (2017) ([YouTube][yt/album/fistful-of-dollars])
+    1\. Personal Business ([YouTube][yt/track/personal-business])\
+    2\. End of the Day ([YouTube][yt/track/end-of-the-day])\
+    3\. Blood from a Stone ([YouTube][yt/track/blood-from-a-stone])\
+    4\. Hamo\'n Sazo\'n (feat. Lmw) ([YouTube][yt/track/hamon-sazon])\
+    5\. So Far Away ([YouTube][yt/track/so-far-away])\
+    6\. The Little Things ([YouTube][yt/track/the-little-things])\
+    ***7\. Rhyme & Punishment (feat. Father Time & That Handsome Devil) ([YouTube][yt/track/rhyme-and-punishment])***\
+    8\. From the Sticks to the Bricks (feat. Kaliber) ([YouTube][yt/track/from-the-sticks-to-the-bricks])\
+    9\. Glad You Think so (feat. Don P) ([YouTube][yt/track/glad-you-think-so])\
+    10\. Paradox ([YouTube][yt/track/paradox])\
+    11\. Take a Look Around ([YouTube][yt/track/take-a-look-around])\
+    12\. Marathon Monday ([YouTube][yt/track/marathon-monday])\
+    13\. Good to Bad ([YouTube][yt/track/good-to-bad])\
+    14\. Cold Case (feat. King Author) ([YouTube][yt/track/cold-case])
+
+<br><br><br>
+<div align="left">
     <img width="200" alt="Flutie Pass (2024)" src="images/Flutie Pass (2024).png" />
 </div>
 
@@ -1808,6 +1829,23 @@
 [yt/track/pinky-promises]: https://youtu.be/gNg0Catm5L4
 [yt/track/line-em-up]: https://youtu.be/4vtF2xqD_tg
 [yt/track/still-alive-and-well]: https://youtu.be/iXrg3DOEZu4
+
+<!-- Fistful of Dollar$ -->
+[yt/album/fistful-of-dollars]: https://youtube.com/playlist?list=OLAK5uy_lAZaWBPc2hB1AmNYyGZ-SYhLebP1iqW10
+[yt/track/personal-business]: https://youtu.be/-f7buQBrd6k
+[yt/track/end-of-the-day]: https://youtu.be/-DaV4zdKH6w
+[yt/track/blood-from-a-stone]: https://youtu.be/bbBFf2dzwUU
+[yt/track/hamon-sazon]: https://youtu.be/HAn00NKavzY
+[yt/track/so-far-away]: https://youtu.be/4sgES7PUtvo
+[yt/track/the-little-things]: https://youtu.be/xeYfeV_bZKI
+[yt/track/rhyme-and-punishment]: https://youtu.be/1FpWc7vpQ3o
+[yt/track/from-the-sticks-to-the-bricks]: https://youtu.be/wQ3bzn_SkoM
+[yt/track/glad-you-think-so]: https://youtu.be/xK8PYSqXqRk
+[yt/track/paradox]: https://youtu.be/D5lPNzJrPDI
+[yt/track/take-a-look-around]: https://youtu.be/XyrmakQge4M
+[yt/track/marathon-monday]: https://youtu.be/hK6WWmU_H6o
+[yt/track/good-to-bad]: https://youtu.be/1EpiNhQ7ehU
+[yt/track/cold-case]: https://youtu.be/J3YQsI5uMhw
 
 <!-- Flutie Pass (2024) -->
 [yt/track/flutie-pass]: https://youtu.be/BYSYv9hdWOo
