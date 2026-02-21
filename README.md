@@ -162,6 +162,15 @@
 
 <br><br><br>
 <div align="left">
+    <img width="200" alt="2 For Flinching (2025)" src="images/2 For Flinching (2025).jpg" />
+</div>
+
+- ### 2 For Flinching (2025) ([Bandcamp][bc/album/2-for-flinching]; [YouTube][yt/album/2-for-flinching])
+    1\. You\'ll Never Leave New York ([Bandcamp][bc/track/youll-never-leave-new-york]; [YouTube][yt/track/youll-never-leave-new-york])\
+    2\. Let\'s Commit Crimes Together ([Bandcamp][bc/track/lets-commit-crimes-together]; [YouTube][yt/track/lets-commit-crimes-together])
+
+<br><br><br>
+<div align="left">
     <img width="200" alt="Hating New People" src="images/Hating New People.webp" />
 </div>
 
@@ -528,6 +537,29 @@
 
 <br>
 
+## Havok House:
+
+<br>
+<div align="left">
+    <img width="200" alt="Declaration Of Independence (2001)" src="images/Declaration Of Independence (2001).jpg" />
+</div>
+
+- ### Declaration Of Independence (2001) ([Discogs][ds/album/declaration-of-independence]; [YouTube][yt/album/declaration-of-independence])
+    1\. Yo Jaxn ([YouTube][yt/track/yo-jaxn])\
+    2\. Shit Happens ([YouTube][yt/track/shit-happens])\
+    3\. Mission Control ([YouTube][yt/track/mission-control])\
+    4\. Scattered Pictures ([YouTube][yt/track/scattered-pictures])\
+    ***5\. Irresponsible ([YouTube][yt/track/irresponsible])***\
+    6\. Be Safe ([YouTube][yt/track/be-safe])\
+    7\. Declaration Of Independence ([YouTube][yt/track/declaration-of-independence])\
+    8\. Growing Pains ([YouTube][yt/track/growing-pains])\
+    9\. Blitz ([YouTube][yt/track/blitz])\
+    10\. Free Will ([YouTube][yt/track/free-will])\
+    11\. Crown Jewel ([YouTube][yt/track/crown-jewel])\
+    12\. Silent Rogue ([YouTube][yt/track/silent-rogue])
+
+<br>
+
 ## Princess Problems:
 
 <br>
@@ -648,6 +680,19 @@
 ## Skipp Whitman:
 
 <br>
+<div align="left">
+    <img width="200" alt="HERMOSA (2020)" src="images/HERMOSA (2020).jpg" />
+</div>
+
+- ### HERMOSA (2020) ([Bandcamp][bc/album/hermosa]; [YouTube][yt/album/hermosa])
+    ***1\. Hermosa ft. That Handsome Devil ([Bandcamp][bc/track/hermosa-ft-that-handsome-devil]; [YouTube][yt/track/hermosa-ft-that-handsome-devil])***\
+    2\. Bloody Mary ([Bandcamp][bc/track/bloody-mary]; [YouTube][yt/track/bloody-mary])\
+    3\. Let That Go! ([Bandcamp][bc/track/let-that-go]; [YouTube][yt/track/let-that-go])\
+    4\. Player ft. Kendra Morris ([Bandcamp][bc/track/player-ft-kendra-morris]; [YouTube][yt/track/player-ft-kendra-morris])\
+    5\. Never Afraid ([Bandcamp][bc/track/never-afraid]; [YouTube][yt/track/never-afraid])\
+    6\. Lana Baby ([Bandcamp][bc/track/lana-baby]; [YouTube][yt/track/lana-baby])\
+
+<br><br><br>
 <div align="left">
     <img width="200" alt="FREAKSHOW (2024)" src="images/FREAKSHOW (2024).png" />
 </div>
@@ -1224,6 +1269,15 @@
 [yt/track/crooked-heart]: https://youtu.be/R9HBtB3CBVA
 [yt/track/the-toilet-that-killed-elvis]: https://youtu.be/WemDEG5slzo
 
+<!-- 2 For Flinching (2026) -->
+[bc/album/2-for-flinching]: https://thathandsomedevil.bandcamp.com/album/2-for-flinching
+[bc/track/youll-never-leave-new-york]: https://thathandsomedevil.bandcamp.com/track/youll-never-leave-new-york
+[bc/track/lets-commit-crimes-together]: https://thathandsomedevil.bandcamp.com/track/lets-commit-crimes-together
+
+[yt/album/2-for-flinching]: https://youtube.com/playlist?list=OLAK5uy_lCenGXyFFeOJQvN1saLzdu-YfCGIew0PA
+[yt/track/youll-never-leave-new-york]: https://youtu.be/6_Blkjw-hww
+[yt/track/lets-commit-crimes-together]: https://youtu.be/jshy2mPDHpw
+
 <!-- That Handsome Devil: Other -->
 [bc/track/charlie-2-the-money-grab]: https://thathandsomedevil.bandcamp.com/track/charlie-2-the-money-grab
 
@@ -1600,6 +1654,23 @@
 [yt/track/feel-free]: https://youtu.be/yCoYLcaG4A4
 [yt/track/cant-breath]: https://youtu.be/1yLynuQ7QFE
 
+<!-- Declaration Of Independence (2001) -->
+[ds/album/declaration-of-independence]: https://www.discogs.com/release/14424918-Havok-House-Declaration-Of-Independence
+
+[yt/album/declaration-of-independence]: https://youtube.com/playlist?list=OLAK5uy_mP2MVT_D7HE7q6WZmCS0qUv3liTpb3e7c&si=3-irYi168sGg8uxD
+[yt/track/yo-jaxn]: https://youtu.be/sR3RvouRQ2U
+[yt/track/shit-happens]: https://youtu.be/gJtLYG2vGcc
+[yt/track/mission-control]: https://youtu.be/aTh-gecP_pM
+[yt/track/scattered-pictures]: https://youtu.be/-3wcyzBSKM0
+[yt/track/irresponsible]: https://youtu.be/JdgMD-R9VGU
+[yt/track/be-safe]: https://youtu.be/PYSqjEOIPt4
+[yt/track/declaration-of-independence]: https://youtu.be/3xtFxKy7N2Q
+[yt/track/growing-pains]: https://youtu.be/VgprgKYp620
+[yt/track/blitz]: https://youtu.be/uOijogbD2no
+[yt/track/free-will]: https://youtu.be/cJ0bh282I1s
+[yt/track/crown-jewel]: https://youtu.be/K88z4vxpd0k
+[yt/track/silent-rogue]: https://youtu.be/P3nAO3yH4DU
+
 <!-- The Backwards Thank You (2021) -->
 [bc/album/the-backwards-thank-you]: https://princessproblems.bandcamp.com/album/the-backwards-thank-you-2
 [bc/track/art-of-war]: https://princessproblems.bandcamp.com/track/art-of-war-3
@@ -1686,6 +1757,23 @@
 
 <!-- Hungry Wolf (New York Remix) (2015) -->
 [yt/track/hungry-wolf-new-york-remix]: https://youtu.be/unoYvcFsGVU
+
+<!-- HERMOSA (2024) -->
+[bc/album/hermosa]: https://skippwhitman.bandcamp.com/album/hermosa
+[bc/track/hermosa-ft-that-handsome-devil]: https://skippwhitman.bandcamp.com/track/hermosa-ft-that-handsome-devil
+[bc/track/bloody-mary]: https://skippwhitman.bandcamp.com/track/bloody-mary
+[bc/track/let-that-go]: https://skippwhitman.bandcamp.com/track/let-that-go
+[bc/track/player-ft-kendra-morris]: https://skippwhitman.bandcamp.com/track/player-ft-kendra-morris
+[bc/track/never-afraid]: https://skippwhitman.bandcamp.com/track/never-afraid
+[bc/track/lana-baby]: https://skippwhitman.bandcamp.com/track/lana-baby
+
+[yt/album/hermosa]: https://youtube.com/playlist?list=OLAK5uy_nqshCiJOZBdOuf_kFxoe0pDPVFt-I0TI0
+[yt/track/hermosa-ft-that-handsome-devil]: https://youtu.be/aOqDJvMbaSQ
+[yt/track/bloody-mary]: https://youtu.be/bZtMEJ8meP8
+[yt/track/let-that-go]: https://youtu.be/5uqWEVFgoIg
+[yt/track/player-ft-kendra-morris]: https://youtu.be/M6VNHpNM6qs
+[yt/track/never-afraid]: https://youtu.be/afCCCdlopbQ
+[yt/track/lana-baby]: https://youtu.be/Y6E5HgmH9wc
 
 <!-- FREAKSHOW (2024) -->
 [bc/album/freakshow]: https://skippwhitman.bandcamp.com/album/freakshow
