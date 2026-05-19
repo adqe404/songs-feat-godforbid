@@ -1,22 +1,35 @@
-# List of songs featuring Christian James Oppel (aka. Godforbid)
+# Christian James Oppel — Discography
 
-<br>
+> A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**), across all projects and collaborations.
+
+---
 
 ## That Handsome Devil:
 
-<br>
-<div align="left">
-    <img width="200" alt="That Handsome Devil (2005)" src="images/That Handsome Devil (2005).jpg" />
+<div align="center">
+
+- ### That Handsome Devil (2005)
+
+<font size="5">
+
+[Bandcamp][bc/album/that-handsome-devil] · [YouTube][yt/album/that-handsome-devil]
+
+</font>
 </div>
 
-- ### That Handsome Devil (2005) ([Bandcamp][bc/album/that-handsome-devil]; [YouTube][yt/album/that-handsome-devil])
-    1\. Standing Room In Heaven ([Bandcamp][bc/track/standing-room-in-heaven]; [YouTube][yt/track/standing-room-in-heaven])\
-    2\. Yada Yada ([Bandcamp][bc/track/yada-yada]; [YouTube][yt/track/yada-yada])\
-    3\. Sleep it Off ([Bandcamp][bc/track/sleep-it-off]; [YouTube][yt/track/sleep-it-off])\
-    4\. Elephant Bones ([Bandcamp][bc/track/elephant-bones]; [YouTube][yt/track/elephant-bones])\
-    5\. Dating Tips ([Bandcamp][bc/track/dating-tips]; [YouTube][yt/track/dating-tips])\
-    6\. Miss America ([Bandcamp][bc/track/miss-america]; [YouTube][yt/track/miss-america])\
-    7\. James Dean ([Bandcamp][bc/track/james-dean]; [YouTube][yt/track/james-dean])
+<div align="center">
+    <img width="240" alt="That Handsome Devil (2005)" src="images/That Handsome Devil (2005).jpg" />
+</div>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Standing Room In Heaven | [Bandcamp][bc/track/standing-room-in-heaven] · [YouTube][yt/track/standing-room-in-heaven] |
+| 2 | Yada Yada | [Bandcamp][bc/track/yada-yada] · [YouTube][yt/track/yada-yada] |
+| 3 | Sleep it Off | [Bandcamp][bc/track/sleep-it-off] · [YouTube][yt/track/sleep-it-off] |
+| 4 | Elephant Bones | [Bandcamp][bc/track/elephant-bones] · [YouTube][yt/track/elephant-bones] |
+| 5 | Dating Tips | [Bandcamp][bc/track/dating-tips] · [YouTube][yt/track/dating-tips] |
+| 6 | Miss America | [Bandcamp][bc/track/miss-america] · [YouTube][yt/track/miss-america] |
+| 7 | James Dean | [Bandcamp][bc/track/james-dean] · [YouTube][yt/track/james-dean] |
 
 <br><br><br>
 <div align="left">
