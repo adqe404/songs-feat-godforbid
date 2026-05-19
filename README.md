@@ -1,6 +1,6 @@
 # Christian James Oppel — Discography
 
-> [!TIP]
+> [!NOTE]
 > A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**), across all projects and collaborations.
 
 ---
@@ -10,11 +10,8 @@
 <div align="center">
 
 ### That Handsome Devil (2005)
-<font size="5">
 
-[Bandcamp][bc/album/that-handsome-devil] · [YouTube][yt/album/that-handsome-devil]
-
-</font>
+#### [Bandcamp][bc/album/that-handsome-devil] · [YouTube][yt/album/that-handsome-devil]
 
 <img width="240" alt="That Handsome Devil (2005)" src="images/That Handsome Devil (2005).jpg"/>
 
@@ -30,28 +27,42 @@
 
 </div>
 
-<br><br><br>
-<div align="left">
-    <img width="200" alt="A City Dressed In Dynamite (2008)" src="images/A City Dressed in Dynamite (2008).png" />
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+### A City Dressed In Dynamite (2008)
+
+#### [Bandcamp][bc/album/a-city-dressed-in-dynamite] · [YouTube][yt/album/a-city-dressed-in-dynamite]
+
+<img width="240" alt="A City Dressed In Dynamite (2008)" src="images/A City Dressed in Dynamite (2008).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Damn Door | [Bandcamp][bc/track/damn-door] · [YouTube][yt/track/damn-door] |
+| 2 | Wintergreen | [Bandcamp][bc/track/wintergreen] · [YouTube][yt/track/wintergreen] |
+| 3 | Rob The Prez-O-Dent | [Bandcamp][bc/track/rob-the-prez-o-dent] · [YouTube][yt/track/rob-the-prez-o-dent] |
+| 4 | Pills For Everything | [Bandcamp][bc/track/pills-for-everything] · [YouTube][yt/track/pills-for-everything] |
+| 5 | Cry | [Bandcamp][bc/track/cry] · [YouTube][yt/track/cry] |
+| 6 | Kiss The Cook | [Bandcamp][bc/track/kiss-the-cook] · [YouTube][yt/track/kiss-the-cook] |
+| 7 | Viva Discordia | [Bandcamp][bc/track/viva-discordia] · [YouTube][yt/track/viva-discordia] |
+| 8 | Squares | [Bandcamp][bc/track/squares] · [YouTube][yt/track/squares] |
+| 9 | Mexico | [Bandcamp][bc/track/mexico] · [YouTube][yt/track/mexico] |
+| 10 | Reagan\'s Kids | [YouTube][yt/track/reagans-kids] |
+| 11 | Treefood | [Bandcamp][bc/track/treefood] · [YouTube][yt/track/treefood] |
+| 12 | Atom Shell | [YouTube][yt/track/atom-shell] |
+| 13 | Karaoke Burial | [YouTube][yt/track/karaoke-burial] |
+| 14 | Power Drunk | [YouTube][yt/track/power-drunk] |
+| 15 | Powderbomb | [YouTube][yt/track/powderbomb] |
+| 16 | Romance Is Dead | [YouTube][yt/track/romance-is-dead] |
+
 </div>
 
-- ### A City Dressed In Dynamite (2008) ([Bandcamp][bc/album/a-city-dressed-in-dynamite]; [YouTube][yt/album/a-city-dressed-in-dynamite])
-    1\. Damn Door ([Bandcamp][bc/track/damn-door]; [YouTube][yt/track/damn-door])\
-    2\. Wintergreen ([Bandcamp][bc/track/wintergreen]; [YouTube][yt/track/wintergreen])\
-    3\. Rob The Prez-O-Dent ([Bandcamp][bc/track/rob-the-prez-o-dent]; [YouTube][yt/track/rob-the-prez-o-dent])\
-    4\. Pills For Everything ([Bandcamp][bc/track/pills-for-everything]; [YouTube][yt/track/pills-for-everything])\
-    5\. Cry ([Bandcamp][bc/track/cry]; [YouTube][yt/track/cry])\
-    6\. Kiss The Cook ([Bandcamp][bc/track/kiss-the-cook]; [YouTube][yt/track/kiss-the-cook])\
-    7\. Viva Discordia ([Bandcamp][bc/track/viva-discordia]; [YouTube][yt/track/viva-discordia])\
-    8\. Squares ([Bandcamp][bc/track/squares]; [YouTube][yt/track/squares])\
-    9\. Mexico ([Bandcamp][bc/track/mexico]; [YouTube][yt/track/mexico])\
-    10\. Reagan\'s Kids ([YouTube][yt/track/reagans-kids])\
-    11\. Treefood ([Bandcamp][bc/track/treefood]; [YouTube][yt/track/treefood])\
-    12\. Atom Shell ([YouTube][yt/track/atom-shell])\
-    13\. Karaoke Burial ([YouTube][yt/track/karaoke-burial])\
-    14\. Power Drunk ([YouTube][yt/track/power-drunk])\
-    15\. Powderbomb ([YouTube][yt/track/powderbomb])\
-    16\. Romance Is Dead ([YouTube][yt/track/romance-is-dead])
+<br clear="right"/>
+
+---
 
 <br><br><br>
 <div align="left">
