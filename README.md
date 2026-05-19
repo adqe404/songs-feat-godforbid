@@ -10,12 +10,7 @@
 
 ### That Handsome Devil (2005)
 
-<font size="5">
-
 [Bandcamp][bc/album/that-handsome-devil] · [YouTube][yt/album/that-handsome-devil]
-
-</font>
-</div>
 
 <div align="center">
     <img width="240" alt="That Handsome Devil (2005)" src="images/That Handsome Devil (2005).jpg" />
@@ -30,6 +25,8 @@
 | 5 | Dating Tips | [Bandcamp][bc/track/dating-tips] · [YouTube][yt/track/dating-tips] |
 | 6 | Miss America | [Bandcamp][bc/track/miss-america] · [YouTube][yt/track/miss-america] |
 | 7 | James Dean | [Bandcamp][bc/track/james-dean] · [YouTube][yt/track/james-dean] |
+
+</div>
 
 <br><br><br>
 <div align="left">
