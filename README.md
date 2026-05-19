@@ -8,7 +8,7 @@
 
 <div align="center">
 
-- ### That Handsome Devil (2005)
+### That Handsome Devil (2005)
 
 <font size="5">
 
