@@ -1,6 +1,6 @@
 # Christian James Oppel — Discography
 
-> [!INFO]
+> [!TIP]
 > A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**), across all projects and collaborations.
 
 ---
@@ -10,8 +10,11 @@
 <div align="center">
 
 ### That Handsome Devil (2005)
+<font size="5">
 
 [Bandcamp][bc/album/that-handsome-devil] · [YouTube][yt/album/that-handsome-devil]
+
+</font>
 
 <img width="240" alt="That Handsome Devil (2005)" src="images/That Handsome Devil (2005).jpg"/>
 
