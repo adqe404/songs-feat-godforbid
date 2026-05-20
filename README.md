@@ -1,7 +1,9 @@
 # Christian James Oppel — Discography
 
+A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**), across all projects and collaborations.
+
 > [!NOTE]
-> A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**), across all projects and collaborations.
+> In some albums, Godforbid-featured tracks highlighted in ***bold***, without features in <ins>_underline_</ins>
 
 ---
 
@@ -102,7 +104,7 @@
 | 4 | March | [Bandcamp][bc/track/march] · [YouTube][yt/track/march] |
 | 5 | Fire | [Bandcamp][bc/track/fire] · [YouTube][yt/track/fire] |
 | 6 | Bare | [Bandcamp][bc/track/bare] · [YouTube][yt/track/bare] |
-| 7 | Home | [Bandcamp][bc/track/home] · [YouTube][yt/track/home] |
+| <ins>_7_</ins> | <ins>_Home_</ins> | [Bandcamp][bc/track/home] · [YouTube][yt/track/home] |
 
 </div>
 
