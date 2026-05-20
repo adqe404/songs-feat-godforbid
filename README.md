@@ -11,7 +11,7 @@
 
 ### That Handsome Devil (2005)
 
-#### [Bandcamp][bc/album/that-handsome-devil] · [YouTube][yt/album/that-handsome-devil]
+[Bandcamp][bc/album/that-handsome-devil] · [YouTube][yt/album/that-handsome-devil]
 
 <img width="240" alt="That Handsome Devil (2005)" src="images/That Handsome Devil (2005).jpg"/>
 
@@ -35,7 +35,7 @@
 
 ### A City Dressed In Dynamite (2008)
 
-#### [Bandcamp][bc/album/a-city-dressed-in-dynamite] · [YouTube][yt/album/a-city-dressed-in-dynamite]
+[Bandcamp][bc/album/a-city-dressed-in-dynamite] · [YouTube][yt/album/a-city-dressed-in-dynamite]
 
 <img width="240" alt="A City Dressed In Dynamite (2008)" src="images/A City Dressed in Dynamite (2008).png"/>
 
@@ -68,7 +68,7 @@
 
 ### Enlightenment\'s For Suckers (2009)
 
-#### [Bandcamp][bc/album/enlightenments-for-suckers] · [YouTube][yt/album/enlightenments-for-suckers]
+[Bandcamp][bc/album/enlightenments-for-suckers] · [YouTube][yt/album/enlightenments-for-suckers]
 
 <img width="240" alt="Enlightenment's For Suckers (2009)" src="images/Enlightement's For Suckers (2009).png"/>
 
@@ -90,7 +90,7 @@
 
 ### The Jungle Book (2010)
 
-#### [Bandcamp][bc/album/the-jungle-book] · [YouTube][yt/album/the-jungle-book]
+[Bandcamp][bc/album/the-jungle-book] · [YouTube][yt/album/the-jungle-book]
 
 <img width="240" alt="The Jungle Book (2010)" src="images/The Jungle Book (2010).jpg"/>
 
@@ -114,7 +114,7 @@
 
 ### The Heart Goes To Heaven, The Head Goes To Hell (2011)
 
-#### [Bandcamp][bc/album/the-heart-goes-to-heaven-the-head-goes-to-hell] · [YouTube][yt/album/the-heart-goes-to-heaven-the-head-goes-to-hell]
+[Bandcamp][bc/album/the-heart-goes-to-heaven-the-head-goes-to-hell] · [YouTube][yt/album/the-heart-goes-to-heaven-the-head-goes-to-hell]
 
 <img width="240" alt="The Heart Goes To Heaven, The Head Goes To Hell (2011)" src="images/The Heart Goes To Heaven, The Head Goes To Hell (2011).png"/>
 
@@ -144,7 +144,7 @@
 
 ### Drugs & Guns For Everyone (2014)
 
-#### [Bandcamp][bc/album/drugs-guns-for-everyone] · [YouTube][yt/album/drugs-guns-for-everyone]
+[Bandcamp][bc/album/drugs-guns-for-everyone] · [YouTube][yt/album/drugs-guns-for-everyone]
 
 <img width="240" alt="Drugs & Guns For Everyone (2014)" src="images/Drugs & Guns For Everyone (2014).jpg"/>
 
@@ -173,7 +173,7 @@
 
 ### History Is A Suicide Note (2017)
 
-#### [Bandcamp][bc/album/history-is-a-suicide-note] · [YouTube][yt/album/history-is-a-suicide-note]
+[Bandcamp][bc/album/history-is-a-suicide-note] · [YouTube][yt/album/history-is-a-suicide-note]
 
 <img width="240" alt="History Is A Suicide Note (2017)" src="images/History Is A Suicide Note (2017).jpg"/>
 
@@ -196,7 +196,7 @@
 
 ### Your Parents Are Sellouts (2021)
 
-#### [Bandcamp][bc/album/your-parents-are-sellouts] · [YouTube][yt/album/your-parents-are-sellouts]
+[Bandcamp][bc/album/your-parents-are-sellouts] · [YouTube][yt/album/your-parents-are-sellouts]
 
 <img width="240" alt="Your Parents Are Sellouts (2021)" src="images/Your Parents Are Sellouts (2021).png"/>
 
@@ -227,7 +227,7 @@
 
 ### Exploitopia (2024)
 
-#### [Bandcamp][bc/album/exploitopia] · [YouTube][yt/album/exploitopia]
+[Bandcamp][bc/album/exploitopia] · [YouTube][yt/album/exploitopia]
 
 <img width="240" alt="Exploitopia (2024)" src="images/Exploitopia (2024).jpg"/>
 
@@ -257,7 +257,7 @@
 
 ### 2 For Flinching (2025)
 
-#### [Bandcamp][bc/album/2-for-flinching] · [YouTube][yt/album/2-for-flinching]
+[Bandcamp][bc/album/2-for-flinching] · [YouTube][yt/album/2-for-flinching]
 
 <img width="240" alt="2 For Flinching (2025)" src="images/2 For Flinching (2025).jpg"/>
 
@@ -328,7 +328,7 @@
 
 ### Jesus Chrysler (2018)
 
-#### [Bandcamp][bc/album/jesus-chrysler] · [YouTube][yt/album/jesus-chrysler]
+[Bandcamp][bc/album/jesus-chrysler] · [YouTube][yt/album/jesus-chrysler]
 
 <img width="240" alt="Jesus Chrysler (2018)" src="images/Jesus Chrysler (2018).jpg"/>
 
@@ -355,7 +355,7 @@
 
 ### How to Make Your Art Matter (2020)
 
-#### [Bandcamp][bc/album/how-to-make-your-art-matter] · [YouTube][yt/album/how-to-make-your-art-matter]
+[Bandcamp][bc/album/how-to-make-your-art-matter] · [YouTube][yt/album/how-to-make-your-art-matter]
 
 <img width="240" alt="How to Make Your Art Matter (2020)" src="images/How to Make Your Art Matter (2020).jpg"/>
 
@@ -382,7 +382,7 @@
 
 ### Tales of the Haunted Microphone (2021)
 
-#### [Bandcamp][bc/album/tales-of-the-haunted-microphone] · [YouTube][yt/album/tales-of-the-haunted-microphone]
+[Bandcamp][bc/album/tales-of-the-haunted-microphone] · [YouTube][yt/album/tales-of-the-haunted-microphone]
 
 <img width="240" alt="Tales of the Haunted Microphone (2021)" src="images/Tales of the Haunted Microphone (2021).png"/>
 
@@ -406,7 +406,7 @@
 
 ### Tales of the Haunted Microphone 2 (2023)
 
-#### [Bandcamp][bc/album/tales-of-the-haunted-microphone-2] · [YouTube][yt/album/tales-of-the-haunted-microphone-2]
+[Bandcamp][bc/album/tales-of-the-haunted-microphone-2] · [YouTube][yt/album/tales-of-the-haunted-microphone-2]
 
 <img width="240" alt="Tales of the Haunted Microphone 2 (2023)" src="images/Tales of the Haunted Microphone 2 (2023).png"/>
 
@@ -433,7 +433,7 @@
 
 ### The Sound of Me Coping with Loss (2024)
 
-#### [Bandcamp][bc/album/the-sound-of-me-coping-with-loss]
+[Bandcamp][bc/album/the-sound-of-me-coping-with-loss]
 
 <img width="240" alt="The Sound of Me Coping with Loss (2024)" src="images/The Sound of Me Coping with Loss (2024).jpg"/>
 
@@ -454,7 +454,7 @@
 
 ### Mamas Don\'t Let Your Babies Grow Up To Be Cowboys — Larry Lee Oppel & Godforbid (Cover)
 
-#### [YouTube][yt/track/mamas-dont-let-your-babies-grow-up-to-be-cowboys-cover]
+[YouTube][yt/track/mamas-dont-let-your-babies-grow-up-to-be-cowboys-cover]
 
 <img width="240" alt="Mamas Don't Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover)" src="images/Mamas Don't Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover).jpg"/>
 
@@ -470,7 +470,7 @@
 
 ### American Style Cardboard (2012)
 
-#### [Bandcamp][bc/album/american-style-cardboard] · [YouTube][yt/album/american-style-cardboard]
+[Bandcamp][bc/album/american-style-cardboard] · [YouTube][yt/album/american-style-cardboard]
 
 <img width="240" alt="American Style Cardboard (2012)" src="images/American Style Cardboard (2012).jpg"/>
 
@@ -497,7 +497,7 @@
 
 ### Fire & Ice (2002)
 
-#### [Official Site][os/album/fire-and-ice] · [last.fm][lf/album/fire-and-ice] · [YouTube][yt/album/fire-and-ice]
+[Official Site][os/album/fire-and-ice] · [last.fm][lf/album/fire-and-ice] · [YouTube][yt/album/fire-and-ice]
 
 <img width="240" alt="Fire & Ice (2002)" src="images/Fire & Ice (2002).webp"/>
 
@@ -532,7 +532,7 @@
 
 ### Alaskan Fishermen (2012)
 
-#### [last.fm][lf/album/alaskan-fishermen] · [YouTube][yt/album/alaskan-fishermen]
+[last.fm][lf/album/alaskan-fishermen] · [YouTube][yt/album/alaskan-fishermen]
 
 <img width="240" alt="Alaskan Fishermen (2012)" src="images/Alaskan Fishermen (2012).webp"/>
 
@@ -561,7 +561,7 @@
 
 ### I\'m A Fool
 
-#### [YouTube][yt/track/im-fool]
+[YouTube][yt/track/im-fool]
 
 <img width="240" alt="I'm A Fool" src="images/I'm A Fool.jpg"/>
 
@@ -577,7 +577,7 @@
 
 ### Fear of Death and the Need for Reproduction (2014)
 
-#### [Bandcamp][bc/album/fear-of-death-and-the-need-for-reproduction]
+[Bandcamp][bc/album/fear-of-death-and-the-need-for-reproduction]
 
 <img width="240" alt="Fear of Death and the Need for Reproduction (2014)" src="images/Fear of Death and the Need for Reproduction (2014).jpg"/>
 
@@ -600,7 +600,7 @@
 
 ### Anthembanger 2012 (2014)
 
-#### [Bandcamp][bc/track/anthembanger-2012]
+[Bandcamp][bc/track/anthembanger-2012]
 
 <img width="240" alt="Anthembanger 2012 (2014)" src="images/Anthembanger 2012 (2014).jpg"/>
 
@@ -616,7 +616,7 @@
 
 ### Singles 2011-2012 (2013)
 
-#### [Bandcamp][bc/album/singles-2001-2012]
+[Bandcamp][bc/album/singles-2001-2012]
 
 <img width="240" alt="Big Day for the Little People (2012)" src="images/Big Day for the Little People (2012).jpg"/>
 
@@ -643,7 +643,7 @@
 
 ### We Are World Around Vol. 4. (2014)
 
-#### [Bandcamp][bc/album/we-are-world-around-vol-4]
+[Bandcamp][bc/album/we-are-world-around-vol-4]
 
 <img width="240" alt="We Are World Around Vol. 4. (2014)" src="images/We Are World Around Vol. 4. (2014).jpg"/>
 
@@ -673,7 +673,7 @@
 
 ### Monolith (2020)
 
-#### [Bandcamp][bc/album/monolith]
+[Bandcamp][bc/album/monolith]
 
 <img width="240" alt="Monolith (2020)" src="images/Monolith (2020).jpg"/>
 
@@ -698,7 +698,7 @@
 
 ### Ugly at Times (2018)
 
-#### [last.fm][lf/album/ugly-at-times] · [YouTube][yt/album/ugly-at-times]
+[last.fm][lf/album/ugly-at-times] · [YouTube][yt/album/ugly-at-times]
 
 <img width="240" alt="Ugly at Times (2018)" src="images/Ugly at Times (2018).png"/>
 
@@ -718,7 +718,7 @@
 
 ### No More Love Songs (2020)
 
-#### [YouTube][yt/track/no-more-love-songs]
+[YouTube][yt/track/no-more-love-songs]
 
 <img width="240" alt="No More Love Songs (2020)" src="images/No More Love Songs (2020).jpg"/>
 
@@ -734,7 +734,7 @@
 
 ### Camarah Walleed & Jaxn (2020)
 
-#### [last.fm][lf/album/camarah-walleed-and-jaxn] · [YouTube][yt/album/camarah-walleed-and-jaxn]
+[last.fm][lf/album/camarah-walleed-and-jaxn] · [YouTube][yt/album/camarah-walleed-and-jaxn]
 
 <img width="240" alt="Camarah Walleed & Jaxn (2020)" src="images/Camarah Walleed & Jaxn (2020).png"/>
 
@@ -763,7 +763,7 @@
 
 ### Ripple Effect (2020)
 
-#### [Bandcamp][bc/album/ripple-effect] · [YouTube][yt/album/ripple-effect]
+[Bandcamp][bc/album/ripple-effect] · [YouTube][yt/album/ripple-effect]
 
 <img width="240" alt="Ripple Effect (2020)" src="images/Ripple Effect (2020).jpg"/>
 
@@ -789,7 +789,7 @@
 
 ### Follow My Leed (2017)
 
-#### [Bandcamp][bc/album/follow-my-leed] · [YouTube][yt/album/follow-my-leed]
+[Bandcamp][bc/album/follow-my-leed] · [YouTube][yt/album/follow-my-leed]
 
 <img width="240" alt="Follow My Leed (2017)" src="images/Follow My Leed (2017).png"/>
 
@@ -824,7 +824,7 @@
 
 ### Declaration Of Independence (2001)
 
-#### [Discogs][ds/album/declaration-of-independence] · [YouTube][yt/album/declaration-of-independence]
+[Discogs][ds/album/declaration-of-independence] · [YouTube][yt/album/declaration-of-independence]
 
 <img width="240" alt="Declaration Of Independence (2001)" src="images/Declaration Of Independence (2001).jpg"/>
 
@@ -855,7 +855,7 @@
 
 ### The Backwards Thank You (2021)
 
-#### [Bandcamp][bc/album/the-backwards-thank-you] · [YouTube][yt/album/the-backwards-thank-you]
+[Bandcamp][bc/album/the-backwards-thank-you] · [YouTube][yt/album/the-backwards-thank-you]
 
 <img width="240" alt="The Backwards Thank You (2021)" src="images/The Backwards Thank You (2021).png"/>
 
@@ -885,7 +885,7 @@
 
 ### We Didn\'t Sign Up For This (2020)
 
-#### [Bandcamp][bc/album/we-didnt-sign-up-for-this] · [YouTube][yt/album/we-didnt-sign-up-for-this]
+[Bandcamp][bc/album/we-didnt-sign-up-for-this] · [YouTube][yt/album/we-didnt-sign-up-for-this]
 
 <img width="240" alt="We Didn't Sign Up For This (2020)" src="images/We Didn't Sign Up For This (2020).png"/>
 
@@ -910,7 +910,7 @@
 
 ### Mockingbird (2013)
 
-#### [YouTube][yt/album/mockingbird]
+[YouTube][yt/album/mockingbird]
 
 <img width="240" alt="Mockingbird (2013)" src="images/Mockingbird (2013).jpg"/>
 
@@ -941,7 +941,7 @@
 
 ### New Drug (2019)
 
-#### [YouTube][yt/track/new-drug]
+[YouTube][yt/track/new-drug]
 
 <img width="240" alt="New Drug (2019)" src="images/New Drug (2019).jpg"/>
 
@@ -955,7 +955,7 @@
 
 ### Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019)
 
-#### [YouTube][yt/track/bury-me]
+[YouTube][yt/track/bury-me]
 
 <img width="240" alt="Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019)" src="images/Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019).webp"/>
 
@@ -969,7 +969,7 @@
 
 ### I\'m Real (2012)
 
-#### [YouTube][yt/track/im-real]
+[YouTube][yt/track/im-real]
 
 <img width="240" alt="I'm Real (2012)" src="images/I'm Real (2012).jpg"/>
 
@@ -985,7 +985,7 @@
 
 ### Super What? (2021)
 
-#### [last.fm][lf/album/super-what] · [YouTube][yt/album/super-what]
+[last.fm][lf/album/super-what] · [YouTube][yt/album/super-what]
 
 <img width="240" alt="Super What? (2021)" src="images/Super What (2021).jpg"/>
 
@@ -1014,7 +1014,7 @@
 
 ### Hungry Wolf (New York Remix) (2015)
 
-#### [YouTube][yt/track/hungry-wolf-new-york-remix]
+[YouTube][yt/track/hungry-wolf-new-york-remix]
 
 <img width="240" alt="Hungry Wolf (New York Remix) (2015)" src="images/Hungry Wolf (New York Remix) (2015).jpg"/>
 
@@ -1030,7 +1030,7 @@
 
 ### HERMOSA (2020)
 
-#### [Bandcamp][bc/album/hermosa] · [YouTube][yt/album/hermosa]
+[Bandcamp][bc/album/hermosa] · [YouTube][yt/album/hermosa]
 
 <img width="240" alt="HERMOSA (2020)" src="images/HERMOSA (2020).jpg"/>
 
@@ -1053,7 +1053,7 @@
 
 ### FREAKSHOW (2024)
 
-#### [Bandcamp][bc/album/freakshow] · [YouTube][yt/album/freakshow]
+[Bandcamp][bc/album/freakshow] · [YouTube][yt/album/freakshow]
 
 <img width="240" alt="FREAKSHOW (2024)" src="images/FREAKSHOW (2024).png"/>
 
@@ -1078,7 +1078,7 @@
 
 ### Awkward (feat. Godforbid) (2020)
 
-#### [YouTube][yt/tracks/awkward]
+[YouTube][yt/tracks/awkward]
 
 <img width="240" alt="Awkward (feat. Godforbid) (2020)" src="images/Awkward (feat. Godforbid) (2020).webp"/>
 
@@ -1094,7 +1094,7 @@
 
 ### Where Do I Go From Here? (2021)
 
-#### [Bandcamp][bc/album/where-do-i-go-from-here] · [YouTube][yt/album/where-do-i-go-from-here]
+[Bandcamp][bc/album/where-do-i-go-from-here] · [YouTube][yt/album/where-do-i-go-from-here]
 
 <img width="240" alt="Where Do I Go From Here? (2021)" src="images/Where Do I Go From Here (2021).png"/>
 
@@ -1132,7 +1132,7 @@
 
 ### Know Thyself LP (2022)
 
-#### [Bandcamp][bc/album/know-thyself-lp]
+[Bandcamp][bc/album/know-thyself-lp]
 
 <img width="240" alt="Know Thyself LP (2022)" src="images/Know Thyself LP (2022).jpg"/>
 
@@ -1173,7 +1173,7 @@
 
 ### You\'ll be Replaced (feat. Godforbid) (2023)
 
-#### [last.fm][lf/track/youll-be-replaced] · [YouTube][yt/track/youll-be-replaced]
+[last.fm][lf/track/youll-be-replaced] · [YouTube][yt/track/youll-be-replaced]
 
 <img width="240" alt="You'll be Replaced (feat. Godforbid) (2023)" src="images/You'll be Replaced (feat. Godforbid) (2023).png"/>
 
@@ -1189,7 +1189,7 @@
 
 ### Jukebox Buddha (2017)
 
-#### [Bandcamp][bc/album/jukebox-buddha] · [YouTube][yt/album/jukebox-buddha]
+[Bandcamp][bc/album/jukebox-buddha] · [YouTube][yt/album/jukebox-buddha]
 
 <img width="240" alt="Jukebox Buddha (2017)" src="images/Jukebox Buddha (2017).png"/>
 
@@ -1217,7 +1217,7 @@
 
 ### Indica Jaxn 3 ( All Gas No Breaks ) (2024)
 
-#### [last.fm][lf/album/indica-jaxn-3-all-gas-no-breaks] · [YouTube][yt/album/indica-jaxn-3-all-gas-no-breaks]
+[last.fm][lf/album/indica-jaxn-3-all-gas-no-breaks] · [YouTube][yt/album/indica-jaxn-3-all-gas-no-breaks]
 
 <img width="240" alt="Indica Jaxn 3 ( All Gas No Breaks ) (2024)" src="images/Indica Jaxn 3 ( All Gas No Breaks ) (2024).png"/>
 
@@ -1245,7 +1245,7 @@
 
 ### Fistful of Dollar$ (2017)
 
-#### [YouTube][yt/album/fistful-of-dollars]
+[YouTube][yt/album/fistful-of-dollars]
 
 <img width="240" alt="Fistful of Dollar$ (2017)" src="images/Fistful of Dollar$ (2017).png"/>
 
@@ -1276,7 +1276,7 @@
 
 ### Flutie Pass (2024)
 
-#### [YouTube][yt/track/flutie-pass]
+[YouTube][yt/track/flutie-pass]
 
 <img width="240" alt="Flutie Pass (2024)" src="images/Flutie Pass (2024).png"/>
 
@@ -1292,7 +1292,7 @@
 
 ### The Ceremony of Innocence (2022)
 
-#### [Bandcamp][bc/album/the-ceremony-of-innocence] · [YouTube][yt/album/the-ceremony-of-innocence]
+[Bandcamp][bc/album/the-ceremony-of-innocence] · [YouTube][yt/album/the-ceremony-of-innocence]
 
 <img width="240" alt="The Ceremony of Innocence (2022)" src="images/The Ceremony of Innocence (2022).jpg"/>
 
@@ -1323,7 +1323,7 @@
 
 ### The One (2007)
 
-#### [Discogs][ds/album/the-one] · [Google Drive][gd/album/the-one]
+[Discogs][ds/album/the-one] · [Google Drive][gd/album/the-one]
 
 <img width="240" alt="The One (2007)" src="images/The One (2007).jpg"/>
 
@@ -1356,7 +1356,7 @@
 
 ### Blood brothers (feat. Godforbid) (2024)
 
-#### [YouTube][yt/track/blood-brothers]
+[YouTube][yt/track/blood-brothers]
 
 <img width="240" alt="Blood brothers (feat. Godforbid) (2024)" src="images/Blood brothers (feat. Godforbid) (2024).png"/>
 
@@ -1372,7 +1372,7 @@
 
 ### Welcome To Oz (2021)
 
-#### [Apple Music][am/album/welcome-to-oz]
+[Apple Music][am/album/welcome-to-oz]
 
 <img width="240" alt="Welcome To Oz (2021)" src="images/Welcome To Oz (2021).webp"/>
 
@@ -1398,7 +1398,7 @@
 
 ### Spring Feast (2025)
 
-#### [Bandcamp][bc/album/spring-feast] · [YouTube][yt/album/spring-feast]
+[Bandcamp][bc/album/spring-feast] · [YouTube][yt/album/spring-feast]
 
 <img width="240" alt="Spring Feast (2025)" src="images/Spring Feast (2025).png"/>
 
@@ -1427,7 +1427,7 @@
 
 ### ELUSIVE (2025)
 
-#### [Bandcamp][bc/album/elusive] · [YouTube][yt/album/elusive]
+[Bandcamp][bc/album/elusive] · [YouTube][yt/album/elusive]
 
 <img width="240" alt="ELUSIVE (2025)" src="images/ELUSIVE (2025).png"/>
 
@@ -1456,7 +1456,7 @@
 
 ### Rack$ 2 Riches (2006)
 
-#### [Bandcamp][bc/album/racks-2-riches]
+[Bandcamp][bc/album/racks-2-riches]
 
 <img width="240" alt="Rack$ 2 Riches (2006)" src="images/Rack$ 2 Riches (2006).jpg"/>
 
@@ -1500,7 +1500,7 @@
 
 ### AVGVSTVS (2017)
 
-#### [Bandcamp][bc/album/avgvstvs]
+[Bandcamp][bc/album/avgvstvs]
 
 <img width="240" alt="AVGVSTVS (2017)" src="images/AVGVSTVS (2017).jpg"/>
 
