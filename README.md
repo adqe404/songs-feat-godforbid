@@ -7,7 +7,148 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 ---
 
+Navigation:
+| First appear | Project|
+|--------------|--------|
+| 2001 | [Havok House](#havok-house) |
+| 2002 | [Alaskan Fishermen](#fire--ice-2002) |
+| 2004 | [That Handsome Devil](#that-handsome-devil) |
+| 2006 | [Rack-Lo & Richie Balance](#rack-lo--richie-balance) |
+| 2007 | [Oak Lonetree](#oak-lonetree) |
+| 2012 | [Docdelay](#docdelay)<br>[Kendra Morris](#kendra-morris) |
+| 2013 | [World Around Records](#world-around-records) |
+| 2014 | [FDR](#fdr) |
+| 2015 | [Baby Boy Robinson](#baby-boy-robinson) |
+| 2017 | [Camarah Walleed](#camarah-walleed)<br>[Ajax Lo](#ajax-lo)<br>[Dr. Quandary](#dr-quandary)<br>[Louis Mackey](#louis-mackey) |
+| 2018 | [Godforbid](#godforbid)<br>[Kemo the Blaxican](#kemo-the-blaxican) |
+| 2020 | [Skipp Whitman](#skipp-whitman)<br>[LMNO](#lmno)<br>[Dunum Dunum](#dunum-dunum) |
+| 2021 | [Czarface](#czarface)<br>[Player WON](#player-won)<br>[Princess Problems](#princess-problems)<br>[Dizzy Dustin](#dizzy-dustin) |
+| 2022 | [Provisions Hip Hop](#provisions-hip-hop)<br>[Krohme](#krohme) |
+| 2023 | [Fool on a Hill](#fool-on-a-hill) |
+| 2024 | [Power&Grace](#powergrace) |
+| 2025 | [Yoni Geller](#yoni-geller)<br>[Yvonne Ambrée](#yvonne-ambrée) |
+
+## Havok House:
+
+<div align="center">
+
+### Declaration Of Independence (2001)
+
+[Discogs][ds/album/declaration-of-independence] · [YouTube][yt/album/declaration-of-independence]
+
+<img width="240" alt="Declaration Of Independence (2001)" src="images/Declaration Of Independence (2001).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Yo Jaxn | [YouTube][yt/track/yo-jaxn] |
+| 2 | Shit Happens | [YouTube][yt/track/shit-happens] |
+| 3 | Mission Control | [YouTube][yt/track/mission-control] |
+| 4 | Scattered Pictures | [YouTube][yt/track/scattered-pictures] |
+| ***5*** | ***Irresponsible*** | [YouTube][yt/track/irresponsible] |
+| 6 | Be Safe | [YouTube][yt/track/be-safe] |
+| 7 | Declaration Of Independence | [YouTube][yt/track/declaration-of-independence] |
+| 8 | Growing Pains | [YouTube][yt/track/growing-pains] |
+| 9 | Blitz | [YouTube][yt/track/blitz] |
+| 10 | Free Will | [YouTube][yt/track/free-will] |
+| 11 | Crown Jewel | [YouTube][yt/track/crown-jewel] |
+| 12 | Silent Rogue | [YouTube][yt/track/silent-rogue] |
+
+</div>
+
+## Alaskan Fishermen:
+
+<div align="center">
+
+### Fire & Ice (2002)
+
+[Official Site][os/album/fire-and-ice] · [last.fm][lf/album/fire-and-ice] · [YouTube][yt/album/fire-and-ice]
+
+<img width="240" alt="Fire & Ice (2002)" src="images/Fire & Ice (2002).webp"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Fire and Ice | [YouTube][yt/track/fire-and-ice] |
+| 2 | Do What You Want | [YouTube][yt/track/do-what-you-want] |
+| <ins>_3_</ins> | <ins>_Interlude 1_</ins> | [YouTube][yt/track/interlude-1] |
+| 4 | Ice Pic | [YouTube][yt/track/ice-pic] |
+| 5 | Cold Up in Here | [YouTube][yt/track/cold-up-in-here] |
+| 6 | Snow Bunny | [YouTube][yt/track/snow-bunny] |
+| 7 | Oh God! | [YouTube][yt/track/oh-god] |
+| 8 | Row | [YouTube][yt/track/row] |
+| 9 | Alaskan Fishermen | [YouTube][yt/track/alaskan-fishermen] |
+| <ins>_10_</ins> | <ins>_Interlude 2_</ins> | [YouTube][yt/track/interlude-2] |
+| <ins>_11_</ins> | <ins>_Man of the Hour_</ins> | [YouTube][yt/track/man-of-the-hour] |
+| 12 | Revenge | [YouTube][yt/track/revenge] |
+| 13 | Drunken Publicness | [YouTube][yt/track/drunken-publicness] |
+| 14 | It\'s So Good | [YouTube][yt/track/its-so-good] |
+| <ins>_15_</ins> | <ins>_Interlude 3_</ins> | [YouTube][yt/track/interlude-3] |
+| 16 | O.K. | [YouTube][yt/track/ok] |
+| 17 | The Itch | [YouTube][yt/track/the-itch] |
+| 18 | Get a Life | [YouTube][yt/track/get-a-life] |
+
+</div>
+
+---
+
+<div align="center">
+
+### Alaskan Fishermen (2012)
+
+[last.fm][lf/album/alaskan-fishermen] · [YouTube][yt/album/alaskan-fishermen]
+
+<img width="240" alt="Alaskan Fishermen (2012)" src="images/Alaskan Fishermen (2012).webp"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Cult Classic | [YouTube][yt/track/cult-classic] |
+| 2 | The New Now | [YouTube][yt/track/the-new-now] |
+| 3 | Dirt | [YouTube][yt/track/dirt] |
+| 4 | Resonate | [YouTube][yt/track/resonate] |
+| 5 | Hooks On Both Hands (feat. Sadat X) | [YouTube][yt/track/hooks-on-both-hands] |
+| 6 | Push | [YouTube][yt/track/push] |
+| 7 | Fly Fishing | [YouTube][yt/track/fly-fishing] |
+| 8 | Fight Night | [YouTube][yt/track/fight-night] |
+| 9 | Let\'s Go (feat. Esoteric) | [YouTube][yt/track/lets-go] |
+| 10 | Order of the Alphabet | [YouTube][yt/track/order-of-the-alphabet] |
+| 11 | Pimphand | [YouTube][yt/track/pimphand] |
+| 12 | Hands Up (feat. Thirtyseven) | [YouTube][yt/track/alaskan-fishermen/hands-up] |
+
+</div>
+
+---
+
+<div align="center">
+
+### I\'m A Fool
+
+[YouTube][yt/track/im-fool]
+
+<img width="240" alt="I'm A Fool" src="images/I'm A Fool.jpg"/>
+
+</div>
+
+---
+
 ## That Handsome Devil:
+
+<div align="center">
+
+### Dating Tips / How To Get Money (2004)
+
+[YouTube][yt/album/dating-tips-how-to-get-money]
+
+<img width="240" alt="Dating Tips / How To Get Money (2004)" src="images/Dating Tips How To Get Money (2004).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Dating Tips (Clean) | [YouTube][yt/track/dating-tips-(clean)] |
+| 2 | Dating Tips (Album version) | [YouTube][yt/track/dating-tips-(album-version)] |
+| 3 | Dating Tips (Instrumental) | [YouTube][yt/track/dating-tips-(instrumental)] |
+| 4 | How to Get Money (Clean) | [YouTube][yt/track/how-to-get-money-(clean)] |
+| 5 | How to Get Money (Instrumental) | [YouTube][yt/track/how-to-get-money-(instrumental)] |
+| 6 | Don't Go | [YouTube][yt/track/dont-go] |
+
+</div>
 
 <div align="center">
 
@@ -28,8 +169,6 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 | 7 | James Dean | [Bandcamp][bc/track/james-dean] · [YouTube][yt/track/james-dean] |
 
 </div>
-
-<br clear="right"/>
 
 ---
 
@@ -62,8 +201,6 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 </div>
 
-<br clear="right"/>
-
 ---
 
 <div align="center">
@@ -83,8 +220,6 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 | 5 | Johnny Wouldn\'t Die | [Bandcamp][bc/track/johnny-wouldnt-die] · [YouTube][yt/track/johnny-wouldnt-die] |
 
 </div>
-
-<br clear="right"/>
 
 ---
 
@@ -108,7 +243,26 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 </div>
 
-<br clear="right"/>
+---
+
+<div align="center">
+
+### Hating New People (2010)
+
+[YouTube][yt/album/hating-new-people]
+
+<img width="240" alt="Hating New People (2010)" src="images/Hating New People (2010).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Talk Dirty To Me | [YouTube][yt/track/talk-dirty-to-me] |
+| 2 | Hey White Boy | [YouTube][yt/track/hey-white-boy] |
+| 3 | I\'m Too Sexy | [YouTube][yt/track/im-too-sexy] |
+| 4 | It\'s a Man\'s Man\'s Man\'s World | [YouTube][yt/track/its-a-mans-mans-mans-world] |
+| 5 | Mr. Grinch | [YouTube][yt/track/mr-grinch] |
+| 6 | Fairytale of New York | [YouTube][yt/track/fairytale-of-new-york] |
+
+</div>
 
 ---
 
@@ -138,8 +292,6 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 </div>
 
-<br clear="right"/>
-
 ---
 
 <div align="center">
@@ -167,8 +319,6 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 </div>
 
-<br clear="right"/>
-
 ---
 
 <div align="center">
@@ -186,11 +336,8 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 | 3 | Emergency | [Bandcamp][bc/track/emergency] · [YouTube][yt/track/emergency] |
 | 4 | Echo Chamber | [Bandcamp][bc/track/echo-chamber] · [YouTube][yt/track/echo-chamber] |
 | 5 | Pendulumonium | [Bandcamp][bc/track/pendulumonium] · [YouTube][yt/track/pendulumonium] |
-| 6 | It\'s Trump! | [YouTube][yt/track/its-trump] |
 
 </div>
-
-<br clear="right"/>
 
 ---
 
@@ -204,7 +351,7 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 | № | Name | Links |
 |---|------|-------|
-| 1 | Intro | [Bandcamp][bc/track/your-parents-are-sellouts/intro] · [YouTube][yt/track/your-parents-are-sellouts/intro] |
+| <ins>_1_</ins> | <ins>_Intro_</ins> | [Bandcamp][bc/track/your-parents-are-sellouts/intro] · [YouTube][yt/track/your-parents-are-sellouts/intro] |
 | 2 | The Unpossible | [Bandcamp][bc/track/the-unpossible] · [YouTube][yt/track/the-unpossible] |
 | 3 | Dinosaur | [Bandcamp][bc/track/dinosaur] · [YouTube][yt/track/dinosaur] |
 | 4 | Shutup You\'re Stupid | [Bandcamp][bc/track/shutup-youre-stupid] · [YouTube][yt/track/shutup-youre-stupid] |
@@ -217,11 +364,9 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 | 11 | Punch In The Face | [Bandcamp][bc/track/punch-in-the-face] · [YouTube][yt/track/punch-in-the-face] |
 | 12 | EVL PPL | [Bandcamp][bc/track/evl-ppl] · [YouTube][yt/track/evl-ppl] |
 | 13 | La Di Frickin Da | [Bandcamp][bc/track/la-di-frickin-da] · [YouTube][yt/track/la-di-frickin-da] |
-| 14 | Outro | [Bandcamp][bc/track/outro] · [YouTube][yt/track/outro] |
+| <ins>_14_</ins> | <ins>_Outro_</ins> | [Bandcamp][bc/track/outro] · [YouTube][yt/track/outro] |
 
 </div>
-
-<br clear="right"/>
 
 ---
 
@@ -251,7 +396,17 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 </div>
 
-<br clear="right"/>
+---
+
+<div align="center">
+
+### Charlie 2 (The Money Grab) (2025)
+
+[Bandcamp][bc/track/charlie-2-the-money-grab] · [YouTube][yt/track/charlie-2-the-money-grab]
+
+<img width="240" alt="Charlie 2 (The Money Grab) (2025)" src="images/Charlie 2 (The Money Grab) (2025).jpg"/>
+
+</div>
 
 ---
 
@@ -270,1185 +425,54 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 </div>
 
-<br clear="right"/>
-
 ---
 
 <div align="center">
 
-### That Handsome Devil: Other
+### That Handsome Devil: LIVE
 
-<img width="240" alt="Hating New People" src="images/Hating New People.webp"/>
+<img width="240" alt="That Handsome Devil LIVE" src="images/That Handsome Devil LIVE.png"/>
 
 | № | Name | Links |
 |---|------|-------|
-| 1 | Dating Tips (Clean) | [YouTube][yt/track/dating-tips-(clean)] |
-| 2 | Dating Tips (Album version) | [YouTube][yt/track/dating-tips-(album-version)] |
-| 3 | Dating Tips (Instrumental) | [YouTube][yt/track/dating-tips-(instrumental)] |
-| 4 | How to Get Money | [YouTube][yt/track/how-to-get-money] |
-| 5 | How to Get Money (Instrumental) | [YouTube][yt/track/how-to-get-money-(instrumental)] |
-| 6 | Don\'t Go | [YouTube][yt/track/dont-go] |
-| 7 | It Ain\'t Easy | [YouTube][yt/track/it-aint-easy] |
-| 8 | Mr. Grinch | [YouTube][yt/track/mr-grinch] |
-| 9 | Chicken Claw | [YouTube][yt/track/chicken-claw] |
-| 10 | Steady and Slow (2007) | [YouTube][yt/track/steady-and-slow] |
-| 11 | Hey White Boy | [YouTube][yt/track/hey-white-boy] |
-| 12 | Lucky Me (2008) | [YouTube][yt/track/lucky-me] |
-| 13 | Marilyn Loves Heroin | [YouTube][yt/track/marilyn-loves-heroin] |
-| 14 | How to Get More Money (And Not Have to Shoot Somebody) | [YouTube][yt/track/how-to-get-more-money-and-not-have-to-shoot-somebody] |
-| 15 | It\'s a Man\'s Man\'s Man\'s World | [YouTube][yt/track/its-a-mans-mans-mans-world] |
-| 16 | I\'m Too Sexy | [YouTube][yt/track/im-too-sexy] |
-| 17 | Fairytale of New York | [YouTube][yt/track/fairytale-of-new-york] |
-| 18 | Smilin with a Gun In Your Mouth | [YouTube][yt/track/smilin-with-a-gun-in-your-mouth] |
-| 19 | Chinatown Bench | [YouTube][yt/track/chinatown-bench] |
-| 20 | The Behind Your Back Dance | [YouTube][yt/track/the-behind-your-back-dance] |
-| 21 | Talk Dirty To Me | [YouTube][yt/track/talk-dirty-to-me] |
-| 22 | Talk Dirty To Me (Alternate Version) | [YouTube][yt/track/talk-dirty-to-me-alternate-version] |
-| 23 | Face in the Sun | [YouTube][yt/track/face-in-the-sun] |
-| 24 | BangBang!! | [YouTube][yt/track/bangbang] |
-| 25 | Guns Of Brixton | [YouTube][yt/track/guns-of-brixton] |
-| 26 | Just A Gigolo | [YouTube][yt/track/just-a-gigolo] |
-| 27 | Nuthin but a G Thang | [YouTube][yt/track/nuthin-but-a-g-thang] |
-| 28 | Pills for Everything (Doc Delay Overhaul) | [YouTube][yt/track/pills-for-everything-doc-delay-overhaul] |
-| 29 | Viva Discordia LIVE | [YouTube][yt/track/viva-discordia-live] |
-| 30 | Shutup You\'re Stupid LIVE | [YouTube][yt/track/shutup-youre-stupid-live] |
-| 31 | Charlie\'s Inferno LIVE | [YouTube][yt/track/charlies-inferno-live] |
-| 32 | Junkies In Love LIVE | [YouTube][yt/track/junkies-in-love-live] |
-| 33 | Elephant Bones (GH2 Version) | [YouTube][yt/track/elephant-bones-gh2-version] |
-| 34 | Powderbomb (Alternate Version) | [YouTube][yt/track/powderbomb-alternate-version] |
-| 35 | Charlie 2 (The Money Grab) | [Bandcamp][bc/track/charlie-2-the-money-grab] · [YouTube][yt/track/charlie-2-the-money-grab] |
+| 1 | Viva Discordia LIVE | [YouTube][yt/track/viva-discordia-live] |
+| 2 | Shutup You\'re Stupid LIVE | [YouTube][yt/track/shutup-youre-stupid-live] |
+| 3 | Charlie\'s Inferno LIVE | [YouTube][yt/track/charlies-inferno-live] |
+| 4 | Junkies In Love LIVE | [YouTube][yt/track/junkies-in-love-live] |
 
 </div>
 
-<br clear="right"/>
-
 ---
-
-## Godforbid:
 
 <div align="center">
 
-### Jesus Chrysler (2018)
+### That Handsome Devil: OTHER
 
-[Bandcamp][bc/album/jesus-chrysler] · [YouTube][yt/album/jesus-chrysler]
-
-<img width="240" alt="Jesus Chrysler (2018)" src="images/Jesus Chrysler (2018).jpg"/>
+<img width="240" alt="That Handsome Devil: OTHER" src="images/That Handsome Devil OTHER.webp"/>
 
 | № | Name | Links |
 |---|------|-------|
-| 1 | Previous Behavior | [Bandcamp][bc/track/previous-behavior] · [YouTube][yt/track/previous-behavior] |
-| 2 | Brother | [Bandcamp][bc/track/brother] · [YouTube][yt/track/brother] |
-| 3 | The Problem | [Bandcamp][bc/track/the-problem] · [YouTube][yt/track/the-problem] |
-| 4 | Black Elk | [Bandcamp][bc/track/black-elk] · [YouTube][yt/track/black-elk] |
-| 5 | Where the Lonely Go | [Bandcamp][bc/track/where-the-lonely-go] · [YouTube][yt/track/where-the-lonely-go] |
-| 6 | Dance Like Your Body\'s on Fire (feat. Esoteric) | [Bandcamp][bc/track/dance-like-your-bodys-on-fire] · [YouTube][yt/track/dance-like-your-bodys-on-fire] |
-| 7 | Try | [Bandcamp][bc/track/try] · [YouTube][yt/track/try] |
-| 8 | Strange Days | [Bandcamp][bc/track/strange-days] · [YouTube][yt/track/strange-days] |
-| 9 | Chrome | [Bandcamp][bc/track/jesus-chrysler/chrome] · [YouTube][yt/track/jesus-chrysler/chrome] |
-| 10 | Night Nurse | [Bandcamp][bc/track/night-nurse] · [YouTube][yt/track/night-nurse] |
+| 1 | It Ain\'t Easy | [YouTube][yt/track/it-aint-easy] |
+| 2 | Chicken Claw | [YouTube][yt/track/chicken-claw] |
+| 3 | Steady and Slow (2007) | [YouTube][yt/track/steady-and-slow] |
+| 4 | Lucky Me (2008) | [YouTube][yt/track/lucky-me] |
+| 5 | Marilyn Loves Heroin | [YouTube][yt/track/marilyn-loves-heroin] |
+| 6 | How to Get More Money (And Not Have to Shoot Somebody) | [YouTube][yt/track/how-to-get-more-money-and-not-have-to-shoot-somebody] |
+| 7 | Smilin with a Gun In Your Mouth | [YouTube][yt/track/smilin-with-a-gun-in-your-mouth] |
+| 8 | Chinatown Bench | [YouTube][yt/track/chinatown-bench] |
+| 9 | The Behind Your Back Dance | [YouTube][yt/track/the-behind-your-back-dance] |
+| 10 | Talk Dirty To Me (Alternate Version) | [YouTube][yt/track/talk-dirty-to-me-alternate-version] |
+| 11 | Face in the Sun | [YouTube][yt/track/face-in-the-sun] |
+| 12 | BangBang!! | [YouTube][yt/track/bangbang] |
+| 13 | Guns Of Brixton | [YouTube][yt/track/guns-of-brixton] |
+| 14 | Just A Gigolo | [YouTube][yt/track/just-a-gigolo] |
+| 15 | Nuthin but a G Thang | [YouTube][yt/track/nuthin-but-a-g-thang] |
+| 16 | Pills for Everything (Doc Delay Overhaul) | [YouTube][yt/track/pills-for-everything-doc-delay-overhaul] |
+| 17 | Elephant Bones (GH2 Version) | [YouTube][yt/track/elephant-bones-gh2-version] |
+| 18 | Powderbomb (Alternate Version) | [YouTube][yt/track/powderbomb-alternate-version] |
+| 19 | It\'s Trump! | [YouTube][yt/track/its-trump] |
 
 </div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### How to Make Your Art Matter (2020)
-
-[Bandcamp][bc/album/how-to-make-your-art-matter] · [YouTube][yt/album/how-to-make-your-art-matter]
-
-<img width="240" alt="How to Make Your Art Matter (2020)" src="images/How to Make Your Art Matter (2020).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Don\'t Know Me Like That | [Bandcamp][bc/track/dont-know-me-like-that] · [YouTube][yt/track/dont-know-me-like-that] |
-| 2 | One Day We\'ll Be Ugly | [Bandcamp][bc/track/one-day-well-be-ugly] · [YouTube][yt/track/one-day-well-be-ugly] |
-| 3 | More of Us | [Bandcamp][bc/track/more-of-us] · [YouTube][yt/track/more-of-us] |
-| 4 | Clowns | [Bandcamp][bc/track/clowns] · [YouTube][yt/track/clowns] |
-| 5 | How to Make Your Art Matter | [Bandcamp][bc/track/how-to-make-your-art-matter] · [YouTube][yt/track/how-to-make-your-art-matter] |
-| 6 | Going Round | [Bandcamp][bc/track/going-round] · [YouTube][yt/track/going-round] |
-| 7 | Every Word I Know | [Bandcamp][bc/track/every-word-i-know] · [YouTube][yt/track/every-word-i-know] |
-| 8 | Death Will Come in a Early Morning Text | [Bandcamp][bc/track/death-will-come-in-a-early-morning-text] · [YouTube][yt/track/death-will-come-in-a-early-morning-text] |
-| 9 | Communication Nowhere | [Bandcamp][bc/track/communication-nowhere] · [YouTube][yt/track/communication-nowhere] |
-| 10 | Real Fake (feat. A-F-R-O) | [Bandcamp][bc/track/real-fake] · [YouTube][yt/track/real-fake] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### Tales of the Haunted Microphone (2021)
-
-[Bandcamp][bc/album/tales-of-the-haunted-microphone] · [YouTube][yt/album/tales-of-the-haunted-microphone]
-
-<img width="240" alt="Tales of the Haunted Microphone (2021)" src="images/Tales of the Haunted Microphone (2021).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | The Haunted Mic | [Bandcamp][bc/track/the-haunted-mic] · [YouTube][yt/track/the-haunted-mic] |
-| 2 | Alone in the City | [Bandcamp][bc/track/alone-in-the-city] · [YouTube][yt/track/alone-in-the-city] |
-| 3 | Bewitched | [Bandcamp][bc/track/bewitched] · [YouTube][yt/track/bewitched] |
-| 4 | Bad Ink | [Bandcamp][bc/track/bad-ink] · [YouTube][yt/track/bad-ink] |
-| 5 | Zombi | [Bandcamp][bc/track/zombi] · [YouTube][yt/track/zombi] |
-| 6 | Janet | [Bandcamp][bc/track/janet] · [YouTube][yt/track/janet] |
-| 7 | Dead Best Friends | [Bandcamp][bc/track/dead-best-friend] · [YouTube][yt/track/dead-best-friend] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### Tales of the Haunted Microphone 2 (2023)
-
-[Bandcamp][bc/album/tales-of-the-haunted-microphone-2] · [YouTube][yt/album/tales-of-the-haunted-microphone-2]
-
-<img width="240" alt="Tales of the Haunted Microphone 2 (2023)" src="images/Tales of the Haunted Microphone 2 (2023).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | That\'s How it Starts... | [Bandcamp][bc/track/thats-how-it-starts] · [YouTube][yt/track/thats-how-it-starts] |
-| 2 | Wasn\'t Even Close To Halloween | [Bandcamp][bc/track/wasnt-even-close-to-halloween] · [YouTube][yt/track/wasnt-even-close-to-halloween] |
-| 3 | Albert | [Bandcamp][bc/track/albert] · [YouTube][yt/track/albert] |
-| 4 | Cultivating a Vibe | [Bandcamp][bc/track/cultivating-a-vibe] · [YouTube][yt/track/cultivating-a-vibe] |
-| 5 | The Lights | [Bandcamp][bc/track/the-lights] · [YouTube][yt/track/the-lights] |
-| 6 | Watch These Hands | [Bandcamp][bc/track/watch-these-hands] · [YouTube][yt/track/watch-these-hands] |
-| 7 | Hungry City | [Bandcamp][bc/track/hungry-city] · [YouTube][yt/track/hungry-city] |
-| 8 | Emotions Can Be Hard To Process | [Bandcamp][bc/track/emotions-can-be-hard-to-process] · [YouTube][yt/track/emotions-can-be-hard-to-process] |
-| 9 | Gollum | [Bandcamp][bc/track/gollum] · [YouTube][yt/track/gollum] |
-| 10 | Curse of the Haunted Mic (feat. LIONSMITH) | [Bandcamp][bc/track/curse-of-the-haunted-mic] · [YouTube][yt/track/curse-of-the-haunted-mic] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### The Sound of Me Coping with Loss (2024)
-
-[Bandcamp][bc/album/the-sound-of-me-coping-with-loss]
-
-<img width="240" alt="The Sound of Me Coping with Loss (2024)" src="images/The Sound of Me Coping with Loss (2024).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Pangea | [Bandcamp][bc/track/pangea] |
-| 2 | My Horoscope was Wrong | [Bandcamp][bc/track/my-horoscope-was-wrong] |
-| 3 | Going Through Your Stuff | [Bandcamp][bc/track/going-through-your-stuff] |
-| 4 | Spring | [Bandcamp][bc/track/spring] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### Mamas Don\'t Let Your Babies Grow Up To Be Cowboys — Larry Lee Oppel & Godforbid (Cover)
-
-[YouTube][yt/track/mamas-dont-let-your-babies-grow-up-to-be-cowboys-cover]
-
-<img width="240" alt="Mamas Don't Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover)" src="images/Mamas Don't Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover).jpg"/>
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Docdelay:
-
-<div align="center">
-
-### American Style Cardboard (2012)
-
-[Bandcamp][bc/album/american-style-cardboard] · [YouTube][yt/album/american-style-cardboard]
-
-<img width="240" alt="American Style Cardboard (2012)" src="images/American Style Cardboard (2012).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | A Bit of a Drag | [Bandcamp][bc/track/a-bit-of-a-drag] · [YouTube][yt/track/a-bit-of-a-drag] |
-| 2 | Idle Worship | [Bandcamp][bc/track/idle-worship] · [YouTube][yt/track/idle-worship] |
-| 3 | Selling Sleep | [Bandcamp][bc/track/selling-sleep] · [YouTube][yt/track/selling-sleep] |
-| 4 | Pity Party | [Bandcamp][bc/track/pity-party] · [YouTube][yt/track/pity-party] |
-| 5 | Baltimore to Buenos Aires | [Bandcamp][bc/track/baltimore-to-buenos-aires] · [YouTube][yt/track/baltimore-to-buenos-aires] |
-| 6 | Sickened by the Sight | [Bandcamp][bc/track/sickened-by-the-sight] · [YouTube][yt/track/sickened-by-the-sight] |
-| 7 | Driveway | [Bandcamp][bc/track/driveway] · [YouTube][yt/track/driveway] |
-| 8 | Sodapop & Bubblegum (feat. Thirtyseven) | [Bandcamp][bc/track/sodapop-bubblegum] · [YouTube][yt/track/sodapop-bubblegum] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Alaskan Fishermen:
-
-<div align="center">
-
-### Fire & Ice (2002)
-
-[Official Site][os/album/fire-and-ice] · [last.fm][lf/album/fire-and-ice] · [YouTube][yt/album/fire-and-ice]
-
-<img width="240" alt="Fire & Ice (2002)" src="images/Fire & Ice (2002).webp"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Fire and Ice | [YouTube][yt/track/fire-and-ice] |
-| 2 | Do What You Want | [YouTube][yt/track/do-what-you-want] |
-| 3 | Interlude 1 | [YouTube][yt/track/interlude-1] |
-| 4 | Ice Pic | [YouTube][yt/track/ice-pic] |
-| 5 | Cold Up in Here | [YouTube][yt/track/cold-up-in-here] |
-| 6 | Snow Bunny | [YouTube][yt/track/snow-bunny] |
-| 7 | Oh God! | [YouTube][yt/track/oh-god] |
-| 8 | Row | [YouTube][yt/track/row] |
-| 9 | Alaskan Fishermen | [YouTube][yt/track/alaskan-fishermen] |
-| 10 | Interlude 2 | [YouTube][yt/track/interlude-2] |
-| 11 | Man of the Hour | [YouTube][yt/track/man-of-the-hour] |
-| 12 | Revenge | [YouTube][yt/track/revenge] |
-| 13 | Drunken Publicness | [YouTube][yt/track/drunken-publicness] |
-| 14 | It\'s So Good | [YouTube][yt/track/its-so-good] |
-| 15 | Interlude 3 | [YouTube][yt/track/interlude-3] |
-| 16 | O.K. | [YouTube][yt/track/ok] |
-| 17 | The Itch | [YouTube][yt/track/the-itch] |
-| 18 | Get a Life | [YouTube][yt/track/get-a-life] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### Alaskan Fishermen (2012)
-
-[last.fm][lf/album/alaskan-fishermen] · [YouTube][yt/album/alaskan-fishermen]
-
-<img width="240" alt="Alaskan Fishermen (2012)" src="images/Alaskan Fishermen (2012).webp"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Cult Classic | [YouTube][yt/track/cult-classic] |
-| 2 | The New Now | [YouTube][yt/track/the-new-now] |
-| 3 | Dirt | [YouTube][yt/track/dirt] |
-| 4 | Resonate | [YouTube][yt/track/resonate] |
-| 5 | Hooks On Both Hands (feat. Sadat X) | [YouTube][yt/track/hooks-on-both-hands] |
-| 6 | Push | [YouTube][yt/track/push] |
-| 7 | Fly Fishing | [YouTube][yt/track/fly-fishing] |
-| 8 | Fight Night | [YouTube][yt/track/fight-night] |
-| 9 | Let\'s Go (feat. Esoteric) | [YouTube][yt/track/lets-go] |
-| 10 | Order of the Alphabet | [YouTube][yt/track/order-of-the-alphabet] |
-| 11 | Pimphand | [YouTube][yt/track/pimphand] |
-| 12 | Hands Up (feat. Thirtyseven) | [YouTube][yt/track/alaskan-fishermen/hands-up] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### I\'m A Fool
-
-[YouTube][yt/track/im-fool]
-
-<img width="240" alt="I'm A Fool" src="images/I'm A Fool.jpg"/>
-
-</div>
-
-<br clear="right"/>
-
----
-
-## FDR:
-
-<div align="center">
-
-### Fear of Death and the Need for Reproduction (2014)
-
-[Bandcamp][bc/album/fear-of-death-and-the-need-for-reproduction]
-
-<img width="240" alt="Fear of Death and the Need for Reproduction (2014)" src="images/Fear of Death and the Need for Reproduction (2014).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Cold Shoulder of a Beautiful Woman at the Bar | [Bandcamp][bc/track/cold-shoulder-of-a-beautiful-woman-at-the-bar] |
-| 2 | Showing Up | [Bandcamp][bc/track/showing-up] · [YouTube][yt/track/showing-up] |
-| 3 | Bedouin Dreams | [Bandcamp][bc/track/bedouin-dreams] · [YouTube][yt/track/bedouin-dreams] |
-| 4 | Destroyer of All Things | [Bandcamp][bc/track/destroyer-of-all-things] · [YouTube][yt/track/destroyer-of-all-things] |
-| 5 | Where the Cameras Don\'t See | [Bandcamp][bc/track/where-the-cameras-dont-see] · [YouTube][yt/track/where-the-cameras-dont-see] |
-| 6 | Night Owls | [Bandcamp][bc/track/night-owls] · [YouTube][yt/track/night-owls] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### Anthembanger 2012 (2014)
-
-[Bandcamp][bc/track/anthembanger-2012]
-
-<img width="240" alt="Anthembanger 2012 (2014)" src="images/Anthembanger 2012 (2014).jpg"/>
-
-</div>
-
-<br clear="right"/>
-
----
-
-## World Around Records:
-
-<div align="center">
-
-### Singles 2011-2012 (2013)
-
-[Bandcamp][bc/album/singles-2001-2012]
-
-<img width="240" alt="Big Day for the Little People (2012)" src="images/Big Day for the Little People (2012).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Man Mantis — Gonna Die Here | [Bandcamp][bc/track/gonna-die-here] · [YouTube][yt/track/gonna-die-here] |
-| 2 | Humpasaur Jones — The Patience | [Bandcamp][bc/track/the-patience] · [YouTube][yt/track/the-patience] |
-| 3 | Zilla Rocca — Bad Weather Classic (Dr. Quandary Remix) (feat. Mally & Curly Castro) | [Bandcamp][bc/track/bad-weather-classic] · [YouTube][yt/track/bad-weather-classic] |
-| 4 | Louis Mackey — Everything, Everywhere, Always | [Bandcamp][bc/track/everything-everywhere-always] · [YouTube][yt/track/everything-everywhere-always] |
-| 5 | Dr. Quandary — Oneiric Field Mandala | [Bandcamp][bc/track/oneiric-field-mandala] · [YouTube][yt/track/oneiric-field-mandala] |
-| ***6*** | ***Godforbid & Thirtyseven — Big Day for the Little People*** | [Bandcamp][bc/track/big-day-for-the-little-people] · [YouTube][yt/track/big-day-for-the-little-people] |
-| 7 | IV the Polymath & Thirtyseven — The Frame | [Bandcamp][bc/track/the-frame] · [YouTube][yt/track/the-frame] |
-| 8 | Naturetone — Stargazing (feat. DLO) | [Bandcamp][bc/track/stargazing] |
-| 9 | Algorhythms — Open Ended | [Bandcamp][bc/track/open-ended] · [YouTube][yt/track/open-ended] |
-| 10 | Small Professor — The Old Eleven | [Bandcamp][bc/track/the-old-eleven] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### We Are World Around Vol. 4. (2014)
-
-[Bandcamp][bc/album/we-are-world-around-vol-4]
-
-<img width="240" alt="We Are World Around Vol. 4. (2014)" src="images/We Are World Around Vol. 4. (2014).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Suplington — Smile, Soon It\'ll Be Winter | [Bandcamp][bc/track/smile-soon-itll-be-winter] |
-| 2 | Man Mantis — Super Not a Cop | [Bandcamp][bc/track/super-not-a-cop] |
-| 3 | Louis Mackey & Dr. Quandary — Ghosts of the Commonwealth | [Bandcamp][bc/track/ghosts-of-the-common-wealth] |
-| 4 | Ill Clinton — Hidden | [Bandcamp][bc/track/hidden] |
-| 5 | Louis Mackey & Solve One — Lots of Lip | [Bandcamp][bc/track/lots-of-lip] · [YouTube][yt/track/lots-of-lip] |
-| 6 | Naturetone — Sky | [Bandcamp][bc/track/sky] |
-| ***7*** | ***Godforbid & Thirtyseven — No Truce*** | [Bandcamp][bc/track/no-truce] · [YouTube][yt/track/no-truce] |
-| 8 | Louis Mackey — Maundy Thursday | [Bandcamp][bc/track/maundy-thursday] |
-| 9 | Josh Cote — Witch Doctor | [Bandcamp][bc/track/witch-doctor] |
-| 10 | Louis Mackey — I Think About You All of the Time | [Bandcamp][bc/track/i-think-about-you-all-of-the-time] |
-| 11 | DJ Multiple Sex Partners — Pale White Cutie Pie (Closing Theme) | [Bandcamp][bc/track/pale-white-cutie-pie-closing-theme] · [YouTube][yt/track/pale-white-cutie-pie-closing-theme] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## LMNO:
-
-<div align="center">
-
-### Monolith (2020)
-
-[Bandcamp][bc/album/monolith]
-
-<img width="240" alt="Monolith (2020)" src="images/Monolith (2020).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Monolith | [Bandcamp][bc/track/monolith] |
-| 2 | Hate To Do This | [Bandcamp][bc/track/hate-to-do-this] |
-| 3 | Livestock | [Bandcamp][bc/track/livestock] |
-| 4 | White Man | [Bandcamp][bc/track/white-man] |
-| 5 | A.X.I.O.U.S. | [Bandcamp][bc/track/a-x-i-o-u-s] |
-| 6 | Keep Moving | [Bandcamp][bc/track/keep-moving] · [YouTube][yt/track/keep-moving] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Kemo the Blaxican:
-
-<div align="center">
-
-### Ugly at Times (2018)
-
-[last.fm][lf/album/ugly-at-times] · [YouTube][yt/album/ugly-at-times]
-
-<img width="240" alt="Ugly at Times (2018)" src="images/Ugly at Times (2018).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Something About Love (feat. Godforbid) | [YouTube][yt/track/something-about-love] |
-| 2 | Ugly At Times (feat. Godforbid) | [YouTube][yt/track/ugly-at-times] |
-| 3 | What You Might Do (feat. Godforbid) | [YouTube][yt/track/what-you-might-do] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### No More Love Songs (2020)
-
-[YouTube][yt/track/no-more-love-songs]
-
-<img width="240" alt="No More Love Songs (2020)" src="images/No More Love Songs (2020).jpg"/>
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Camarah Walleed:
-
-<div align="center">
-
-### Camarah Walleed & Jaxn (2020)
-
-[last.fm][lf/album/camarah-walleed-and-jaxn] · [YouTube][yt/album/camarah-walleed-and-jaxn]
-
-<img width="240" alt="Camarah Walleed & Jaxn (2020)" src="images/Camarah Walleed & Jaxn (2020).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| ***1*** | ***Mami Blu (feat. Father Time & Godforbid)*** | [YouTube][yt/track/mami-blu] |
-| 2 | Flying Hammerz (feat. Louie Sincere & Jos Rockwell) | [YouTube][yt/track/flying-hammerz] |
-| 3 | Say That to Say This (feat. Jos Rockwell) | [YouTube][yt/track/say-that-to-say-this] |
-| 4 | Subtle Movements (feat. Father Time) | [YouTube][yt/track/subtle-movements] |
-| ***5*** | ***Hi-Speed Havok (feat. Father Time, King Author & Godforbid)*** | [YouTube][yt/track/hi-speed-havok] |
-| ***6*** | ***Hey Kids! (feat. Godforbid)*** | [YouTube][yt/track/hey-kids] |
-| ***7*** | ***Steel Sharpen Steel (feat. Father Time, Thirstin Howl the 3rd & Godforbid)*** | [YouTube][yt/track/steel-sharpen-steel] |
-| 8 | Spitting Image | [YouTube][yt/track/spitting-image] |
-| 9 | Goodnight Irene | [YouTube][yt/track/goodnight-irene] |
-| 10 | Finer Things (feat. Father Time) | [YouTube][yt/track/finer-things] |
-| 11 | Donde Esta (feat. Hand Skillz & Zay Skillz) | [YouTube][yt/track/donde-esta] |
-| 12 | Lasting Legacy (feat. Father Time) | [YouTube][yt/track/lasting-legacy] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### Ripple Effect (2020)
-
-[Bandcamp][bc/album/ripple-effect] · [YouTube][yt/album/ripple-effect]
-
-<img width="240" alt="Ripple Effect (2020)" src="images/Ripple Effect (2020).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Ripple Effect | [Bandcamp][bc/track/ripple-effect] |
-| 2 | Can\'t Calm Me Down | [Bandcamp][bc/track/cant-calm-me-down] · [YouTube][yt/track/cant-calm-me-down] |
-| ***3*** | ***Beatz \'n\' Thangz (feat. Ajax Lo & Godforbid)*** | [Bandcamp][bc/track/beatz-n-thangz] · [YouTube][yt/track/beatz-n-thangz] |
-| 4 | Do You! (feat. Ajax Lo) | [Bandcamp][bc/track/do-you] · [YouTube][yt/track/do-you] |
-| 5 | Sandy\'s Message (Intro) | [Bandcamp][bc/track/sandys-message-intro] |
-| 6 | America? | [Bandcamp][bc/track/america] · [YouTube][yt/track/america] |
-| 7 | Life Ain\'t So Easy (feat. Angel Gittens) | [Bandcamp][bc/track/life-aint-so-easy] · [YouTube][yt/track/life-aint-so-easy] |
-| 8 | Sandy\'s Message (Outro) | [Bandcamp][bc/track/sandys-message-outro] |
-| 9 | Better World (Instrumental) | [Bandcamp][bc/track/better-world-instrumental] · [YouTube][yt/track/better-world-instrumental] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### Follow My Leed (2017)
-
-[Bandcamp][bc/album/follow-my-leed] · [YouTube][yt/album/follow-my-leed]
-
-<img width="240" alt="Follow My Leed (2017)" src="images/Follow My Leed (2017).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Follow My Lead | [Bandcamp][bc/track/follow-my-lead] · [YouTube][yt/track/follow-my-lead] |
-| 2 | Motivation (feat. Gwen Leathers) | [Bandcamp][bc/track/motivation] · [YouTube][yt/track/motivation] |
-| 3 | Click (feat. Casta) | [Bandcamp][bc/track/click] · [YouTube][yt/track/click] |
-| 4 | No Matter What (feat. Jesse Payo) | [Bandcamp][bc/track/no-matter-what] · [YouTube][yt/track/no-matter-what] |
-| 5 | The Def Adder (feat. DJ Touchphonics) | [Bandcamp][bc/track/the-def-adder] · [YouTube][yt/track/the-def-adder] |
-| 6 | In Between the Lines (feat. Ms. B\'haved) | [Bandcamp][bc/track/in-between-the-lines] · [YouTube][yt/track/in-between-the-lines] |
-| 7 | Ain\'t Runnin\' with Me (feat. T.I.M.E.) | [Bandcamp][bc/track/aint-runnin-with-me] · [YouTube][yt/track/aint-runnin-with-me] |
-| 8 | Issue\'s | [Bandcamp][bc/track/issues] · [YouTube][yt/track/issues] |
-| ***9*** | ***Walk On (feat. Godforbid of T.H.D)*** | [Bandcamp][bc/track/walk-on] · [YouTube][yt/track/walk-on] |
-| 10 | I Told Jesus | [Bandcamp][bc/track/i-told-jesus] · [YouTube][yt/track/i-told-jesus] |
-| 11 | 94.5 Skit Intro (Live) | [YouTube][yt/track/94.5-skit-intro-live] |
-| 12 | Make U Do Right | [Bandcamp][bc/track/make-u-do-right] · [YouTube][yt/track/make-u-do-right] |
-| 13 | 9.45 Skit Outro (Live) | [YouTube][yt/track/94.5-skit-outro-live] |
-| 14 | Place 2 Go | [Bandcamp][bc/track/place-2-go] · [YouTube][yt/track/place-2-go] |
-| 15 | Feel Free (feat. Jaxn) | [Bandcamp][bc/track/feel-free] · [YouTube][yt/track/feel-free] |
-| 16 | Can\'t Breath | [Bandcamp][bc/track/cant-breath] · [YouTube][yt/track/cant-breath] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Havok House:
-
-<div align="center">
-
-### Declaration Of Independence (2001)
-
-[Discogs][ds/album/declaration-of-independence] · [YouTube][yt/album/declaration-of-independence]
-
-<img width="240" alt="Declaration Of Independence (2001)" src="images/Declaration Of Independence (2001).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Yo Jaxn | [YouTube][yt/track/yo-jaxn] |
-| 2 | Shit Happens | [YouTube][yt/track/shit-happens] |
-| 3 | Mission Control | [YouTube][yt/track/mission-control] |
-| 4 | Scattered Pictures | [YouTube][yt/track/scattered-pictures] |
-| ***5*** | ***Irresponsible*** | [YouTube][yt/track/irresponsible] |
-| 6 | Be Safe | [YouTube][yt/track/be-safe] |
-| 7 | Declaration Of Independence | [YouTube][yt/track/declaration-of-independence] |
-| 8 | Growing Pains | [YouTube][yt/track/growing-pains] |
-| 9 | Blitz | [YouTube][yt/track/blitz] |
-| 10 | Free Will | [YouTube][yt/track/free-will] |
-| 11 | Crown Jewel | [YouTube][yt/track/crown-jewel] |
-| 12 | Silent Rogue | [YouTube][yt/track/silent-rogue] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Princess Problems:
-
-<div align="center">
-
-### The Backwards Thank You (2021)
-
-[Bandcamp][bc/album/the-backwards-thank-you] · [YouTube][yt/album/the-backwards-thank-you]
-
-<img width="240" alt="The Backwards Thank You (2021)" src="images/The Backwards Thank You (2021).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Art of War | [Bandcamp][bc/track/art-of-war] · [YouTube][yt/track/art-of-war] |
-| ***2*** | ***Chrome (feat. Godforbid)*** | [Bandcamp][bc/track/the-backwards-thank-you/chrome] · [YouTube][yt/track/the-backwards-thank-you/chrome] |
-| 3 | Einstein | [Bandcamp][bc/track/einstein] · [YouTube][yt/track/einstein] |
-| 4 | Pussy | [Bandcamp][bc/track/pussy] · [YouTube][yt/track/pussy] |
-| 5 | Hungry | [Bandcamp][bc/track/hungry] · [YouTube][yt/track/hungry] |
-| 6 | Don\'t You Worry | [Bandcamp][bc/track/dont-you-worry] · [YouTube][yt/track/dont-you-worry] |
-| 7 | Kneejerk | [Bandcamp][bc/track/kneejerk] · [YouTube][yt/track/kneejerk] |
-| 8 | Joseph | [Bandcamp][bc/track/joseph] · [YouTube][yt/track/joseph] |
-| 9 | Grey Grenade | [Bandcamp][bc/track/grey-grenade] · [YouTube][yt/track/grey-grenade] |
-| 10 | I Told You So | [Bandcamp][bc/track/i-told-you-so] · [YouTube][yt/track/i-told-you-so] |
-| 11 | What R U Doing | [Bandcamp][bc/track/what-r-u-doing] · [YouTube][yt/track/what-r-u-doing] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Dunum Dunum:
-
-<div align="center">
-
-### We Didn\'t Sign Up For This (2020)
-
-[Bandcamp][bc/album/we-didnt-sign-up-for-this] · [YouTube][yt/album/we-didnt-sign-up-for-this]
-
-<img width="240" alt="We Didn't Sign Up For This (2020)" src="images/We Didn't Sign Up For This (2020).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | I Want More | [Bandcamp][bc/track/i-want-more] · [YouTube][yt/track/i-want-more] |
-| 2 | Roll with Us | [Bandcamp][bc/track/roll-with-us] · [YouTube][yt/track/roll-with-us] |
-| 3 | Animals (feat. Santosh Lalonde) | [Bandcamp][bc/track/animals] · [YouTube][yt/track/animals] |
-| 4 | Buried Alive | [Bandcamp][bc/track/buried-alive] · [YouTube][yt/track/buried-alive] |
-| 5 | Turn the Clocks Back (feat. Hua Li & Lex French) | [Bandcamp][bc/track/turn-the-clocks-back] · [YouTube][yt/track/turn-the-clocks-back] |
-| ***6*** | ***Build a Machine (feat. Godforbid)*** | [Bandcamp][bc/track/build-a-machine] · [YouTube][yt/track/build-a-machine] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Kendra Morris:
-
-<div align="center">
-
-### Mockingbird (2013)
-
-[YouTube][yt/album/mockingbird]
-
-<img width="240" alt="Mockingbird (2013)" src="images/Mockingbird (2013).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Space Oddity | [YouTube][yt/track/space-oddity] |
-| 2 | As Long as I\'ve Got You | [YouTube][yt/track/as-long-as-ive-got-you] |
-| 3 | Miss You | [YouTube][yt/track/miss-you] |
-| 4 | Walk On By | [YouTube][yt/track/walk-on-by] |
-| 5 | Shine On You Crazy Diamond | [YouTube][yt/track/shine-on-you-crazy-diamond] |
-| 6 | Wicked Game | [YouTube][yt/track/wicked-game] |
-| ***7*** | ***I\'m gonna be (500 miles)*** | [YouTube][yt/track/im-gonna-be-500-miles] |
-| 8 | Karma Police | [YouTube][yt/track/karma-police] |
-| 9 | Ride the Lightning | [YouTube][yt/track/ride-the-lightning] |
-| 10 | Cry Me a River | [YouTube][yt/track/cry-me-a-river] |
-| 11 | Walk on the Wild Side | [YouTube][yt/track/walk-on-the-wild-side] |
-| 12 | Black Hole Sun | [YouTube][yt/track/black-hole-sun] |
-| 13 | Don\'t Talk (Put Your Head On My Shoulder) | [YouTube][yt/track/dont-talk-put-your-head-on-my-shoulder] |
-| 14 | No Love (But Your Love) | [YouTube][yt/track/no-love-but-your-love] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### New Drug (2019)
-
-[YouTube][yt/track/new-drug]
-
-<img width="240" alt="New Drug (2019)" src="images/New Drug (2019).jpg"/>
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019)
-
-[YouTube][yt/track/bury-me]
-
-<img width="240" alt="Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019)" src="images/Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019).webp"/>
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### I\'m Real (2012)
-
-[YouTube][yt/track/im-real]
-
-<img width="240" alt="I'm Real (2012)" src="images/I'm Real (2012).jpg"/>
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Czarface:
-
-<div align="center">
-
-### Super What? (2021)
-
-[last.fm][lf/album/super-what] · [YouTube][yt/album/super-what]
-
-<img width="240" alt="Super What? (2021)" src="images/Super What (2021).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | The King and Eye | [YouTube][yt/track/the-king-and-eye] |
-| 2 | Czarwyn\'s Theory of People Getting Loose | [YouTube][yt/track/czarwyns-theory-of-people-getting-loose] |
-| 3 | Mando Calrissian | [YouTube][yt/track/mando-calrissian] |
-| 4 | DOOM Unto Others | [YouTube][yt/track/doom-unto-others] |
-| 5 | Jason & The Czargonauts | [YouTube][yt/track/jason-and-the-czargonauts] |
-| 6 | Break in the Action | [YouTube][yt/track/break-in-the-action] |
-| 7 | A Name to the Face | [YouTube][yt/track/a-name-to-the-face] |
-| 8 | This is Canon Now | [YouTube][yt/track/this-is-canon-now] |
-| ***9*** | ***So Strange*** | [YouTube][yt/track/so-strange] |
-| 10 | Young World | [YouTube][yt/track/young-world] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Baby Boy Robinson:
-
-<div align="center">
-
-### Hungry Wolf (New York Remix) (2015)
-
-[YouTube][yt/track/hungry-wolf-new-york-remix]
-
-<img width="240" alt="Hungry Wolf (New York Remix) (2015)" src="images/Hungry Wolf (New York Remix) (2015).jpg"/>
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Skipp Whitman:
-
-<div align="center">
-
-### HERMOSA (2020)
-
-[Bandcamp][bc/album/hermosa] · [YouTube][yt/album/hermosa]
-
-<img width="240" alt="HERMOSA (2020)" src="images/HERMOSA (2020).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| ***1*** | ***Hermosa ft. That Handsome Devil*** | [Bandcamp][bc/track/hermosa-ft-that-handsome-devil] · [YouTube][yt/track/hermosa-ft-that-handsome-devil] |
-| 2 | Bloody Mary | [Bandcamp][bc/track/bloody-mary] · [YouTube][yt/track/bloody-mary] |
-| 3 | Let That Go! | [Bandcamp][bc/track/let-that-go] · [YouTube][yt/track/let-that-go] |
-| 4 | Player ft. Kendra Morris | [Bandcamp][bc/track/player-ft-kendra-morris] · [YouTube][yt/track/player-ft-kendra-morris] |
-| 5 | Never Afraid | [Bandcamp][bc/track/never-afraid] · [YouTube][yt/track/never-afraid] |
-| 6 | Lana Baby | [Bandcamp][bc/track/lana-baby] · [YouTube][yt/track/lana-baby] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### FREAKSHOW (2024)
-
-[Bandcamp][bc/album/freakshow] · [YouTube][yt/album/freakshow]
-
-<img width="240" alt="FREAKSHOW (2024)" src="images/FREAKSHOW (2024).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | OPEN | [Bandcamp][bc/track/open] · [YouTube][yt/track/open] |
-| 2 | MRNG | [Bandcamp][bc/track/mrng] · [YouTube][yt/track/mrng] |
-| ***3*** | ***MUSIC THERAPY (feat. GODFORBID)*** | [Bandcamp][bc/track/music-therapy] · [YouTube][yt/track/music-therapy] |
-| 4 | SKNMX | [Bandcamp][bc/track/sknmx] · [YouTube][yt/track/sknmx] |
-| 5 | HOT! | [Bandcamp][bc/track/hot] · [YouTube][yt/track/hot] |
-| 6 | NO | [Bandcamp][bc/track/no] · [YouTube][yt/track/no] |
-| 7 | FLOAT | [Bandcamp][bc/track/float] · [YouTube][yt/track/float] |
-| 8 | FREE | [Bandcamp][bc/track/free] · [YouTube][yt/track/free] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### Awkward (feat. Godforbid) (2020)
-
-[YouTube][yt/tracks/awkward]
-
-<img width="240" alt="Awkward (feat. Godforbid) (2020)" src="images/Awkward (feat. Godforbid) (2020).webp"/>
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Dizzy Dustin:
-
-<div align="center">
-
-### Where Do I Go From Here? (2021)
-
-[Bandcamp][bc/album/where-do-i-go-from-here] · [YouTube][yt/album/where-do-i-go-from-here]
-
-<img width="240" alt="Where Do I Go From Here? (2021)" src="images/Where Do I Go From Here (2021).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | I Go By (Intro) | [Bandcamp][bc/track/i-go-by-intro] · [YouTube][yt/track/i-go-by-intro] |
-| 2 | Hands of Time (feat. Es) | [Bandcamp][bc/track/hands-of-time] · [YouTube][yt/track/hands-of-time] |
-| 3 | Bricks to Build | [Bandcamp][bc/track/bricks-to-build] · [YouTube][yt/track/bricks-to-build] |
-| 4 | Lemon & 55th | [Bandcamp][bc/track/lemon-and-55th] · [YouTube][yt/track/lemon-and-55th] |
-| 5 | Rain Delays (feat. Masta Ace) | [Bandcamp][bc/track/rain-delays] · [YouTube][yt/track/rain-delays] |
-| 6 | Three Kings (feat. Rakka Iriscience & Swiss Precise) | [Bandcamp][bc/track/three-kings] · [YouTube][yt/track/three-kings] |
-| 7 | Steebee Weebee Show (Interlude) | [Bandcamp][bc/track/steebee-weebee-show-interlude] · [YouTube][yt/track/steebee-weebee-show-interlude] |
-| 8 | Oxygen (feat. Akil the MC) | [Bandcamp][bc/track/oxygen] · [YouTube][yt/track/oxygen] |
-| 9 | Mama Say (feat. Savannah McFarland) | [Bandcamp][bc/track/mama-say] · [YouTube][yt/track/mama-say] |
-| 10 | Cruel Summer (feat. Michael & Cade Parenti) | [Bandcamp][bc/track/cruel-summer] · [YouTube][yt/track/cruel-summer] |
-| ***11*** | ***Cubanas & Pina Coloda\'s (feat. Godforbid)*** | [Bandcamp][bc/track/cubanas-and-pina-colodas] · [YouTube][yt/track/cubanas-and-pina-colodas] |
-| 12 | Hands Up | [Bandcamp][bc/track/where-do-i-go-from-here/hands-up] · [YouTube][yt/track/where-do-i-go-from-here/hands-up] |
-| 13 | Definition of Ill (feat. Ryu, Complex & Blade) | [Bandcamp][bc/track/definition-of-ill] · [YouTube][yt/track/definition-of-ill] |
-| 14 | Lights, Camera, Action (feat. IMANI) | [Bandcamp][bc/track/lights-camera-action] · [YouTube][yt/track/lights-camera-action] |
-| 15 | Where Do I Go From Here? | [Bandcamp][bc/track/where-do-i-go-from-here] · [YouTube][yt/track/where-do-i-go-from-here] |
-| 16 | Thank You (Outro) | [Bandcamp][bc/track/thank-you-outro] · [YouTube][yt/track/thank-you-outro] |
-| 17 | Vertigo Flow (feat. Swiss Precise, Pkon & LMNO) | [Bandcamp][bc/track/vertigo-flow] · [YouTube][yt/track/vertigo-flow] |
-| 18 | The Real Ones (feat. Master Fuol, Slaine & Hochii) | [Bandcamp][bc/track/the-real-ones] · [YouTube][yt/track/the-real-ones] |
-| 19 | Rain Delays (feat. Meemz) (Remix) | [Bandcamp][bc/track/rain-delays-remix] · [YouTube][yt/track/rain-delays-remix] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Provisions Hip Hop:
-
-<div align="center">
-
-### Know Thyself LP (2022)
-
-[Bandcamp][bc/album/know-thyself-lp]
-
-<img width="240" alt="Know Thyself LP (2022)" src="images/Know Thyself LP (2022).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Groundhog\'s Day (feat. Kool A.D.) | [Bandcamp][bc/track/groundhogs-day] · [YouTube][yt/track/groundhogs-day] |
-| 2 | Polo (feat. Pajama Sam x A-F-R-O) | [Bandcamp][bc/track/polo] · [YouTube][yt/track/polo] |
-| ***3*** | ***Flower Print (feat. Godforbid x Thirstin Howl III)*** | [Bandcamp][bc/track/flower-print] · [YouTube][yt/track/flower-print] |
-| 4 | Really Real (feat. A-F-R-O x Nahte Renmus x Pajama Sam) | [Bandcamp][bc/track/really-real] · [YouTube][yt/track/really-real] |
-| 5 | The Other Side of the Footlights (feat. Louis Mackey) | [Bandcamp][bc/track/the-other-side-of-the-footlights] · [YouTube][yt/track/the-other-side-of-the-footlights] |
-| 6 | Expensive (feat. A-F-R-O x Mr. Muthafuckin\' eXquire) | [Bandcamp][bc/track/expensive] · [YouTube][yt/track/expensive] |
-| ***7*** | ***Know Thyself (feat. Godforbid x Mr. Muthafuckin\' eXquire x A-F-R-O)*** | [Bandcamp][bc/track/know-thyself] · [YouTube][yt/track/know-thyself] |
-| 8 | Shirt Trade (feat. A-F-R-O x Pajama Sam) | [Bandcamp][bc/track/shirt-trade] |
-| 9 | Who is that Knows (feat. Defcee x Subtex) | [Bandcamp][bc/track/who-is-that-knows] |
-| 10 | Fool Fool (feat. A-F-R-O) | [Bandcamp][bc/track/fool-fool] |
-| 11 | Shrek 2 (feat. A-F-R-O) | [Bandcamp][bc/track/shrek-2] |
-| 12 | Idiot Savant (feat. Nahte Renmus) | [Bandcamp][bc/track/idiot-savant] |
-| 13 | Henchman (feat. A-F-R-O) | [Bandcamp][bc/track/henchman] |
-| 14 | eBay (feat. A-F-R-O x Subtex) | [Bandcamp][bc/track/ebay] |
-| 15 | Breakdown (feat. Nahte Renmus) | [Bandcamp][bc/track/breakdown] |
-| 16 | Hard Boiled (feat. A-F-R-O x Ocho Phono) | [Bandcamp][bc/track/hard-boiled] |
-| 17 | When Will She Know (feat. Teece Luvv) | [Bandcamp][bc/track/when-will-she-know] · [YouTube][yt/track/when-will-she-know] |
-| 18 | Nasty (feat. A-F-R-O x Defcee) | [Bandcamp][bc/track/nasty] |
-| 19 | Intoxicated Demigodz (feat. Kool A.D.) | [Bandcamp][bc/track/intoxicated-demigodz] |
-| 20 | Swim Along (feat. A-F-R-O x Nahte Renmus) | [Bandcamp][bc/track/swim-along] |
-| 21 | Kamala (feat. Mr. Muthafuckin\' eXquire x A-F-R-O) | [Bandcamp][bc/track/kamala] |
-| ***22*** | ***Flower Print (feat. Godforbid x Thirstin Howl III) (remix by Krohme)*** | [Bandcamp][bc/track/flower-print-remix] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Fool on a Hill:
-
-<div align="center">
-
-### You\'ll be Replaced (feat. Godforbid) (2023)
-
-[last.fm][lf/track/youll-be-replaced] · [YouTube][yt/track/youll-be-replaced]
-
-<img width="240" alt="You'll be Replaced (feat. Godforbid) (2023)" src="images/You'll be Replaced (feat. Godforbid) (2023).png"/>
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Dr. Quandary:
-
-<div align="center">
-
-### Jukebox Buddha (2017)
-
-[Bandcamp][bc/album/jukebox-buddha] · [YouTube][yt/album/jukebox-buddha]
-
-<img width="240" alt="Jukebox Buddha (2017)" src="images/Jukebox Buddha (2017).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Bones & Portents (feat. TIMESCANNER) | [Bandcamp][bc/track/bones-and-portents] · [YouTube][yt/track/bones-and-portents] |
-| 2 | The Boy Who Went to War (feat. PremRock & Elder Orange) | [Bandcamp][bc/track/the-boy-who-went-to-war] · [YouTube][yt/track/the-boy-who-went-to-war] |
-| 3 | Court of the Monkey Prince (feat. Louis Mackey) | [Bandcamp][bc/track/court-of-the-monkey-prince] · [YouTube][yt/track/court-of-the-monkey-prince] |
-| 4 | Black Tar (feat. PremRock & Has-Lo) | [Bandcamp][bc/track/black-tar] · [YouTube][yt/track/black-tar] |
-| 5 | Your Gods & Mine (feat. Zilla Rocca) | [Bandcamp][bc/track/your-gods-and-mine] · [YouTube][yt/track/your-gods-and-mine] |
-| 6 | The Blown Fuse (feat. Has-Lo) | [Bandcamp][bc/track/the-blown-fuse] · [YouTube][yt/track/the-blown-fuse] |
-| ***7*** | ***Jukebox Buddha (feat. Godforbid & Louis Mackey)*** | [Bandcamp][bc/track/jukebox-buddha] · [YouTube][yt/track/jukebox-buddha] |
-| 8 | Can\'t Go On Without You (feat. Astrid Engberg) | [Bandcamp][bc/track/cant-go-on-without-you] · [YouTube][yt/track/cant-go-on-without-you] |
-| 9 | Into the Dirt (feat. Elder Orange & Has-Lo) | [Bandcamp][bc/track/into-the-dirt] · [YouTube][yt/track/into-the-dirt] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Ajax Lo:
-
-<div align="center">
-
-### Indica Jaxn 3 ( All Gas No Breaks ) (2024)
-
-[last.fm][lf/album/indica-jaxn-3-all-gas-no-breaks] · [YouTube][yt/album/indica-jaxn-3-all-gas-no-breaks]
-
-<img width="240" alt="Indica Jaxn 3 ( All Gas No Breaks ) (2024)" src="images/Indica Jaxn 3 ( All Gas No Breaks ) (2024).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | The Snake in the Hawk Shadow | [YouTube][yt/track/the-snake-in-the-hawk-shadow] |
-| 2 | Shoulda Seen It Coming (feat. Camarah Walleed) | [YouTube][yt/track/shoulda-seen-it-coming] |
-| 3 | All Gas No Breaks (feat. J Vengeance & Mike Titan) | [YouTube][yt/track/all-gas-no-breaks] |
-| 4 | The People Have Spoken (feat. Lomerta Official) | [YouTube][yt/track/the-people-have-spoken] |
-| 5 | Brick Laying (feat. losLAUREN 718) | [YouTube][yt/track/brick-laying] |
-| 6 | Varsity Letters (feat. Camarah Walleed) | [YouTube][yt/track/varsity-letters] |
-| 7 | These Nights (feat. Mike Titan) | [YouTube][yt/track/these-nights] |
-| 8 | They Gon Pay | [YouTube][yt/track/they-gon-pay] |
-| 9 | Pinky Promises (feat. J Bizz) | [YouTube][yt/track/pinky-promises] |
-| ***10*** | ***Line Em Up (feat. Godforbid & Camarah Walleed)*** | [YouTube][yt/track/line-em-up] |
-| 11 | Still Alive & Well | [YouTube][yt/track/still-alive-and-well] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### Fistful of Dollar$ (2017)
-
-[YouTube][yt/album/fistful-of-dollars]
-
-<img width="240" alt="Fistful of Dollar$ (2017)" src="images/Fistful of Dollar$ (2017).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Personal Business | [YouTube][yt/track/personal-business] |
-| 2 | End of the Day | [YouTube][yt/track/end-of-the-day] |
-| 3 | Blood from a Stone | [YouTube][yt/track/blood-from-a-stone] |
-| 4 | Hamo\'n Sazo\'n (feat. Lmw) | [YouTube][yt/track/hamon-sazon] |
-| 5 | So Far Away | [YouTube][yt/track/so-far-away] |
-| 6 | The Little Things | [YouTube][yt/track/the-little-things] |
-| ***7*** | ***Rhyme & Punishment (feat. Father Time & That Handsome Devil)*** | [YouTube][yt/track/rhyme-and-punishment] |
-| 8 | From the Sticks to the Bricks (feat. Kaliber) | [YouTube][yt/track/from-the-sticks-to-the-bricks] |
-| 9 | Glad You Think so (feat. Don P) | [YouTube][yt/track/glad-you-think-so] |
-| 10 | Paradox | [YouTube][yt/track/paradox] |
-| 11 | Take a Look Around | [YouTube][yt/track/take-a-look-around] |
-| 12 | Marathon Monday | [YouTube][yt/track/marathon-monday] |
-| 13 | Good to Bad | [YouTube][yt/track/good-to-bad] |
-| 14 | Cold Case (feat. King Author) | [YouTube][yt/track/cold-case] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### Flutie Pass (2024)
-
-[YouTube][yt/track/flutie-pass]
-
-<img width="240" alt="Flutie Pass (2024)" src="images/Flutie Pass (2024).png"/>
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Krohme:
-
-<div align="center">
-
-### The Ceremony of Innocence (2022)
-
-[Bandcamp][bc/album/the-ceremony-of-innocence] · [YouTube][yt/album/the-ceremony-of-innocence]
-
-<img width="240" alt="The Ceremony of Innocence (2022)" src="images/The Ceremony of Innocence (2022).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Ab Initio | [Bandcamp][bc/track/ab-initio] |
-| 2 | Cursed Earth (feat. Sleep Sinatra, Chino XL & Lord Goat) | [Bandcamp][bc/track/cursed-earth] |
-| ***3*** | ***Dark Water (feat. Godforbid & Thirstin Howl III)*** | [Bandcamp][bc/track/dark-water] |
-| 4 | Charles Oakley (feat. Hell Razah, Shyheim, Myalansky & DJ Flipcyide) | [Bandcamp][bc/track/charles-oakley] |
-| 5 | Lycans (feat. Born Unique, Double A.B. & Sleep Sinatra) | [Bandcamp][bc/track/lycans] |
-| 6 | Et Bestia (Interlude) | [Bandcamp][bc/track/et-bestia] |
-| 7 | Anti-Social (feat. Chris Rivers, Kwamé & Bobby J From Rockaway) | [Bandcamp][bc/track/anti-social] |
-| 8 | Warriors Theme (feat. Big Twins, Otep & Sabac Red) | [Bandcamp][bc/track/warriors-theme] |
-| 9 | Trials x Tribulations (feat. Guilty Simpson, Ty Farris & Hus Kingpin) | [Bandcamp][bc/track/trials-x-tribulations] |
-| 10 | DMV (feat. Rahiem Supreme, Snook Da Crook, Bless Picasso & Go-Go Bouncey) | [Bandcamp][bc/track/dmv] |
-| 11 | Hell or High Water (feat. Breez Evahflowin, Muja Messiah, Kahlee, Cesar Comanche & L.I.F.E. Long) | [Bandcamp][bc/track/hell-or-high-water] |
-| 12 | Ad Finem | [Bandcamp][bc/track/ad-finem] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Oak Lonetree:
-
-<div align="center">
-
-### The One (2007)
-
-[Discogs][ds/album/the-one] · [Google Drive][gd/album/the-one]
-
-<img width="240" alt="The One (2007)" src="images/The One (2007).jpg"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Intro | [Google Drive][gd/track/the-one/intro] |
-| 2 | Get It Started (feat. L-Boogie) | [Google Drive][gd/track/get-it-started] |
-| 3 | A Toast To You | [Google Drive][gd/track/a-toast-to-you] |
-| 4 | Crunchtime | [Google Drive][gd/track/crunchtime] |
-| 5 | Tomato (feat. Rhyminal & Grime Tha MC) | [Google Drive][gd/track/tomato] |
-| 6 | Throw Out Your Back | [Google Drive][gd/track/throw-out-your-back] |
-| ***7*** | ***You Want Fire? (feat. Excetera, Godforbid, White Mic & Egadz)*** | [Google Drive][gd/track/you-want-fire] |
-| 8 | Settle Down | [Google Drive][gd/track/settle-down] |
-| 9 | Crowd Control (feat. Ed O.G., The Yukonn MC & DJ Frank White) | [Google Drive][gd/track/crowd-control] |
-| 10 | Bathtub | [Google Drive][gd/track/bathtub] |
-| 11 | True Spit (feat. Big Dese) | [Google Drive][gd/track/true-spit] |
-| 12 | Doin\' It Big | [Google Drive][gd/track/doin-it-big] |
-| 13 | In The Chair Crooked (feat. Ballcklub) | [Google Drive][gd/track/in-the-chair-crooked] |
-| 14 | The One And Only | [Google Drive][gd/track/the-one-and-only] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Power&Grace:
-
-<div align="center">
-
-### Blood brothers (feat. Godforbid) (2024)
-
-[YouTube][yt/track/blood-brothers]
-
-<img width="240" alt="Blood brothers (feat. Godforbid) (2024)" src="images/Blood brothers (feat. Godforbid) (2024).png"/>
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Player WON:
-
-<div align="center">
-
-### Welcome To Oz (2021)
-
-[Apple Music][am/album/welcome-to-oz]
-
-<img width="240" alt="Welcome To Oz (2021)" src="images/Welcome To Oz (2021).webp"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | Welcome To Oz | |
-| 2 | NOW Replay (feat. Banana Who) | |
-| 3 | Wicked (feat. Hayley Orrantia) | |
-| 4 | KANSAS | |
-| 5 | Haven\'t you heard? (feat. Jenny March) | |
-| ***6*** | ***Goodbye (feat. Godforbid)*** | [Google Drive][gd/track/goodbye] |
-| 7 | All Together Now (feat. Mr. Mountain) | |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Yoni Geller:
-
-<div align="center">
-
-### Spring Feast (2025)
-
-[Bandcamp][bc/album/spring-feast] · [YouTube][yt/album/spring-feast]
-
-<img width="240" alt="Spring Feast (2025)" src="images/Spring Feast (2025).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| ***1*** | ***Stoic Ownership (feat. Godforbid & Fishdoll)*** | [Bandcamp][bc/track/stoic-ownership] · [YouTube][yt/track/stoic-ownership] |
-| 2 | Until Skies Renew (feat. Fishdoll) | [Bandcamp][bc/track/until-skies-renew] · [YouTube][yt/track/until-skies-renew] |
-| ***3*** | ***Sidewalk Petrichor (feat. Godforbid)*** | [Bandcamp][bc/track/sidewalk-petrichor] · [YouTube][yt/track/sidewalk-petrichor] |
-| 4 | Spooky Thang?! | [Bandcamp][bc/track/spooky-thang] · [YouTube][yt/track/spooky-thang] |
-| 5 | WINDY | [Bandcamp][bc/track/windy] · [YouTube][yt/track/windy] |
-| 6 | Keep On (feat. Saso & Brian Lottermann) | [Bandcamp][bc/track/keep-on] · [YouTube][yt/track/keep-on] |
-| 7 | New Life | [Bandcamp][bc/track/new-life] · [YouTube][yt/track/new-life] |
-| 8 | Raise the Bar (feat. Fishdoll) | [Bandcamp][bc/track/raise-the-bar] · [YouTube][yt/track/raise-the-bar] |
-| 9 | Spring Feast | [Bandcamp][bc/track/spring-feast] · [YouTube][yt/track/spring-feast] |
-| 10 | Green Peach | [Bandcamp][bc/track/green-peach] · [YouTube][yt/track/green-peach] |
-
-</div>
-
-<br clear="right"/>
-
----
-
-## Yvonne Ambrée:
-
-<div align="center">
-
-### ELUSIVE (2025)
-
-[Bandcamp][bc/album/elusive] · [YouTube][yt/album/elusive]
-
-<img width="240" alt="ELUSIVE (2025)" src="images/ELUSIVE (2025).png"/>
-
-| № | Name | Links |
-|---|------|-------|
-| 1 | ELUSIVE | [Bandcamp][bc/track/elusive] · [YouTube][yt/track/elusive] |
-| 2 | JOAN | [Bandcamp][bc/track/joan] · [YouTube][yt/track/joan] |
-| 3 | SLOW | [Bandcamp][bc/track/slow] · [YouTube][yt/track/slow] |
-| ***4*** | ***DAMAGED (FT. GODFORBID)*** | [Bandcamp][bc/track/damaged] · [YouTube][yt/track/damaged] |
-| 5 | IN MY ROOM | [Bandcamp][bc/track/in-my-room] · [YouTube][yt/track/in-my-room] |
-| 6 | THIEVES | [Bandcamp][bc/track/thieves] · [YouTube][yt/track/thieves] |
-| 7 | OCEANIC | [Bandcamp][bc/track/oceanic] · [YouTube][yt/track/oceanic] |
-| 8 | WALROSS | [Bandcamp][bc/track/walross] · [YouTube][yt/track/walross] |
-| 9 | FAVOR | [Bandcamp][bc/track/favor] · [YouTube][yt/track/favor] |
-| 10 | SILHOUETTE | [Bandcamp][bc/track/silhouette] · [YouTube][yt/track/silhouette] |
-
-</div>
-
-<br clear="right"/>
 
 ---
 
@@ -1492,7 +516,409 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 </div>
 
-<br clear="right"/>
+---
+
+## Oak Lonetree:
+
+<div align="center">
+
+### The One (2007)
+
+[Discogs][ds/album/the-one] · [Google Drive][gd/album/the-one] · [YouTube][yt/album/the-one]
+
+<img width="240" alt="The One (2007)" src="images/The One (2007).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Intro | [Google Drive][gd/track/the-one/intro] |
+| 2 | Get It Started (feat. L-Boogie) | [Google Drive][gd/track/get-it-started] · [YouTube][yt/track/get-it-started] |
+| 3 | A Toast To You | [Google Drive][gd/track/a-toast-to-you] · [YouTube][yt/track/a-toast-to-you] |
+| 4 | Crunchtime | [Google Drive][gd/track/crunchtime] · [YouTube][yt/track/crunchtime] |
+| 5 | Tomato (feat. Rhyminal & Grime Tha MC) | [Google Drive][gd/track/tomato] · [YouTube][yt/track/tomato] |
+| 6 | Throw Out Your Back | [Google Drive][gd/track/throw-out-your-back] · [YouTube][yt/track/throw-out-your-back] |
+| ***7*** | ***You Want Fire? (feat. Excetera, Godforbid, White Mic & Egadz)*** | [Google Drive][gd/track/you-want-fire] · [YouTube][yt/track/you-want-fire] |
+| 8 | Settle Down | [Google Drive][gd/track/settle-down] · [YouTube][yt/track/settle-down] |
+| 9 | Crowd Control (feat. Ed O.G., The Yukonn MC & DJ Frank White) | [Google Drive][gd/track/crowd-control] · [YouTube][yt/track/crowd-control] |
+| 10 | Bathtub | [Google Drive][gd/track/bathtub] · [YouTube][yt/track/bathtub] |
+| 11 | True Spit (feat. Big Dese) | [Google Drive][gd/track/true-spit] · [YouTube][yt/track/true-spit] |
+| 12 | Doin\' It Big | [Google Drive][gd/track/doin-it-big] · [YouTube][] |
+| 13 | In The Chair Crooked (feat. Ballcklub) | [Google Drive][gd/track/in-the-chair-crooked] · [YouTube][yt/track/in-the-chair-crooked] |
+| 14 | The One And Only | [Google Drive][gd/track/the-one-and-only] · [YouTube][yt/track/the-one-and-only] |
+
+</div>
+
+---
+
+## Docdelay:
+
+<div align="center">
+
+### American Style Cardboard (2012)
+
+[Bandcamp][bc/album/american-style-cardboard] · [YouTube][yt/album/american-style-cardboard]
+
+<img width="240" alt="American Style Cardboard (2012)" src="images/American Style Cardboard (2012).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | A Bit of a Drag | [Bandcamp][bc/track/a-bit-of-a-drag] · [YouTube][yt/track/a-bit-of-a-drag] |
+| 2 | Idle Worship | [Bandcamp][bc/track/idle-worship] · [YouTube][yt/track/idle-worship] |
+| 3 | Selling Sleep | [Bandcamp][bc/track/selling-sleep] · [YouTube][yt/track/selling-sleep] |
+| 4 | Pity Party | [Bandcamp][bc/track/pity-party] · [YouTube][yt/track/pity-party] |
+| 5 | Baltimore to Buenos Aires | [Bandcamp][bc/track/baltimore-to-buenos-aires] · [YouTube][yt/track/baltimore-to-buenos-aires] |
+| 6 | Sickened by the Sight | [Bandcamp][bc/track/sickened-by-the-sight] · [YouTube][yt/track/sickened-by-the-sight] |
+| 7 | Driveway | [Bandcamp][bc/track/driveway] · [YouTube][yt/track/driveway] |
+| 8 | Sodapop & Bubblegum (feat. Thirtyseven) | [Bandcamp][bc/track/sodapop-bubblegum] · [YouTube][yt/track/sodapop-bubblegum] |
+
+</div>
+
+---
+
+## Kendra Morris:
+
+<div align="center">
+
+### I\'m Real (2012)
+
+[YouTube][yt/track/im-real]
+
+<img width="240" alt="I'm Real (2012)" src="images/I'm Real (2012).jpg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Mockingbird (2013)
+
+[YouTube][yt/album/mockingbird]
+
+<img width="240" alt="Mockingbird (2013)" src="images/Mockingbird (2013).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Space Oddity | [YouTube][yt/track/space-oddity] |
+| 2 | As Long as I\'ve Got You | [YouTube][yt/track/as-long-as-ive-got-you] |
+| 3 | Miss You | [YouTube][yt/track/miss-you] |
+| 4 | Walk On By | [YouTube][yt/track/walk-on-by] |
+| 5 | Shine On You Crazy Diamond | [YouTube][yt/track/shine-on-you-crazy-diamond] |
+| 6 | Wicked Game | [YouTube][yt/track/wicked-game] |
+| ***7*** | ***I\'m gonna be (500 miles)*** | [YouTube][yt/track/im-gonna-be-500-miles] |
+| 8 | Karma Police | [YouTube][yt/track/karma-police] |
+| 9 | Ride the Lightning | [YouTube][yt/track/ride-the-lightning] |
+| 10 | Cry Me a River | [YouTube][yt/track/cry-me-a-river] |
+| 11 | Walk on the Wild Side | [YouTube][yt/track/walk-on-the-wild-side] |
+| 12 | Black Hole Sun | [YouTube][yt/track/black-hole-sun] |
+| 13 | Don\'t Talk (Put Your Head On My Shoulder) | [YouTube][yt/track/dont-talk-put-your-head-on-my-shoulder] |
+| 14 | No Love (But Your Love) | [YouTube][yt/track/no-love-but-your-love] |
+
+</div>
+
+---
+
+<div align="center">
+
+### New Drug (2019)
+
+[YouTube][yt/track/new-drug]
+
+<img width="240" alt="New Drug (2019)" src="images/New Drug (2019).jpg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019)
+
+[YouTube][yt/track/bury-me]
+
+<img width="240" alt="Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019)" src="images/Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019).webp"/>
+
+</div>
+
+---
+
+## World Around Records:
+
+<div align="center">
+
+### Singles 2011-2012 (2013)
+
+[Bandcamp][bc/album/singles-2011-2012]
+
+<img width="240" alt="Big Day for the Little People (2012)" src="images/Big Day for the Little People (2012).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Man Mantis — Gonna Die Here | [Bandcamp][bc/track/gonna-die-here] · [YouTube][yt/track/gonna-die-here] |
+| 2 | Humpasaur Jones — The Patience | [Bandcamp][bc/track/the-patience] · [YouTube][yt/track/the-patience] |
+| 3 | Zilla Rocca — Bad Weather Classic (Dr. Quandary Remix) (feat. Mally & Curly Castro) | [Bandcamp][bc/track/bad-weather-classic] · [YouTube][yt/track/bad-weather-classic] |
+| 4 | Louis Mackey — Everything, Everywhere, Always | [Bandcamp][bc/track/everything-everywhere-always] · [YouTube][yt/track/everything-everywhere-always] |
+| 5 | Dr. Quandary — Oneiric Field Mandala | [Bandcamp][bc/track/oneiric-field-mandala] · [YouTube][yt/track/oneiric-field-mandala] |
+| ***6*** | ***Godforbid & Thirtyseven — Big Day for the Little People*** | [Bandcamp][bc/track/big-day-for-the-little-people] · [YouTube][yt/track/big-day-for-the-little-people] |
+| 7 | IV the Polymath & Thirtyseven — The Frame | [Bandcamp][bc/track/the-frame] · [YouTube][yt/track/the-frame] |
+| 8 | Naturetone — Stargazing (feat. DLO) | [Bandcamp][bc/track/stargazing] |
+| 9 | Algorhythms — Open Ended | [Bandcamp][bc/track/open-ended] · [YouTube][yt/track/open-ended] |
+| 10 | Small Professor — The Old Eleven | [Bandcamp][bc/track/the-old-eleven] |
+
+</div>
+
+---
+
+<div align="center">
+
+### We Are World Around Vol. 4. (2014)
+
+[Bandcamp][bc/album/we-are-world-around-vol-4]
+
+<img width="240" alt="We Are World Around Vol. 4. (2014)" src="images/We Are World Around Vol. 4. (2014).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Suplington — Smile, Soon It\'ll Be Winter | [Bandcamp][bc/track/smile-soon-itll-be-winter] |
+| 2 | Man Mantis — Super Not a Cop | [Bandcamp][bc/track/super-not-a-cop] |
+| 3 | Louis Mackey & Dr. Quandary — Ghosts of the Commonwealth | [Bandcamp][bc/track/ghosts-of-the-common-wealth] |
+| 4 | Ill Clinton — Hidden | [Bandcamp][bc/track/hidden] |
+| 5 | Louis Mackey & Solve One — Lots of Lip | [Bandcamp][bc/track/lots-of-lip] · [YouTube][yt/track/lots-of-lip] |
+| 6 | Naturetone — Sky | [Bandcamp][bc/track/sky] |
+| ***7*** | ***Godforbid & Thirtyseven — No Truce*** | [Bandcamp][bc/track/no-truce] · [YouTube][yt/track/no-truce] |
+| 8 | Louis Mackey — Maundy Thursday | [Bandcamp][bc/track/maundy-thursday] |
+| 9 | Josh Cote — Witch Doctor | [Bandcamp][bc/track/witch-doctor] |
+| 10 | Louis Mackey — I Think About You All of the Time | [Bandcamp][bc/track/i-think-about-you-all-of-the-time] |
+| 11 | DJ Multiple Sex Partners — Pale White Cutie Pie (Closing Theme) | [Bandcamp][bc/track/pale-white-cutie-pie-closing-theme] · [YouTube][yt/track/pale-white-cutie-pie-closing-theme] |
+
+</div>
+
+---
+
+## FDR:
+
+<div align="center">
+
+### Anthembanger 2012 (2014)
+
+[Bandcamp][bc/track/anthembanger-2012]
+
+<img width="240" alt="Anthembanger 2012 (2014)" src="images/Anthembanger 2012 (2014).jpg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Fear of Death and the Need for Reproduction (2014)
+
+[Bandcamp][bc/album/fear-of-death-and-the-need-for-reproduction]
+
+<img width="240" alt="Fear of Death and the Need for Reproduction (2014)" src="images/Fear of Death and the Need for Reproduction (2014).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Cold Shoulder of a Beautiful Woman at the Bar | [Bandcamp][bc/track/cold-shoulder-of-a-beautiful-woman-at-the-bar] |
+| 2 | Showing Up | [Bandcamp][bc/track/showing-up] · [YouTube][yt/track/showing-up] |
+| 3 | Bedouin Dreams | [Bandcamp][bc/track/bedouin-dreams] · [YouTube][yt/track/bedouin-dreams] |
+| 4 | Destroyer of All Things | [Bandcamp][bc/track/destroyer-of-all-things] · [YouTube][yt/track/destroyer-of-all-things] |
+| 5 | Where the Cameras Don\'t See | [Bandcamp][bc/track/where-the-cameras-dont-see] · [YouTube][yt/track/where-the-cameras-dont-see] |
+| 6 | Night Owls | [Bandcamp][bc/track/night-owls] · [YouTube][yt/track/night-owls] |
+
+</div>
+
+---
+
+## Baby Boy Robinson:
+
+<div align="center">
+
+### Hungry Wolf (New York Remix) (2015)
+
+[YouTube][yt/track/hungry-wolf-new-york-remix]
+
+<img width="240" alt="Hungry Wolf (New York Remix) (2015)" src="images/Hungry Wolf (New York Remix) (2015).jpg"/>
+
+</div>
+
+---
+
+## Camarah Walleed:
+
+<div align="center">
+
+### Follow My Leed (2017)
+
+[Bandcamp][bc/album/follow-my-leed] · [YouTube][yt/album/follow-my-leed]
+
+<img width="240" alt="Follow My Leed (2017)" src="images/Follow My Leed (2017).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Follow My Lead | [Bandcamp][bc/track/follow-my-lead] · [YouTube][yt/track/follow-my-lead] |
+| 2 | Motivation (feat. Gwen Leathers) | [Bandcamp][bc/track/motivation] · [YouTube][yt/track/motivation] |
+| 3 | Click (feat. Casta) | [Bandcamp][bc/track/click] · [YouTube][yt/track/click] |
+| 4 | No Matter What (feat. Jesse Payo) | [Bandcamp][bc/track/no-matter-what] · [YouTube][yt/track/no-matter-what] |
+| 5 | The Def Adder (feat. DJ Touchphonics) | [Bandcamp][bc/track/the-def-adder] · [YouTube][yt/track/the-def-adder] |
+| 6 | In Between the Lines (feat. Ms. B\'haved) | [Bandcamp][bc/track/in-between-the-lines] · [YouTube][yt/track/in-between-the-lines] |
+| 7 | Ain\'t Runnin\' with Me (feat. T.I.M.E.) | [Bandcamp][bc/track/aint-runnin-with-me] · [YouTube][yt/track/aint-runnin-with-me] |
+| 8 | Issue\'s | [Bandcamp][bc/track/issues] · [YouTube][yt/track/issues] |
+| ***9*** | ***Walk On (feat. Godforbid of T.H.D)*** | [Bandcamp][bc/track/walk-on] · [YouTube][yt/track/walk-on] |
+| 10 | I Told Jesus | [Bandcamp][bc/track/i-told-jesus] · [YouTube][yt/track/i-told-jesus] |
+| 11 | 94.5 Skit Intro (Live) | [YouTube][yt/track/94.5-skit-intro-live] |
+| 12 | Make U Do Right | [Bandcamp][bc/track/make-u-do-right] · [YouTube][yt/track/make-u-do-right] |
+| 13 | 9.45 Skit Outro (Live) | [YouTube][yt/track/94.5-skit-outro-live] |
+| 14 | Place 2 Go | [Bandcamp][bc/track/place-2-go] · [YouTube][yt/track/place-2-go] |
+| 15 | Feel Free (feat. Jaxn) | [Bandcamp][bc/track/feel-free] · [YouTube][yt/track/feel-free] |
+| 16 | Can\'t Breath | [Bandcamp][bc/track/cant-breath] · [YouTube][yt/track/cant-breath] |
+
+</div>
+
+---
+
+<div align="center">
+
+### Ripple Effect (2020)
+
+[Bandcamp][bc/album/ripple-effect] · [YouTube][yt/album/ripple-effect]
+
+<img width="240" alt="Ripple Effect (2020)" src="images/Ripple Effect (2020).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Ripple Effect | [Bandcamp][bc/track/ripple-effect] |
+| 2 | Can\'t Calm Me Down | [Bandcamp][bc/track/cant-calm-me-down] · [YouTube][yt/track/cant-calm-me-down] |
+| ***3*** | ***Beatz \'n\' Thangz (feat. Ajax Lo & Godforbid)*** | [Bandcamp][bc/track/beatz-n-thangz] · [YouTube][yt/track/beatz-n-thangz] |
+| 4 | Do You! (feat. Ajax Lo) | [Bandcamp][bc/track/do-you] · [YouTube][yt/track/do-you] |
+| 5 | Sandy\'s Message (Intro) | [Bandcamp][bc/track/sandys-message-intro] |
+| 6 | America? | [Bandcamp][bc/track/america] · [YouTube][yt/track/america] |
+| 7 | Life Ain\'t So Easy (feat. Angel Gittens) | [Bandcamp][bc/track/life-aint-so-easy] · [YouTube][yt/track/life-aint-so-easy] |
+| 8 | Sandy\'s Message (Outro) | [Bandcamp][bc/track/sandys-message-outro] |
+| 9 | Better World (Instrumental) | [Bandcamp][bc/track/better-world-instrumental] · [YouTube][yt/track/better-world-instrumental] |
+
+</div>
+
+---
+
+<div align="center">
+
+### Camarah Walleed & Jaxn (2020)
+
+[last.fm][lf/album/camarah-walleed-and-jaxn] · [YouTube][yt/album/camarah-walleed-and-jaxn]
+
+<img width="240" alt="Camarah Walleed & Jaxn (2020)" src="images/Camarah Walleed & Jaxn (2020).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| ***1*** | ***Mami Blu (feat. Father Time & Godforbid)*** | [YouTube][yt/track/mami-blu] |
+| 2 | Flying Hammerz (feat. Louie Sincere & Jos Rockwell) | [YouTube][yt/track/flying-hammerz] |
+| 3 | Say That to Say This (feat. Jos Rockwell) | [YouTube][yt/track/say-that-to-say-this] |
+| 4 | Subtle Movements (feat. Father Time) | [YouTube][yt/track/subtle-movements] |
+| ***5*** | ***Hi-Speed Havok (feat. Father Time, King Author & Godforbid)*** | [YouTube][yt/track/hi-speed-havok] |
+| ***6*** | ***Hey Kids! (feat. Godforbid)*** | [YouTube][yt/track/hey-kids] |
+| ***7*** | ***Steel Sharpen Steel (feat. Father Time, Thirstin Howl the 3rd & Godforbid)*** | [YouTube][yt/track/steel-sharpen-steel] |
+| 8 | Spitting Image | [YouTube][yt/track/spitting-image] |
+| 9 | Goodnight Irene | [YouTube][yt/track/goodnight-irene] |
+| 10 | Finer Things (feat. Father Time) | [YouTube][yt/track/finer-things] |
+| 11 | Donde Esta (feat. Hand Skillz & Zay Skillz) | [YouTube][yt/track/donde-esta] |
+| 12 | Lasting Legacy (feat. Father Time) | [YouTube][yt/track/lasting-legacy] |
+
+</div>
+
+---
+
+## Ajax Lo:
+
+<div align="center">
+
+### Fistful of Dollar$ (2017)
+
+[YouTube][yt/album/fistful-of-dollars]
+
+<img width="240" alt="Fistful of Dollar$ (2017)" src="images/Fistful of Dollar$ (2017).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Personal Business | [YouTube][yt/track/personal-business] |
+| 2 | End of the Day | [YouTube][yt/track/end-of-the-day] |
+| 3 | Blood from a Stone | [YouTube][yt/track/blood-from-a-stone] |
+| 4 | Hamo\'n Sazo\'n (feat. Lmw) | [YouTube][yt/track/hamon-sazon] |
+| 5 | So Far Away | [YouTube][yt/track/so-far-away] |
+| 6 | The Little Things | [YouTube][yt/track/the-little-things] |
+| ***7*** | ***Rhyme & Punishment (feat. Father Time & That Handsome Devil)*** | [YouTube][yt/track/rhyme-and-punishment] |
+| 8 | From the Sticks to the Bricks (feat. Kaliber) | [YouTube][yt/track/from-the-sticks-to-the-bricks] |
+| 9 | Glad You Think so (feat. Don P) | [YouTube][yt/track/glad-you-think-so] |
+| 10 | Paradox | [YouTube][yt/track/paradox] |
+| 11 | Take a Look Around | [YouTube][yt/track/take-a-look-around] |
+| 12 | Marathon Monday | [YouTube][yt/track/marathon-monday] |
+| 13 | Good to Bad | [YouTube][yt/track/good-to-bad] |
+| 14 | Cold Case (feat. King Author) | [YouTube][yt/track/cold-case] |
+
+</div>
+
+---
+
+<div align="center">
+
+### Indica Jaxn 3 ( All Gas No Breaks ) (2024)
+
+[last.fm][lf/album/indica-jaxn-3-all-gas-no-breaks] · [YouTube][yt/album/indica-jaxn-3-all-gas-no-breaks]
+
+<img width="240" alt="Indica Jaxn 3 ( All Gas No Breaks ) (2024)" src="images/Indica Jaxn 3 ( All Gas No Breaks ) (2024).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | The Snake in the Hawk Shadow | [YouTube][yt/track/the-snake-in-the-hawk-shadow] |
+| 2 | Shoulda Seen It Coming (feat. Camarah Walleed) | [YouTube][yt/track/shoulda-seen-it-coming] |
+| 3 | All Gas No Breaks (feat. J Vengeance & Mike Titan) | [YouTube][yt/track/all-gas-no-breaks] |
+| 4 | The People Have Spoken (feat. Lomerta Official) | [YouTube][yt/track/the-people-have-spoken] |
+| 5 | Brick Laying (feat. losLAUREN 718) | [YouTube][yt/track/brick-laying] |
+| 6 | Varsity Letters (feat. Camarah Walleed) | [YouTube][yt/track/varsity-letters] |
+| 7 | These Nights (feat. Mike Titan) | [YouTube][yt/track/these-nights] |
+| 8 | They Gon Pay | [YouTube][yt/track/they-gon-pay] |
+| 9 | Pinky Promises (feat. J Bizz) | [YouTube][yt/track/pinky-promises] |
+| ***10*** | ***Line Em Up (feat. Godforbid & Camarah Walleed)*** | [YouTube][yt/track/line-em-up] |
+| 11 | Still Alive & Well | [YouTube][yt/track/still-alive-and-well] |
+
+</div>
+
+---
+
+<div align="center">
+
+### Flutie Pass (2024)
+
+[YouTube][yt/track/flutie-pass]
+
+<img width="240" alt="Flutie Pass (2024)" src="images/Flutie Pass (2024).png"/>
+
+</div>
+
+---
+
+## Dr. Quandary:
+
+<div align="center">
+
+### Jukebox Buddha (2017)
+
+[Bandcamp][bc/album/jukebox-buddha] · [YouTube][yt/album/jukebox-buddha]
+
+<img width="240" alt="Jukebox Buddha (2017)" src="images/Jukebox Buddha (2017).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Bones & Portents (feat. TIMESCANNER) | [Bandcamp][bc/track/bones-and-portents] · [YouTube][yt/track/bones-and-portents] |
+| 2 | The Boy Who Went to War (feat. PremRock & Elder Orange) | [Bandcamp][bc/track/the-boy-who-went-to-war] · [YouTube][yt/track/the-boy-who-went-to-war] |
+| 3 | Court of the Monkey Prince (feat. Louis Mackey) | [Bandcamp][bc/track/court-of-the-monkey-prince] · [YouTube][yt/track/court-of-the-monkey-prince] |
+| 4 | Black Tar (feat. PremRock & Has-Lo) | [Bandcamp][bc/track/black-tar] · [YouTube][yt/track/black-tar] |
+| 5 | Your Gods & Mine (feat. Zilla Rocca) | [Bandcamp][bc/track/your-gods-and-mine] · [YouTube][yt/track/your-gods-and-mine] |
+| 6 | The Blown Fuse (feat. Has-Lo) | [Bandcamp][bc/track/the-blown-fuse] · [YouTube][yt/track/the-blown-fuse] |
+| ***7*** | ***Jukebox Buddha (feat. Godforbid & Louis Mackey)*** | [Bandcamp][bc/track/jukebox-buddha] · [YouTube][yt/track/jukebox-buddha] |
+| 8 | Can\'t Go On Without You (feat. Astrid Engberg) | [Bandcamp][bc/track/cant-go-on-without-you] · [YouTube][yt/track/cant-go-on-without-you] |
+| 9 | Into the Dirt (feat. Elder Orange & Has-Lo) | [Bandcamp][bc/track/into-the-dirt] · [YouTube][yt/track/into-the-dirt] |
+
+</div>
 
 ---
 
@@ -1522,11 +948,608 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 </div>
 
-<br clear="right"/>
+---
+
+## Godforbid:
+
+<div align="center">
+
+### Jesus Chrysler (2018)
+
+[Bandcamp][bc/album/jesus-chrysler] · [YouTube][yt/album/jesus-chrysler]
+
+<img width="240" alt="Jesus Chrysler (2018)" src="images/Jesus Chrysler (2018).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Previous Behavior | [Bandcamp][bc/track/previous-behavior] · [YouTube][yt/track/previous-behavior] |
+| 2 | Brother | [Bandcamp][bc/track/brother] · [YouTube][yt/track/brother] |
+| 3 | The Problem | [Bandcamp][bc/track/the-problem] · [YouTube][yt/track/the-problem] |
+| 4 | Black Elk | [Bandcamp][bc/track/black-elk] · [YouTube][yt/track/black-elk] |
+| 5 | Where the Lonely Go | [Bandcamp][bc/track/where-the-lonely-go] · [YouTube][yt/track/where-the-lonely-go] |
+| 6 | Dance Like Your Body\'s on Fire (feat. Esoteric) | [Bandcamp][bc/track/dance-like-your-bodys-on-fire] · [YouTube][yt/track/dance-like-your-bodys-on-fire] |
+| 7 | Try | [Bandcamp][bc/track/try] · [YouTube][yt/track/try] |
+| 8 | Strange Days | [Bandcamp][bc/track/strange-days] · [YouTube][yt/track/strange-days] |
+| 9 | Chrome | [Bandcamp][bc/track/jesus-chrysler/chrome] · [YouTube][yt/track/jesus-chrysler/chrome] |
+| 10 | Night Nurse | [Bandcamp][bc/track/night-nurse] · [YouTube][yt/track/night-nurse] |
+
+</div>
+
+---
+
+<div align="center">
+
+### Mamas Don\'t Let Your Babies Grow Up To Be Cowboys — Larry Lee Oppel & Godforbid (Cover) (2019)
+
+[YouTube][yt/track/mamas-dont-let-your-babies-grow-up-to-be-cowboys-cover]
+
+<img width="240" alt="Mamas Don't Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover)" src="images/Mamas Don't Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover).jpg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### How to Make Your Art Matter (2020)
+
+[Bandcamp][bc/album/how-to-make-your-art-matter] · [YouTube][yt/album/how-to-make-your-art-matter]
+
+<img width="240" alt="How to Make Your Art Matter (2020)" src="images/How to Make Your Art Matter (2020).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Don\'t Know Me Like That | [Bandcamp][bc/track/dont-know-me-like-that] · [YouTube][yt/track/dont-know-me-like-that] |
+| 2 | One Day We\'ll Be Ugly | [Bandcamp][bc/track/one-day-well-be-ugly] · [YouTube][yt/track/one-day-well-be-ugly] |
+| 3 | More of Us | [Bandcamp][bc/track/more-of-us] · [YouTube][yt/track/more-of-us] |
+| 4 | Clowns | [Bandcamp][bc/track/clowns] · [YouTube][yt/track/clowns] |
+| 5 | How to Make Your Art Matter | [Bandcamp][bc/track/how-to-make-your-art-matter] · [YouTube][yt/track/how-to-make-your-art-matter] |
+| 6 | Going Round | [Bandcamp][bc/track/going-round] · [YouTube][yt/track/going-round] |
+| 7 | Every Word I Know | [Bandcamp][bc/track/every-word-i-know] · [YouTube][yt/track/every-word-i-know] |
+| 8 | Death Will Come in a Early Morning Text | [Bandcamp][bc/track/death-will-come-in-a-early-morning-text] · [YouTube][yt/track/death-will-come-in-a-early-morning-text] |
+| 9 | Communication Nowhere | [Bandcamp][bc/track/communication-nowhere] · [YouTube][yt/track/communication-nowhere] |
+| 10 | Real Fake (feat. A-F-R-O) | [Bandcamp][bc/track/real-fake] · [YouTube][yt/track/real-fake] |
+
+</div>
+
+---
+
+<div align="center">
+
+### Tales of the Haunted Microphone (2021)
+
+[Bandcamp][bc/album/tales-of-the-haunted-microphone] · [YouTube][yt/album/tales-of-the-haunted-microphone]
+
+<img width="240" alt="Tales of the Haunted Microphone (2021)" src="images/Tales of the Haunted Microphone (2021).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | The Haunted Mic | [Bandcamp][bc/track/the-haunted-mic] · [YouTube][yt/track/the-haunted-mic] |
+| 2 | Alone in the City | [Bandcamp][bc/track/alone-in-the-city] · [YouTube][yt/track/alone-in-the-city] |
+| 3 | Bewitched | [Bandcamp][bc/track/bewitched] · [YouTube][yt/track/bewitched] |
+| 4 | Bad Ink | [Bandcamp][bc/track/bad-ink] · [YouTube][yt/track/bad-ink] |
+| 5 | Zombi | [Bandcamp][bc/track/zombi] · [YouTube][yt/track/zombi] |
+| 6 | Janet | [Bandcamp][bc/track/janet] · [YouTube][yt/track/janet] |
+| 7 | Dead Best Friends | [Bandcamp][bc/track/dead-best-friend] · [YouTube][yt/track/dead-best-friend] |
+
+</div>
+
+---
+
+<div align="center">
+
+### Tales of the Haunted Microphone 2 (2023)
+
+[Bandcamp][bc/album/tales-of-the-haunted-microphone-2] · [YouTube][yt/album/tales-of-the-haunted-microphone-2]
+
+<img width="240" alt="Tales of the Haunted Microphone 2 (2023)" src="images/Tales of the Haunted Microphone 2 (2023).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | That\'s How it Starts... | [Bandcamp][bc/track/thats-how-it-starts] · [YouTube][yt/track/thats-how-it-starts] |
+| 2 | Wasn\'t Even Close To Halloween | [Bandcamp][bc/track/wasnt-even-close-to-halloween] · [YouTube][yt/track/wasnt-even-close-to-halloween] |
+| 3 | Albert | [Bandcamp][bc/track/albert] · [YouTube][yt/track/albert] |
+| 4 | Cultivating a Vibe | [Bandcamp][bc/track/cultivating-a-vibe] · [YouTube][yt/track/cultivating-a-vibe] |
+| 5 | The Lights | [Bandcamp][bc/track/the-lights] · [YouTube][yt/track/the-lights] |
+| 6 | Watch These Hands | [Bandcamp][bc/track/watch-these-hands] · [YouTube][yt/track/watch-these-hands] |
+| 7 | Hungry City | [Bandcamp][bc/track/hungry-city] · [YouTube][yt/track/hungry-city] |
+| 8 | Emotions Can Be Hard To Process | [Bandcamp][bc/track/emotions-can-be-hard-to-process] · [YouTube][yt/track/emotions-can-be-hard-to-process] |
+| 9 | Gollum | [Bandcamp][bc/track/gollum] · [YouTube][yt/track/gollum] |
+| 10 | Curse of the Haunted Mic (feat. LIONSMITH) | [Bandcamp][bc/track/curse-of-the-haunted-mic] · [YouTube][yt/track/curse-of-the-haunted-mic] |
+
+</div>
+
+---
+
+<div align="center">
+
+### The Sound of Me Coping with Loss (2024)
+
+[Bandcamp][bc/album/the-sound-of-me-coping-with-loss]
+
+<img width="240" alt="The Sound of Me Coping with Loss (2024)" src="images/The Sound of Me Coping with Loss (2024).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Pangea | [Bandcamp][bc/track/pangea] |
+| 2 | My Horoscope was Wrong | [Bandcamp][bc/track/my-horoscope-was-wrong] |
+| 3 | Going Through Your Stuff | [Bandcamp][bc/track/going-through-your-stuff] |
+| 4 | Spring | [Bandcamp][bc/track/spring] |
+
+</div>
+
+---
+
+## Kemo the Blaxican:
+
+<div align="center">
+
+### Ugly at Times (2018)
+
+[last.fm][lf/album/ugly-at-times] · [YouTube][yt/album/ugly-at-times]
+
+<img width="240" alt="Ugly at Times (2018)" src="images/Ugly at Times (2018).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Something About Love (feat. Godforbid) | [YouTube][yt/track/something-about-love] |
+| 2 | Ugly At Times (feat. Godforbid) | [YouTube][yt/track/ugly-at-times] |
+| 3 | What You Might Do (feat. Godforbid) | [YouTube][yt/track/what-you-might-do] |
+
+</div>
+
+---
+
+<div align="center">
+
+### No More Love Songs (2020)
+
+[YouTube][yt/track/no-more-love-songs]
+
+<img width="240" alt="No More Love Songs (2020)" src="images/No More Love Songs (2020).jpg"/>
+
+</div>
+
+---
+
+## Skipp Whitman:
+
+<div align="center">
+
+### Awkward (feat. Godforbid) (2020)
+
+[YouTube][yt/tracks/awkward]
+
+<img width="240" alt="Awkward (feat. Godforbid) (2020)" src="images/Awkward (feat. Godforbid) (2020).webp"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### HERMOSA (2020)
+
+[Bandcamp][bc/album/hermosa] · [YouTube][yt/album/hermosa]
+
+<img width="240" alt="HERMOSA (2020)" src="images/HERMOSA (2020).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| ***1*** | ***Hermosa ft. That Handsome Devil*** | [Bandcamp][bc/track/hermosa-ft-that-handsome-devil] · [YouTube][yt/track/hermosa-ft-that-handsome-devil] |
+| 2 | Bloody Mary | [Bandcamp][bc/track/bloody-mary] · [YouTube][yt/track/bloody-mary] |
+| 3 | Let That Go! | [Bandcamp][bc/track/let-that-go] · [YouTube][yt/track/let-that-go] |
+| 4 | Player ft. Kendra Morris | [Bandcamp][bc/track/player-ft-kendra-morris] · [YouTube][yt/track/player-ft-kendra-morris] |
+| 5 | Never Afraid | [Bandcamp][bc/track/never-afraid] · [YouTube][yt/track/never-afraid] |
+| 6 | Lana Baby | [Bandcamp][bc/track/lana-baby] · [YouTube][yt/track/lana-baby] |
+
+</div>
+
+---
+
+<div align="center">
+
+### FREAKSHOW (2024)
+
+[Bandcamp][bc/album/freakshow] · [YouTube][yt/album/freakshow]
+
+<img width="240" alt="FREAKSHOW (2024)" src="images/FREAKSHOW (2024).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | OPEN | [Bandcamp][bc/track/open] · [YouTube][yt/track/open] |
+| 2 | MRNG | [Bandcamp][bc/track/mrng] · [YouTube][yt/track/mrng] |
+| ***3*** | ***MUSIC THERAPY (feat. GODFORBID)*** | [Bandcamp][bc/track/music-therapy] · [YouTube][yt/track/music-therapy] |
+| 4 | SKNMX | [Bandcamp][bc/track/sknmx] · [YouTube][yt/track/sknmx] |
+| 5 | HOT! | [Bandcamp][bc/track/hot] · [YouTube][yt/track/hot] |
+| 6 | NO | [Bandcamp][bc/track/no] · [YouTube][yt/track/no] |
+| 7 | FLOAT | [Bandcamp][bc/track/float] · [YouTube][yt/track/float] |
+| 8 | FREE | [Bandcamp][bc/track/free] · [YouTube][yt/track/free] |
+
+</div>
+
+---
+
+## LMNO:
+
+<div align="center">
+
+### Monolith (2020)
+
+[Bandcamp][bc/album/monolith]
+
+<img width="240" alt="Monolith (2020)" src="images/Monolith (2020).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| <ins>_1_</ins> | <ins>_Monolith_</ins> | [Bandcamp][bc/track/monolith] |
+| 2 | Hate To Do This | [Bandcamp][bc/track/hate-to-do-this] |
+| 3 | Livestock | [Bandcamp][bc/track/livestock] |
+| 4 | White Man | [Bandcamp][bc/track/white-man] |
+| 5 | A.X.I.O.U.S. | [Bandcamp][bc/track/a-x-i-o-u-s] |
+| 6 | Keep Moving | [Bandcamp][bc/track/keep-moving] · [YouTube][yt/track/keep-moving] |
+
+</div>
+
+---
+
+## Dunum Dunum:
+
+<div align="center">
+
+### We Didn\'t Sign Up For This (2020)
+
+[Bandcamp][bc/album/we-didnt-sign-up-for-this] · [YouTube][yt/album/we-didnt-sign-up-for-this]
+
+<img width="240" alt="We Didn't Sign Up For This (2020)" src="images/We Didn't Sign Up For This (2020).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | I Want More | [Bandcamp][bc/track/i-want-more] · [YouTube][yt/track/i-want-more] |
+| 2 | Roll with Us | [Bandcamp][bc/track/roll-with-us] · [YouTube][yt/track/roll-with-us] |
+| 3 | Animals (feat. Santosh Lalonde) | [Bandcamp][bc/track/animals] · [YouTube][yt/track/animals] |
+| 4 | Buried Alive | [Bandcamp][bc/track/buried-alive] · [YouTube][yt/track/buried-alive] |
+| 5 | Turn the Clocks Back (feat. Hua Li & Lex French) | [Bandcamp][bc/track/turn-the-clocks-back] · [YouTube][yt/track/turn-the-clocks-back] |
+| ***6*** | ***Build a Machine (feat. Godforbid)*** | [Bandcamp][bc/track/build-a-machine] · [YouTube][yt/track/build-a-machine] |
+
+</div>
+
+---
+
+## Czarface:
+
+<div align="center">
+
+### Super What? (2021)
+
+[last.fm][lf/album/super-what] · [YouTube][yt/album/super-what]
+
+<img width="240" alt="Super What? (2021)" src="images/Super What (2021).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | The King and Eye | [YouTube][yt/track/the-king-and-eye] |
+| 2 | Czarwyn\'s Theory of People Getting Loose | [YouTube][yt/track/czarwyns-theory-of-people-getting-loose] |
+| 3 | Mando Calrissian | [YouTube][yt/track/mando-calrissian] |
+| 4 | DOOM Unto Others | [YouTube][yt/track/doom-unto-others] |
+| 5 | Jason & The Czargonauts | [YouTube][yt/track/jason-and-the-czargonauts] |
+| 6 | Break in the Action | [YouTube][yt/track/break-in-the-action] |
+| 7 | A Name to the Face | [YouTube][yt/track/a-name-to-the-face] |
+| 8 | This is Canon Now | [YouTube][yt/track/this-is-canon-now] |
+| ***9*** | ***So Strange*** | [YouTube][yt/track/so-strange] |
+| 10 | Young World | [YouTube][yt/track/young-world] |
+
+</div>
+
+---
+
+## Player WON:
+
+<div align="center">
+
+### Welcome To Oz (2021)
+
+[Apple Music][am/album/welcome-to-oz]
+
+<img width="240" alt="Welcome To Oz (2021)" src="images/Welcome To Oz (2021).webp"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Welcome To Oz | |
+| 2 | NOW Replay (feat. Banana Who) | |
+| 3 | Wicked (feat. Hayley Orrantia) | |
+| 4 | KANSAS | |
+| 5 | Haven\'t you heard? (feat. Jenny March) | |
+| ***6*** | ***Goodbye (feat. Godforbid)*** | [Google Drive][gd/track/goodbye] |
+| 7 | All Together Now (feat. Mr. Mountain) | |
+
+</div>
+
+---
+
+## Princess Problems:
+
+<div align="center">
+
+### The Backwards Thank You (2021)
+
+[Bandcamp][bc/album/the-backwards-thank-you] · [YouTube][yt/album/the-backwards-thank-you]
+
+<img width="240" alt="The Backwards Thank You (2021)" src="images/The Backwards Thank You (2021).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Art of War | [Bandcamp][bc/track/art-of-war] · [YouTube][yt/track/art-of-war] |
+| ***2*** | ***Chrome (feat. Godforbid)*** | [Bandcamp][bc/track/the-backwards-thank-you/chrome] · [YouTube][yt/track/the-backwards-thank-you/chrome] |
+| 3 | Einstein | [Bandcamp][bc/track/einstein] · [YouTube][yt/track/einstein] |
+| 4 | Pussy | [Bandcamp][bc/track/pussy] · [YouTube][yt/track/pussy] |
+| 5 | Hungry | [Bandcamp][bc/track/hungry] · [YouTube][yt/track/hungry] |
+| 6 | Don\'t You Worry | [Bandcamp][bc/track/dont-you-worry] · [YouTube][yt/track/dont-you-worry] |
+| 7 | Kneejerk | [Bandcamp][bc/track/kneejerk] · [YouTube][yt/track/kneejerk] |
+| 8 | Joseph | [Bandcamp][bc/track/joseph] · [YouTube][yt/track/joseph] |
+| 9 | Grey Grenade | [Bandcamp][bc/track/grey-grenade] · [YouTube][yt/track/grey-grenade] |
+| 10 | I Told You So | [Bandcamp][bc/track/i-told-you-so] · [YouTube][yt/track/i-told-you-so] |
+| 11 | What R U Doing | [Bandcamp][bc/track/what-r-u-doing] · [YouTube][yt/track/what-r-u-doing] |
+
+</div>
+
+---
+
+## Dizzy Dustin:
+
+<div align="center">
+
+### Where Do I Go From Here? (2021)
+
+[Bandcamp][bc/album/where-do-i-go-from-here] · [YouTube][yt/album/where-do-i-go-from-here]
+
+<img width="240" alt="Where Do I Go From Here? (2021)" src="images/Where Do I Go From Here (2021).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | I Go By (Intro) | [Bandcamp][bc/track/i-go-by-intro] · [YouTube][yt/track/i-go-by-intro] |
+| 2 | Hands of Time (feat. Es) | [Bandcamp][bc/track/hands-of-time] · [YouTube][yt/track/hands-of-time] |
+| 3 | Bricks to Build | [Bandcamp][bc/track/bricks-to-build] · [YouTube][yt/track/bricks-to-build] |
+| 4 | Lemon & 55th | [Bandcamp][bc/track/lemon-and-55th] · [YouTube][yt/track/lemon-and-55th] |
+| 5 | Rain Delays (feat. Masta Ace) | [Bandcamp][bc/track/rain-delays] · [YouTube][yt/track/rain-delays] |
+| 6 | Three Kings (feat. Rakka Iriscience & Swiss Precise) | [Bandcamp][bc/track/three-kings] · [YouTube][yt/track/three-kings] |
+| 7 | Steebee Weebee Show (Interlude) | [Bandcamp][bc/track/steebee-weebee-show-interlude] · [YouTube][yt/track/steebee-weebee-show-interlude] |
+| 8 | Oxygen (feat. Akil the MC) | [Bandcamp][bc/track/oxygen] · [YouTube][yt/track/oxygen] |
+| 9 | Mama Say (feat. Savannah McFarland) | [Bandcamp][bc/track/mama-say] · [YouTube][yt/track/mama-say] |
+| 10 | Cruel Summer (feat. Michael & Cade Parenti) | [Bandcamp][bc/track/cruel-summer] · [YouTube][yt/track/cruel-summer] |
+| ***11*** | ***Cubanas & Pina Coloda\'s (feat. Godforbid)*** | [Bandcamp][bc/track/cubanas-and-pina-colodas] · [YouTube][yt/track/cubanas-and-pina-colodas] |
+| 12 | Hands Up | [Bandcamp][bc/track/where-do-i-go-from-here/hands-up] · [YouTube][yt/track/where-do-i-go-from-here/hands-up] |
+| 13 | Definition of Ill (feat. Ryu, Complex & Blade) | [Bandcamp][bc/track/definition-of-ill] · [YouTube][yt/track/definition-of-ill] |
+| 14 | Lights, Camera, Action (feat. IMANI) | [Bandcamp][bc/track/lights-camera-action] · [YouTube][yt/track/lights-camera-action] |
+| 15 | Where Do I Go From Here? | [Bandcamp][bc/track/where-do-i-go-from-here] · [YouTube][yt/track/where-do-i-go-from-here] |
+| 16 | Thank You (Outro) | [Bandcamp][bc/track/thank-you-outro] · [YouTube][yt/track/thank-you-outro] |
+| 17 | Vertigo Flow (feat. Swiss Precise, Pkon & LMNO) | [Bandcamp][bc/track/vertigo-flow] · [YouTube][yt/track/vertigo-flow] |
+| 18 | The Real Ones (feat. Master Fuol, Slaine & Hochii) | [Bandcamp][bc/track/the-real-ones] · [YouTube][yt/track/the-real-ones] |
+| 19 | Rain Delays (feat. Meemz) (Remix) | [Bandcamp][bc/track/rain-delays-remix] · [YouTube][yt/track/rain-delays-remix] |
+
+</div>
+
+---
+
+## Provisions Hip Hop:
+
+<div align="center">
+
+### Know Thyself LP (2022)
+
+[Bandcamp][bc/album/know-thyself-lp]
+
+<img width="240" alt="Know Thyself LP (2022)" src="images/Know Thyself LP (2022).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Groundhog\'s Day (feat. Kool A.D.) | [Bandcamp][bc/track/groundhogs-day] · [YouTube][yt/track/groundhogs-day] |
+| 2 | Polo (feat. Pajama Sam x A-F-R-O) | [Bandcamp][bc/track/polo] · [YouTube][yt/track/polo] |
+| ***3*** | ***Flower Print (feat. Godforbid x Thirstin Howl III)*** | [Bandcamp][bc/track/flower-print] · [YouTube][yt/track/flower-print] |
+| 4 | Really Real (feat. A-F-R-O x Nahte Renmus x Pajama Sam) | [Bandcamp][bc/track/really-real] · [YouTube][yt/track/really-real] |
+| 5 | The Other Side of the Footlights (feat. Louis Mackey) | [Bandcamp][bc/track/the-other-side-of-the-footlights] · [YouTube][yt/track/the-other-side-of-the-footlights] |
+| 6 | Expensive (feat. A-F-R-O x Mr. Muthafuckin\' eXquire) | [Bandcamp][bc/track/expensive] · [YouTube][yt/track/expensive] |
+| ***7*** | ***Know Thyself (feat. Godforbid x Mr. Muthafuckin\' eXquire x A-F-R-O)*** | [Bandcamp][bc/track/know-thyself] · [YouTube][yt/track/know-thyself] |
+| 8 | Shirt Trade (feat. A-F-R-O x Pajama Sam) | [Bandcamp][bc/track/shirt-trade] |
+| 9 | Who is that Knows (feat. Defcee x Subtex) | [Bandcamp][bc/track/who-is-that-knows] |
+| 10 | Fool Fool (feat. A-F-R-O) | [Bandcamp][bc/track/fool-fool] |
+| 11 | Shrek 2 (feat. A-F-R-O) | [Bandcamp][bc/track/shrek-2] |
+| 12 | Idiot Savant (feat. Nahte Renmus) | [Bandcamp][bc/track/idiot-savant] |
+| 13 | Henchman (feat. A-F-R-O) | [Bandcamp][bc/track/henchman] |
+| 14 | eBay (feat. A-F-R-O x Subtex) | [Bandcamp][bc/track/ebay] |
+| 15 | Breakdown (feat. Nahte Renmus) | [Bandcamp][bc/track/breakdown] |
+| 16 | Hard Boiled (feat. A-F-R-O x Ocho Phono) | [Bandcamp][bc/track/hard-boiled] |
+| 17 | When Will She Know (feat. Teece Luvv) | [Bandcamp][bc/track/when-will-she-know] · [YouTube][yt/track/when-will-she-know] |
+| 18 | Nasty (feat. A-F-R-O x Defcee) | [Bandcamp][bc/track/nasty] |
+| 19 | Intoxicated Demigodz (feat. Kool A.D.) | [Bandcamp][bc/track/intoxicated-demigodz] |
+| 20 | Swim Along (feat. A-F-R-O x Nahte Renmus) | [Bandcamp][bc/track/swim-along] |
+| 21 | Kamala (feat. Mr. Muthafuckin\' eXquire x A-F-R-O) | [Bandcamp][bc/track/kamala] |
+| ***22*** | ***Flower Print (feat. Godforbid x Thirstin Howl III) (remix by Krohme)*** | [Bandcamp][bc/track/flower-print-remix] |
+
+</div>
+
+---
+
+## Krohme:
+
+<div align="center">
+
+### The Ceremony of Innocence (2022)
+
+[Bandcamp][bc/album/the-ceremony-of-innocence] · [YouTube][yt/album/the-ceremony-of-innocence]
+
+<img width="240" alt="The Ceremony of Innocence (2022)" src="images/The Ceremony of Innocence (2022).jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Ab Initio | [Bandcamp][bc/track/ab-initio] |
+| 2 | Cursed Earth (feat. Sleep Sinatra, Chino XL & Lord Goat) | [Bandcamp][bc/track/cursed-earth] |
+| ***3*** | ***Dark Water (feat. Godforbid & Thirstin Howl III)*** | [Bandcamp][bc/track/dark-water] |
+| 4 | Charles Oakley (feat. Hell Razah, Shyheim, Myalansky & DJ Flipcyide) | [Bandcamp][bc/track/charles-oakley] |
+| 5 | Lycans (feat. Born Unique, Double A.B. & Sleep Sinatra) | [Bandcamp][bc/track/lycans] |
+| 6 | Et Bestia (Interlude) | [Bandcamp][bc/track/et-bestia] |
+| 7 | Anti-Social (feat. Chris Rivers, Kwamé & Bobby J From Rockaway) | [Bandcamp][bc/track/anti-social] |
+| 8 | Warriors Theme (feat. Big Twins, Otep & Sabac Red) | [Bandcamp][bc/track/warriors-theme] |
+| 9 | Trials x Tribulations (feat. Guilty Simpson, Ty Farris & Hus Kingpin) | [Bandcamp][bc/track/trials-x-tribulations] |
+| 10 | DMV (feat. Rahiem Supreme, Snook Da Crook, Bless Picasso & Go-Go Bouncey) | [Bandcamp][bc/track/dmv] |
+| 11 | Hell or High Water (feat. Breez Evahflowin, Muja Messiah, Kahlee, Cesar Comanche & L.I.F.E. Long) | [Bandcamp][bc/track/hell-or-high-water] |
+| 12 | Ad Finem | [Bandcamp][bc/track/ad-finem] |
+
+</div>
+
+---
+
+## Fool on a Hill:
+
+<div align="center">
+
+### You\'ll be Replaced (feat. Godforbid) (2023)
+
+[last.fm][lf/track/youll-be-replaced] · [YouTube][yt/track/youll-be-replaced]
+
+<img width="240" alt="You'll be Replaced (feat. Godforbid) (2023)" src="images/You'll be Replaced (feat. Godforbid) (2023).png"/>
+
+</div>
+
+---
+
+## Power&Grace:
+
+<div align="center">
+
+### Blood brothers (feat. Godforbid) (2024)
+
+[YouTube][yt/track/blood-brothers]
+
+<img width="240" alt="Blood brothers (feat. Godforbid) (2024)" src="images/Blood brothers (feat. Godforbid) (2024).png"/>
+
+</div>
+
+---
+
+## Yoni Geller:
+
+<div align="center">
+
+### Spring Feast (2025)
+
+[Bandcamp][bc/album/spring-feast] · [YouTube][yt/album/spring-feast]
+
+<img width="240" alt="Spring Feast (2025)" src="images/Spring Feast (2025).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| ***1*** | ***Stoic Ownership (feat. Godforbid & Fishdoll)*** | [Bandcamp][bc/track/stoic-ownership] · [YouTube][yt/track/stoic-ownership] |
+| 2 | Until Skies Renew (feat. Fishdoll) | [Bandcamp][bc/track/until-skies-renew] · [YouTube][yt/track/until-skies-renew] |
+| ***3*** | ***Sidewalk Petrichor (feat. Godforbid)*** | [Bandcamp][bc/track/sidewalk-petrichor] · [YouTube][yt/track/sidewalk-petrichor] |
+| 4 | Spooky Thang?! | [Bandcamp][bc/track/spooky-thang] · [YouTube][yt/track/spooky-thang] |
+| 5 | WINDY | [Bandcamp][bc/track/windy] · [YouTube][yt/track/windy] |
+| 6 | Keep On (feat. Saso & Brian Lottermann) | [Bandcamp][bc/track/keep-on] · [YouTube][yt/track/keep-on] |
+| 7 | New Life | [Bandcamp][bc/track/new-life] · [YouTube][yt/track/new-life] |
+| 8 | Raise the Bar (feat. Fishdoll) | [Bandcamp][bc/track/raise-the-bar] · [YouTube][yt/track/raise-the-bar] |
+| 9 | Spring Feast | [Bandcamp][bc/track/spring-feast] · [YouTube][yt/track/spring-feast] |
+| 10 | Green Peach | [Bandcamp][bc/track/green-peach] · [YouTube][yt/track/green-peach] |
+
+</div>
+
+---
+
+## Yvonne Ambrée:
+
+<div align="center">
+
+### ELUSIVE (2025)
+
+[Bandcamp][bc/album/elusive] · [YouTube][yt/album/elusive]
+
+<img width="240" alt="ELUSIVE (2025)" src="images/ELUSIVE (2025).png"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | ELUSIVE | [Bandcamp][bc/track/elusive] · [YouTube][yt/track/elusive] |
+| 2 | JOAN | [Bandcamp][bc/track/joan] · [YouTube][yt/track/joan] |
+| 3 | SLOW | [Bandcamp][bc/track/slow] · [YouTube][yt/track/slow] |
+| ***4*** | ***DAMAGED (FT. GODFORBID)*** | [Bandcamp][bc/track/damaged] · [YouTube][yt/track/damaged] |
+| 5 | IN MY ROOM | [Bandcamp][bc/track/in-my-room] · [YouTube][yt/track/in-my-room] |
+| 6 | THIEVES | [Bandcamp][bc/track/thieves] · [YouTube][yt/track/thieves] |
+| 7 | OCEANIC | [Bandcamp][bc/track/oceanic] · [YouTube][yt/track/oceanic] |
+| 8 | WALROSS | [Bandcamp][bc/track/walross] · [YouTube][yt/track/walross] |
+| 9 | FAVOR | [Bandcamp][bc/track/favor] · [YouTube][yt/track/favor] |
+| 10 | SILHOUETTE | [Bandcamp][bc/track/silhouette] · [YouTube][yt/track/silhouette] |
+
+</div>
 
 ---
 
 <!-- links -->
+
+<!-- Declaration Of Independence (2001) -->
+[ds/album/declaration-of-independence]: https://www.discogs.com/release/14424918-Havok-House-Declaration-Of-Independence
+
+[yt/album/declaration-of-independence]: https://youtube.com/playlist?list=OLAK5uy_mP2MVT_D7HE7q6WZmCS0qUv3liTpb3e7c
+[yt/track/yo-jaxn]: https://youtu.be/sR3RvouRQ2U
+[yt/track/shit-happens]: https://youtu.be/gJtLYG2vGcc
+[yt/track/mission-control]: https://youtu.be/aTh-gecP_pM
+[yt/track/scattered-pictures]: https://youtu.be/-3wcyzBSKM0
+[yt/track/irresponsible]: https://youtu.be/JdgMD-R9VGU
+[yt/track/be-safe]: https://youtu.be/PYSqjEOIPt4
+[yt/track/declaration-of-independence]: https://youtu.be/3xtFxKy7N2Q
+[yt/track/growing-pains]: https://youtu.be/VgprgKYp620
+[yt/track/blitz]: https://youtu.be/uOijogbD2no
+[yt/track/free-will]: https://youtu.be/cJ0bh282I1s
+[yt/track/crown-jewel]: https://youtu.be/K88z4vxpd0k
+[yt/track/silent-rogue]: https://youtu.be/P3nAO3yH4DU
+
+<!-- Fire & Ice (2002) -->
+[os/album/fire-and-ice]: https://thirstinhowlthe3rd.com/product/alaskan-fishermen-fire-ice-2002
+[lf/album/fire-and-ice]: https://www.last.fm/music/Alaskan+Fishermen/Fire+&+Ice
+[yt/album/fire-and-ice]: https://youtu.be/yampWFeBHkM
+[yt/track/fire-and-ice]: https://youtu.be/yampWFeBHkM
+[yt/track/do-what-you-want]: https://youtu.be/yampWFeBHkM?t=276
+[yt/track/interlude-1]: https://youtu.be/yampWFeBHkM?t=470
+[yt/track/ice-pic]: https://youtu.be/yampWFeBHkM?t=495
+[yt/track/cold-up-in-here]: https://youtu.be/yampWFeBHkM?t=698
+[yt/track/snow-bunny]: https://youtu.be/yampWFeBHkM?t=885
+[yt/track/oh-god]: https://youtu.be/yampWFeBHkM?t=1105
+[yt/track/row]: https://youtu.be/yampWFeBHkM?t=1336
+[yt/track/alaskan-fishermen]: https://youtu.be/yampWFeBHkM?t=1610
+[yt/track/interlude-2]: https://youtu.be/yampWFeBHkM?t=1802
+[yt/track/man-of-the-hour]: https://youtu.be/yampWFeBHkM?t=1833
+[yt/track/revenge]: https://youtu.be/yampWFeBHkM?t=2079
+[yt/track/drunken-publicness]: https://youtu.be/yampWFeBHkM?t=2324
+[yt/track/its-so-good]: https://youtu.be/yampWFeBHkM?t=2515 
+[yt/track/interlude-3]: https://youtu.be/yampWFeBHkM?t=2708
+[yt/track/ok]: https://youtu.be/yampWFeBHkM?t=2746
+[yt/track/the-itch]: https://youtu.be/yampWFeBHkM?t=2888
+[yt/track/get-a-life]: https://youtu.be/yampWFeBHkM?t=3296
+
+<!-- Alaskan Fishermen (2012) -->
+[lf/album/alaskan-fishermen]: https://www.last.fm/music/Alaskan+Fishermen/Alaskan+Fishermen
+[yt/album/alaskan-fishermen]: https://youtube.com/playlist?list=OLAK5uy_mZdU-AVZ9dhZ3GrNdSsJbTqJIrUPzng14
+[yt/track/cult-classic]: https://youtu.be/BTW7Ve-sDVA
+[yt/track/the-new-now]: https://youtu.be/zJpAOUfPnXI
+[yt/track/dirt]: https://youtu.be/s7yEgzm-O-c
+[yt/track/resonate]: https://youtu.be/kV7N1jcZbZk
+[yt/track/hooks-on-both-hands]: https://youtu.be/ot81VI7lL5E
+[yt/track/push]: https://youtu.be/zCcVwXvBHmU
+[yt/track/fly-fishing]: https://youtu.be/M1SbsmKhL_8
+[yt/track/fight-night]: https://youtu.be/OHsGei6uwqA
+[yt/track/lets-go]: https://youtu.be/3JofPNHKZZk
+[yt/track/order-of-the-alphabet]: https://youtu.be/OIGlR67JpBI
+[yt/track/pimphand]: https://youtu.be/3mNW-hkGTG8
+[yt/track/alaskan-fishermen/hands-up]: https://youtu.be/ELagixPYAkA
+
+<!-- I'm A Fool -->
+[yt/track/im-fool]: https://youtu.be/qsXdh1nO7dg
+
+<!-- Dating Tips / How To Get Money (2004) -->
+[yt/album/dating-tips-how-to-get-money]: https://youtu.be/Lt7skPGRWzk
+[yt/track/dating-tips-(clean)]: https://youtu.be/t2BM2mMk8F8
+[yt/track/dating-tips-(album-version)]: https://youtu.be/_ptPoN9UgoE
+[yt/track/dating-tips-(instrumental)]: https://youtu.be/QdD0f2k0af4
+[yt/track/how-to-get-money-(clean)]: https://youtu.be/Sts4yursmcs
+[yt/track/how-to-get-money-(instrumental)]: https://youtu.be/9pBk5brYaTk
+[yt/track/dont-go]: https://youtu.be/S6MvIURj3SY
 
 <!-- That Handsome Devil (2005) -->
 [bc/album/that-handsome-devil]: https://thathandsomedevil.bandcamp.com/album/that-handsome-devil
@@ -1612,6 +1635,16 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 [yt/track/bare]: https://youtu.be/Bw5BlJd0tdY
 [yt/track/home]: https://youtu.be/5QThb9wBtaw
 
+<!-- Hating New People (2010) -->
+[yt/album/hating-new-people]: https://youtube.com/playlist?list=PLlaScuy7yOlKJSiaHtmXe5E6uymWAiF28
+[yt/track/talk-dirty-to-me]: https://youtu.be/q3pZusYXgus
+[yt/track/hey-white-boy]: https://youtu.be/o19Gk9anryY
+[yt/track/im-too-sexy]: https://youtu.be/0PsPwuWJxGk
+[yt/track/its-a-mans-mans-mans-world]: https://youtu.be/yYnBr7U5U6Q
+[yt/track/mr-grinch]: https://youtu.be/tLSrMlFg3KQ
+[yt/track/fairytale-of-new-york]: https://youtu.be/3LsnFACuCDg
+
+
 <!-- The Heart Goes To Heaven, The Head Goes To Hell (2011) -->
 [bc/album/the-heart-goes-to-heaven-the-head-goes-to-hell]: https://thathandsomedevil.bandcamp.com/album/the-heart-goes-to-heaven-the-head-goes-to-hell
 [bc/track/adapt]: https://thathandsomedevil.bandcamp.com/track/adapt
@@ -1686,7 +1719,6 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 [yt/track/emergency]: https://youtu.be/yaHuLlhXlBQ
 [yt/track/echo-chamber]: https://youtu.be/n9Jhbm0wvRY
 [yt/track/pendulumonium]: https://youtu.be/o9H31zbawXU
-[yt/track/its-trump]: https://youtu.be/17AfoH3ns0E
 
 <!-- Your Parents Are Sellouts (2021) -->
 [bc/album/your-parents-are-sellouts]: https://thathandsomedevil.bandcamp.com/album/your-parents-are-sellouts
@@ -1752,6 +1784,10 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 [yt/track/crooked-heart]: https://youtu.be/R9HBtB3CBVA
 [yt/track/the-toilet-that-killed-elvis]: https://youtu.be/WemDEG5slzo
 
+<!-- Charlie 2 (The Money Grab) (2025) -->
+[bc/track/charlie-2-the-money-grab]: https://thathandsomedevil.bandcamp.com/track/charlie-2-the-money-grab
+[yt/track/charlie-2-the-money-grab]: https://youtu.be/Fm_vImqpyOw
+
 <!-- 2 For Flinching (2025) -->
 [bc/album/2-for-flinching]: https://thathandsomedevil.bandcamp.com/album/2-for-flinching
 [bc/track/youll-never-leave-new-york]: https://thathandsomedevil.bandcamp.com/track/youll-never-leave-new-york
@@ -1761,30 +1797,22 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 [yt/track/youll-never-leave-new-york]: https://youtu.be/6_Blkjw-hww
 [yt/track/lets-commit-crimes-together]: https://youtu.be/jshy2mPDHpw
 
-<!-- That Handsome Devil: Other -->
-[bc/track/charlie-2-the-money-grab]: https://thathandsomedevil.bandcamp.com/track/charlie-2-the-money-grab
+<!-- That Handsome Devil: LIVE -->
+[yt/track/viva-discordia-live]: https://youtu.be/_mAIkRR7D14
+[yt/track/shutup-youre-stupid-live]: https://youtu.be/mMTPs-VcKLQ
+[yt/track/charlies-inferno-live]: https://youtu.be/FvCc_yGhHX8
+[yt/track/junkies-in-love-live]: https://youtu.be/nv0sRDZey1A
 
-[yt/track/dating-tips-(clean)]: https://youtu.be/GpOrN_r4e7c
-[yt/track/dating-tips-(album-version)]: https://youtu.be/GpOrN_r4e7c?t=240
-[yt/track/dating-tips-(instrumental)]: https://youtu.be/GpOrN_r4e7c?t=475
-[yt/track/how-to-get-money]: https://youtu.be/CzkMkr99R8o
-[yt/track/how-to-get-money-(instrumental)]: https://youtu.be/GpOrN_r4e7c?t=1004
-[yt/track/dont-go]: https://youtu.be/fqxUaA6YDa8
+<!-- That Handsome Devil: Other -->
 [yt/track/it-aint-easy]: https://youtu.be/MBVFTczvtHI
-[yt/track/mr-grinch]: https://youtu.be/tLSrMlFg3KQ
 [yt/track/chicken-claw]: https://youtu.be/KvBpm1AGr54 
 [yt/track/steady-and-slow]: https://youtu.be/6ukfhdjm4KQ
-[yt/track/hey-white-boy]: https://youtu.be/o19Gk9anryY
 [yt/track/lucky-me]: https://youtu.be/cPGvn_IglFs
 [yt/track/marilyn-loves-heroin]: https://youtu.be/GS5DIOanx78
 [yt/track/how-to-get-more-money-and-not-have-to-shoot-somebody]: https://youtu.be/Enz7ZHniQw0
-[yt/track/its-a-mans-mans-mans-world]: https://youtu.be/yYnBr7U5U6Q
-[yt/track/im-too-sexy]: https://youtu.be/0PsPwuWJxGk
-[yt/track/fairytale-of-new-york]: https://youtu.be/3LsnFACuCDg
 [yt/track/smilin-with-a-gun-in-your-mouth]: https://youtu.be/L1729ufF37k
 [yt/track/chinatown-bench]: https://youtu.be/pZTwO2w5QOg
 [yt/track/the-behind-your-back-dance]: https://youtu.be/cSj3obpU3N8
-[yt/track/talk-dirty-to-me]: https://youtu.be/q3pZusYXgus
 [yt/track/talk-dirty-to-me-alternate-version]: https://youtu.be/kzqEcELY3E8
 [yt/track/face-in-the-sun]: https://youtu.be/NnFI604oF7Q
 [yt/track/bangbang]: https://youtu.be/yqHf7k0H3Us
@@ -1792,13 +1820,321 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 [yt/track/just-a-gigolo]: https://youtu.be/Jy3JkBL-Ic0 
 [yt/track/nuthin-but-a-g-thang]: https://youtu.be/HyH8oOI579U
 [yt/track/pills-for-everything-doc-delay-overhaul]: https://youtu.be/yF4g9VP2h3M
-[yt/track/viva-discordia-live]: https://youtu.be/_mAIkRR7D14
-[yt/track/shutup-youre-stupid-live]: https://youtu.be/mMTPs-VcKLQ
-[yt/track/charlies-inferno-live]: https://youtu.be/FvCc_yGhHX8
-[yt/track/junkies-in-love-live]: https://youtu.be/nv0sRDZey1A
 [yt/track/elephant-bones-gh2-version]: https://youtu.be/yfYXYQ6WBFk
 [yt/track/powderbomb-alternate-version]: https://youtu.be/sUg452wQE4Y
-[yt/track/charlie-2-the-money-grab]: https://youtu.be/Fm_vImqpyOw
+[yt/track/its-trump]: https://youtu.be/17AfoH3ns0E
+
+<!-- Rack$ 2 Riches (2006) -->
+[bc/album/racks-2-riches]: https://racklo.bandcamp.com/album/rack-2-riches
+[bc/track/racks-2-riches]: https://racklo.bandcamp.com/track/racks-2-riches
+[bc/track/get-knocked-the-fuck-out]: https://racklo.bandcamp.com/track/get-knocked-the-fuck-out
+[bc/track/bullet-had-my-name]: https://racklo.bandcamp.com/track/bullet-had-my-name-feat-thirstin-howl-the-3rd
+[bc/track/the-meeahh]: https://racklo.bandcamp.com/track/the-meeahh
+[bc/track/pick-pocket]: https://racklo.bandcamp.com/track/pick-pocket
+[bc/track/ladder-of-success]: https://racklo.bandcamp.com/track/ladder-of-success-starring-richie-balance
+[bc/track/fishermen-files]: https://racklo.bandcamp.com/track/fishermen-files-feat-alaskan-fishermen
+[bc/track/slugz-blaze-u-down]: https://racklo.bandcamp.com/track/slugz-blaze-u-down
+[bc/track/run-their-gonna-kill-you]: https://racklo.bandcamp.com/track/run-their-gonna-kill-you-starring-rack-lo
+[bc/track/toe-to-toe]: https://racklo.bandcamp.com/track/toe-to-toe
+[bc/track/strong-arm]: https://racklo.bandcamp.com/track/strong-arm-feat-blaze-rock-arizona
+[bc/track/show-down]: https://racklo.bandcamp.com/track/show-down
+[bc/track/super-bubble]: https://racklo.bandcamp.com/track/super-bubble-feat-thirstin-howl-the-3rd
+[bc/track/dice-game]: https://racklo.bandcamp.com/track/dice-game
+[bc/track/hell-hole]: https://racklo.bandcamp.com/track/hell-hole
+[bc/track/rl-cartel]: https://racklo.bandcamp.com/track/rl-cartel-starring-rack-lo
+[bc/track/trust-no-bitch]: https://racklo.bandcamp.com/track/trust-no-bitch-starring-richie-balance
+[bc/track/russian-rullet-muzik]: https://racklo.bandcamp.com/track/russian-rullet-muzik
+[bc/track/internet-digiteck]: https://racklo.bandcamp.com/track/internet-digiteck-feat-godforbid-of-alaskan-fishermen
+[bc/track/the-legacy]: https://racklo.bandcamp.com/track/the-legacy-starring-rack-lo
+[bc/track/back-to-the-lab]: https://racklo.bandcamp.com/track/back-to-the-lab-starring-richie-balance
+[bc/track/arizonas-greatest]: https://racklo.bandcamp.com/track/arizonas-greatest-feat-atllas
+[bc/track/never-sold-my-sold]: https://racklo.bandcamp.com/track/never-sold-my-sold-feat-thirstin-howl-the-3rd
+[bc/track/steal]: https://racklo.bandcamp.com/track/steal-starring-rack-lo
+[bc/track/one-way-or-another]: https://racklo.bandcamp.com/track/one-way-or-another-feat-richie-balance
+
+<!-- The One (2007) -->
+[ds/album/the-one]: https://www.discogs.com/release/1172724-Oak-Lonetree-The-One
+[gd/album/the-one]: https://drive.google.com/drive/folders/1-AhTfwvrgYVtwh_RBa4nuX3pm77rbFVr?usp=drive_link
+[gd/track/the-one/intro]: https://drive.google.com/file/d/1559Q3eDHA1xm_FkxyZY7SwU4J90F7vaD/view?usp=drive_link 
+[gd/track/get-it-started]: https://drive.google.com/file/d/1JtL-xABSg-Op8E5J-yYVraRiEZAXpVlA/view?usp=drive_link
+[gd/track/a-toast-to-you]: https://drive.google.com/file/d/1kK5N4AU_Yyp7_3f8omWDT_TG_vUdUUtf/view?usp=drive_link
+[gd/track/crunchtime]: https://drive.google.com/file/d/1sexTZ_ihCuArxv0LjBWGWNeQCBhFx5wu/view?usp=drive_link
+[gd/track/tomato]: https://drive.google.com/file/d/1HTCWMNCjd7afRlV9OM60X54E6HiKZGcH/view?usp=drive_link
+[gd/track/throw-out-your-back]: https://drive.google.com/file/d/1d1eobEAvpe0bApcIcWQJE1CMvgo-k64h/view?usp=drive_link
+[gd/track/you-want-fire]: https://drive.google.com/file/d/1fQKapf2MwpwoqenqtkLXIeXm7X5oKUtH/view?usp=drive_link
+[gd/track/settle-down]: https://drive.google.com/file/d/1mO5gjifrG6WuUDogioDGlW5EIPpsxOuw/view?usp=drive_link
+[gd/track/crowd-control]: https://drive.google.com/file/d/1I6a0AwkKlXPRPXYXRSSAZ7RRZIh4uK1R/view?usp=drive_link
+[gd/track/bathtub]: https://drive.google.com/file/d/1oxWFSlKP0tD5xEOf7Jg8ITRvVcyvzt0I/view?usp=drive_link
+[gd/track/true-spit]: https://drive.google.com/file/d/1tnSnpcYCA6H4Shfe62oJXnrpdyu5Hpgm/view?usp=drive_link
+[gd/track/doin-it-big]: https://drive.google.com/file/d/12U2xR5j2tlRFxoyqsv0SLZ5h9_sSQR_3/view?usp=drive_link
+[gd/track/in-the-chair-crooked]: https://drive.google.com/file/d/1Ro5TrPY7uux57jYPMazKezTinIrBrzTP/view?usp=drive_link
+[gd/track/the-one-and-only]: https://drive.google.com/file/d/1LNXfQoUgv4Ycv9XTcEM-pGWSt942zN9x/view?usp=drive_link
+
+[yt/album/the-one]: https://youtube.com/playlist?list=PLhCEW2l0NV8bkd_M6nxhzSsoto2beDfQh
+[yt/track/get-it-started]: https://youtu.be/TFrglIkY6UI
+[yt/track/a-toast-to-you]: https://youtu.be/LMYdiiblZVc
+[yt/track/crunchtime]: https://youtu.be/YmTAnQUyFW4
+[yt/track/tomato]: https://youtu.be/KLV6HMmPt5w
+[yt/track/throw-out-your-back]: https://youtu.be/A64epk44xL4
+[yt/track/you-want-fire]: https://youtu.be/Vph0MblUd8Y
+[yt/track/settle-down]: https://youtu.be/RtO2YBHzBIc
+[yt/track/crowd-control]: https://youtu.be/gltFiaxycjI
+[yt/track/bathtub]: https://youtu.be/LUhBJQ4ZpPc
+[yt/track/true-spit]: https://youtu.be/CtKXkFJi7L0
+[yt/track/doin-it-big]: https://youtu.be/Gx8J4euDJjk
+[yt/track/in-the-chair-crooked]: https://youtu.be/c4CWGROt3Yw
+[yt/track/the-one-and-only]: https://youtu.be/sQfPQxsJTnw
+
+<!-- American Style Cardboard (2012) -->
+[bc/album/american-style-cardboard]: https://docdelay.bandcamp.com/album/american-style-cardboard
+[bc/track/a-bit-of-a-drag]: https://docdelay.bandcamp.com/track/a-bit-of-a-drag
+[bc/track/idle-worship]: https://docdelay.bandcamp.com/track/idle-worship
+[bc/track/selling-sleep]: https://docdelay.bandcamp.com/track/selling-sleep
+[bc/track/pity-party]: https://docdelay.bandcamp.com/track/pity-party
+[bc/track/baltimore-to-buenos-aires]: https://docdelay.bandcamp.com/track/baltimore-to-buenos-aires
+[bc/track/sickened-by-the-sight]: https://docdelay.bandcamp.com/track/sickened-by-the-sight
+[bc/track/driveway]: https://docdelay.bandcamp.com/track/driveway
+[bc/track/sodapop-bubblegum]: https://docdelay.bandcamp.com/track/sodapop-bubblegum-feat-thirtyseven
+
+[yt/album/american-style-cardboard]: https://youtu.be/WdZBScuhKRE
+[yt/track/a-bit-of-a-drag]: https://youtu.be/WdZBScuhKRE
+[yt/track/idle-worship]: https://youtu.be/WdZBScuhKRE?t=222
+[yt/track/selling-sleep]: https://youtu.be/WdZBScuhKRE?t=465
+[yt/track/pity-party]: https://youtu.be/WdZBScuhKRE?t=682
+[yt/track/baltimore-to-buenos-aires]: https://youtu.be/WdZBScuhKRE?t=937
+[yt/track/sickened-by-the-sight]: https://youtu.be/WdZBScuhKRE?t=1173
+[yt/track/driveway]: https://youtu.be/WdZBScuhKRE?t=1358
+[yt/track/sodapop-bubblegum]: https://youtu.be/WdZBScuhKRE?t=1551
+
+<!-- I'm Real (2012) -->
+[yt/track/im-real]: https://youtu.be/RS5X1Y28QnU
+
+<!-- Mockingbird (2013) -->
+[yt/album/mockingbird]: https://youtube.com/playlist?list=OLAK5uy_mSzSY8DhxXAMuNn6F4_Ukpanx-9Nqr0nU
+[yt/track/space-oddity]: https://youtu.be/6LXtxe3X87k
+[yt/track/as-long-as-ive-got-you]: https://youtu.be/XJGxsUPIKc0
+[yt/track/miss-you]: https://youtu.be/y6veM52yNQs
+[yt/track/walk-on-by]: https://youtu.be/cp2xRdjQtAg
+[yt/track/shine-on-you-crazy-diamond]: https://youtu.be/1N0joo4pHj4
+[yt/track/wicked-game]: https://youtu.be/A3JaaQLUI_0
+[yt/track/im-gonna-be-500-miles]: https://youtu.be/T840jfnSlng
+[yt/track/karma-police]: https://youtu.be/t0xE2LA7DHc
+[yt/track/ride-the-lightning]: https://youtu.be/gL6N8YEFXF0
+[yt/track/cry-me-a-river]: https://youtu.be/9XyZk1AzVdw
+[yt/track/walk-on-the-wild-side]: https://youtu.be/5xsXUt5kWF4
+[yt/track/black-hole-sun]: https://youtu.be/TT-alsef6zY
+[yt/track/dont-talk-put-your-head-on-my-shoulder]: https://youtu.be/0tN2dC7ZnVE
+[yt/track/no-love-but-your-love]: https://youtu.be/ZrGF8DEbphU
+
+<!-- New Drug (2019) -->
+[yt/track/new-drug]: https://youtu.be/4djW9cfTtys
+
+<!-- Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019) -->
+[yt/track/bury-me]: https://youtu.be/m8PnaS3uLlk
+
+<!-- Singles 2011-2012 (2013) -->
+[bc/album/singles-2011-2012]: https://worldaround.bandcamp.com/album/singles-2011-2012
+[bc/track/gonna-die-here]: https://worldaround.bandcamp.com/track/gonna-die-here
+[bc/track/the-patience]: https://worldaround.bandcamp.com/track/the-patience
+[bc/track/bad-weather-classic]: https://worldaround.bandcamp.com/track/bad-weather-classic-dr-quandary-remix-feat-mally-curly-castro
+[bc/track/everything-everywhere-always]: https://worldaround.bandcamp.com/track/everything-everywhere-always
+[bc/track/oneiric-field-mandala]: https://worldaround.bandcamp.com/track/oneiric-field-mandala
+[bc/track/big-day-for-the-little-people]: https://worldaround.bandcamp.com/track/big-day-for-the-little-people
+[bc/track/the-frame]: https://worldaround.bandcamp.com/track/the-frame
+[bc/track/stargazing]: https://worldaround.bandcamp.com/track/stargazing-feat-dlo
+[bc/track/open-ended]: https://worldaround.bandcamp.com/track/open-ended
+[bc/track/the-old-eleven]: https://worldaround.bandcamp.com/track/the-old-eleven
+
+[yt/track/gonna-die-here]: https://youtu.be/xzsoGRuPq6A
+[yt/track/the-patience]: https://youtu.be/nR_3RBVb8Ho
+[yt/track/bad-weather-classic]: https://youtu.be/Hy2wIhJBZDs
+[yt/track/everything-everywhere-always]: https://youtu.be/MwfxKXYqpoE
+[yt/track/oneiric-field-mandala]: https://youtu.be/6oOFee4FMlw
+[yt/track/big-day-for-the-little-people]: https://youtu.be/KT59sFCmVcs
+[yt/track/the-frame]: https://youtu.be/KGz6SkDnoSI
+[yt/track/open-ended]: https://youtu.be/LrRL1mxuaC4
+
+<!-- We Are World Around Vol. 4. (2014) -->
+[bc/album/we-are-world-around-vol-4]: https://worldaround.bandcamp.com/album/we-are-world-around-vol-4
+[bc/track/smile-soon-itll-be-winter]: https://worldaround.bandcamp.com/track/smile-soon-itll-be-winter
+[bc/track/super-not-a-cop]: https://worldaround.bandcamp.com/track/super-not-a-cop
+[bc/track/ghosts-of-the-common-wealth]: https://worldaround.bandcamp.com/track/ghosts-of-the-commonwealth
+[bc/track/hidden]: https://worldaround.bandcamp.com/track/hidden
+[bc/track/lots-of-lip]: https://worldaround.bandcamp.com/track/lots-of-lip-2
+[bc/track/sky]: https://worldaround.bandcamp.com/track/sky
+[bc/track/no-truce]: https://worldaround.bandcamp.com/track/no-truce
+[bc/track/maundy-thursday]: https://worldaround.bandcamp.com/track/maundy-thursday
+[bc/track/witch-doctor]: https://worldaround.bandcamp.com/track/witch-doctor
+[bc/track/i-think-about-you-all-of-the-time]: https://worldaround.bandcamp.com/track/i-think-about-you-all-of-the-time-2
+[bc/track/pale-white-cutie-pie-closing-theme]: https://worldaround.bandcamp.com/track/pale-white-cutie-pie-closing-theme
+
+[yt/track/lots-of-lip]: https://youtu.be/DqN2i6umPyM
+[yt/track/no-truce]: https://youtu.be/nByfKm-C-oc
+[yt/track/pale-white-cutie-pie-closing-theme]: https://youtu.be/ufEEElwl1XQ
+
+<!-- Anthembanger 2012 (2014) -->
+[bc/track/anthembanger-2012]: https://fdr1.bandcamp.com/track/anthembanger-2012
+
+<!-- Fear of Death and the Need for Reproduction (2014) -->
+[bc/album/fear-of-death-and-the-need-for-reproduction]: https://fdr1.bandcamp.com/album/fear-of-death-and-the-need-for-reproduction
+[bc/track/cold-shoulder-of-a-beautiful-woman-at-the-bar]: https://fdr1.bandcamp.com/track/cold-shoulder-of-a-beautiful-woman-at-the-bar
+[bc/track/showing-up]: https://fdr1.bandcamp.com/track/showing-up
+[bc/track/bedouin-dreams]: https://fdr1.bandcamp.com/track/bedouin-dreams
+[bc/track/destroyer-of-all-things]: https://fdr1.bandcamp.com/track/destroyer-of-all-things
+[bc/track/where-the-cameras-dont-see]: https://fdr1.bandcamp.com/track/where-the-cameras-dont-see
+[bc/track/night-owls]: https://fdr1.bandcamp.com/track/night-owls
+
+[yt/track/showing-up]: https://youtu.be/GnTumi_S83A
+[yt/track/bedouin-dreams]: https://youtu.be/CjqV6pP6ZaE
+[yt/track/destroyer-of-all-things]: https://youtu.be/5va8Q8c4JN4
+[yt/track/where-the-cameras-dont-see]: https://youtu.be/WUTGDiOjsck
+[yt/track/night-owls]: https://youtu.be/WHvZlvdc9Z8
+
+<!-- Hungry Wolf (New York Remix) (2015) -->
+[yt/track/hungry-wolf-new-york-remix]: https://youtu.be/unoYvcFsGVU
+
+<!-- Follow My Leed (2017) -->
+[bc/album/follow-my-leed]: https://camarah.bandcamp.com/album/follow-my-leed
+[bc/track/follow-my-lead]: https://camarah.bandcamp.com/track/follow-my-leed
+[bc/track/motivation]: https://camarah.bandcamp.com/track/motivation-ft-gwen-leathers
+[bc/track/click]: https://camarah.bandcamp.com/track/click-ft-casta
+[bc/track/no-matter-what]: https://camarah.bandcamp.com/track/no-matter-what-ft-jesse-payo
+[bc/track/the-def-adder]: https://camarah.bandcamp.com/track/the-def-adder
+[bc/track/in-between-the-lines]: https://camarah.bandcamp.com/track/between-the-lines-ft-ms-behavd
+[bc/track/aint-runnin-with-me]: https://camarah.bandcamp.com/track/aint-runnin-with-me-ft-t-i-m-e
+[bc/track/issues]: https://camarah.bandcamp.com/track/issues
+[bc/track/walk-on]: https://camarah.bandcamp.com/track/walk-on-ft-godforbid
+[bc/track/i-told-jesus]: https://camarah.bandcamp.com/track/i-told-jesus
+[bc/track/make-u-do-right]: https://camarah.bandcamp.com/track/make-u-do-right
+[bc/track/place-2-go]: https://camarah.bandcamp.com/track/place-2-go
+[bc/track/feel-free]: https://camarah.bandcamp.com/track/feel-free-ft-ajaxlo
+[bc/track/cant-breath]: https://camarah.bandcamp.com/track/cant-breath
+
+[yt/album/follow-my-leed]: https://youtube.com/playlist?list=OLAK5uy_mTVKMSidVUo016euj8499Zrqr8QtlA6cM
+[yt/track/follow-my-lead]: https://youtu.be/4uTzDHy9QtQ
+[yt/track/motivation]: https://youtu.be/wyiPD6fzJTw
+[yt/track/click]: https://youtu.be/q3VTRd2Dhfo
+[yt/track/no-matter-what]: https://youtu.be/xyAZTtqGTc4
+[yt/track/the-def-adder]: https://youtu.be/CxKZ_k-2MIw
+[yt/track/in-between-the-lines]: https://youtu.be/ilVitYdVd8M
+[yt/track/aint-runnin-with-me]: https://youtu.be/VZWFaXL5qTY
+[yt/track/issues]: https://youtu.be/ThoDpnf-UgM
+[yt/track/walk-on]: https://youtu.be/1gWNVnAFByM
+[yt/track/i-told-jesus]: https://youtu.be/VhV4AbHIiBM
+[yt/track/94.5-skit-intro-live]: https://youtu.be/RvNUhTU-OAs
+[yt/track/make-u-do-right]: https://youtu.be/qDA8XedW7yw
+[yt/track/94.5-skit-outro-live]: https://youtu.be/w7ZLY9xDskI
+[yt/track/place-2-go]: https://youtu.be/SJ2VatxNt7Q
+[yt/track/feel-free]: https://youtu.be/yCoYLcaG4A4
+[yt/track/cant-breath]: https://youtu.be/1yLynuQ7QFE
+
+<!-- Ripple Effect (2020) -->
+[bc/album/ripple-effect]: https://camarah.bandcamp.com/album/ripple-effect
+[bc/track/ripple-effect]: https://camarah.bandcamp.com/track/ripple-effect-feat-i-milies-long-skit
+[bc/track/cant-calm-me-down]: https://camarah.bandcamp.com/track/cant-calm-me-down
+[bc/track/beatz-n-thangz]: https://camarah.bandcamp.com/track/beatz-n-thangz-feat-ajax-lo-godforbid
+[bc/track/do-you]: https://camarah.bandcamp.com/track/do-you-feat-ajax-lo
+[bc/track/sandys-message-intro]: https://camarah.bandcamp.com/track/sandys-message-intro
+[bc/track/america]: https://camarah.bandcamp.com/track/america
+[bc/track/life-aint-so-easy]: https://camarah.bandcamp.com/track/life-aint-so-easy-feat-angel-gittens
+[bc/track/sandys-message-outro]: https://camarah.bandcamp.com/track/sandys-message-outro
+[bc/track/better-world-instrumental]: https://camarah.bandcamp.com/track/better-world-instrumental
+
+[yt/album/ripple-effect]: https://youtube.com/playlist?list=OLAK5uy_mG1TIHRWurPGn2_ah6_lNPUTw4C_QfH2g
+[yt/track/cant-calm-me-down]: https://youtu.be/Myjfdo9AerE
+[yt/track/beatz-n-thangz]: https://youtu.be/4skTlawnUJw
+[yt/track/do-you]: https://youtu.be/rS7yg52hbDs
+[yt/track/america]: https://youtu.be/FT_2N-A4bgo
+[yt/track/life-aint-so-easy]: https://youtu.be/WYJj-HSqiGM
+[yt/track/better-world-instrumental]: https://youtu.be/N9GJ4Bbqne4
+
+<!-- Camarah Walleed & Jaxn (2020) -->
+[lf/album/camarah-walleed-and-jaxn]: https://www.last.fm/tr/music/Camarah+Walleed+&+Jaxn/Camarah+Walleed+&+Jaxn
+[yt/album/camarah-walleed-and-jaxn]: https://youtube.com/playlist?list=OLAK5uy_k-MLsd7d-DhlTyAxoAceZWUk5XaINN1Nc
+[yt/track/mami-blu]: https://youtu.be/-7CNeMoC7lI
+[yt/track/flying-hammerz]: https://youtu.be/KV76x9EEW_8
+[yt/track/say-that-to-say-this]: https://youtu.be/XsI4Y9zZoEc
+[yt/track/subtle-movements]: https://youtu.be/SUawepubeJw
+[yt/track/hi-speed-havok]: https://youtu.be/Ggn2tPNgcKM
+[yt/track/hey-kids]: https://youtu.be/f3MbCBAn7uA
+[yt/track/steel-sharpen-steel]: https://youtu.be/31d8kDHQIKY
+[yt/track/spitting-image]: https://youtu.be/OCdD-tGh15I
+[yt/track/goodnight-irene]: https://youtu.be/_aMxFdBgf24
+[yt/track/finer-things]: https://youtu.be/455n0iVAFXQ
+[yt/track/donde-esta]: https://youtu.be/5QPcRdS2XYU
+[yt/track/lasting-legacy]: https://youtu.be/Oi7YBEpHAHU
+
+<!-- Fistful of Dollar$ (2017) -->
+[yt/album/fistful-of-dollars]: https://youtube.com/playlist?list=OLAK5uy_lAZaWBPc2hB1AmNYyGZ-SYhLebP1iqW10
+[yt/track/personal-business]: https://youtu.be/-f7buQBrd6k
+[yt/track/end-of-the-day]: https://youtu.be/-DaV4zdKH6w
+[yt/track/blood-from-a-stone]: https://youtu.be/bbBFf2dzwUU
+[yt/track/hamon-sazon]: https://youtu.be/HAn00NKavzY
+[yt/track/so-far-away]: https://youtu.be/4sgES7PUtvo
+[yt/track/the-little-things]: https://youtu.be/xeYfeV_bZKI
+[yt/track/rhyme-and-punishment]: https://youtu.be/1FpWc7vpQ3o
+[yt/track/from-the-sticks-to-the-bricks]: https://youtu.be/wQ3bzn_SkoM
+[yt/track/glad-you-think-so]: https://youtu.be/xK8PYSqXqRk
+[yt/track/paradox]: https://youtu.be/D5lPNzJrPDI
+[yt/track/take-a-look-around]: https://youtu.be/XyrmakQge4M
+[yt/track/marathon-monday]: https://youtu.be/hK6WWmU_H6o
+[yt/track/good-to-bad]: https://youtu.be/1EpiNhQ7ehU
+[yt/track/cold-case]: https://youtu.be/J3YQsI5uMhw
+
+<!-- Indica Jaxn 3 ( All Gas No Breaks ) (2024) -->
+[lf/album/indica-jaxn-3-all-gas-no-breaks]: https://www.last.fm/music/Ajax+Lo/Indica+Jaxn+3+(+All+Gas+No+Breaks+)
+[yt/album/indica-jaxn-3-all-gas-no-breaks]: https://youtube.com/playlist?list=OLAK5uy_lRtN5vxPhjx0LUetfTlFfaPUvMi9gF5lY
+[yt/track/the-snake-in-the-hawk-shadow]: https://youtu.be/SvAVG48PcS8
+[yt/track/shoulda-seen-it-coming]: https://youtu.be/q2cYBpK_AyI
+[yt/track/all-gas-no-breaks]: https://youtu.be/4hyv7mDzwv4
+[yt/track/the-people-have-spoken]: https://youtu.be/sjJIEpmfRDo
+[yt/track/brick-laying]: https://youtu.be/zzeAaUUih64
+[yt/track/varsity-letters]: https://youtu.be/b4uGRTZGfoU
+[yt/track/these-nights]: https://youtu.be/vrZbHfSyyKY
+[yt/track/they-gon-pay]: https://youtu.be/3p1WpJHCw7A
+[yt/track/pinky-promises]: https://youtu.be/gNg0Catm5L4
+[yt/track/line-em-up]: https://youtu.be/4vtF2xqD_tg
+[yt/track/still-alive-and-well]: https://youtu.be/iXrg3DOEZu4
+
+<!-- Flutie Pass (2024) -->
+[yt/track/flutie-pass]: https://youtu.be/BYSYv9hdWOo
+
+<!-- Jukebox Buddha (2017) -->
+[bc/album/jukebox-buddha]: https://quandary.bandcamp.com/album/jukebox-buddha
+[bc/track/bones-and-portents]: https://quandary.bandcamp.com/track/bones-portents-feat-timescanner
+[bc/track/the-boy-who-went-to-war]: https://quandary.bandcamp.com/track/the-boy-who-went-to-war-feat-premrock-elder-orange
+[bc/track/court-of-the-monkey-prince]: https://quandary.bandcamp.com/track/court-of-the-monkey-prince-feat-louis-mackey
+[bc/track/black-tar]: https://quandary.bandcamp.com/track/black-tar-feat-premrock-has-lo
+[bc/track/your-gods-and-mine]: https://quandary.bandcamp.com/track/your-gods-mine-feat-zilla-rocca
+[bc/track/the-blown-fuse]: https://quandary.bandcamp.com/track/the-blown-fuse-feat-has-lo
+[bc/track/jukebox-buddha]: https://quandary.bandcamp.com/track/jukebox-buddha-feat-godforbid-louis-mackey
+[bc/track/cant-go-on-without-you]: https://quandary.bandcamp.com/track/cant-go-on-without-you-feat-astrid-engberg
+[bc/track/into-the-dirt]: https://quandary.bandcamp.com/track/into-the-dirt-feat-elder-orange-has-lo-2
+
+[yt/album/jukebox-buddha]: https://youtube.com/playlist?list=OLAK5uy_kIKx4IJkrGT9iqL8Fhdr8qB-__Z1jRRBU
+[yt/track/bones-and-portents]: https://youtu.be/HK9Hk7WKmd4
+[yt/track/the-boy-who-went-to-war]: https://youtu.be/qZzihQfUPSk
+[yt/track/court-of-the-monkey-prince]: https://youtu.be/wbleZkuWYvM
+[yt/track/black-tar]: https://youtu.be/k3dRHnXDETk
+[yt/track/your-gods-and-mine]: https://youtu.be/SWkCIU3syBA
+[yt/track/the-blown-fuse]: https://youtu.be/Qrtsd4mwI4I
+[yt/track/jukebox-buddha]: https://youtu.be/-LEaaxem2Vs
+[yt/track/cant-go-on-without-you]: https://youtu.be/AEqhLtUHy9c
+[yt/track/into-the-dirt]: https://youtu.be/svTIufhaUIU
+
+<!-- AVGVSTVS (2017) -->
+[bc/album/avgvstvs]: https://louismackey.bandcamp.com/album/avgvstvs
+[bc/track/these-flying-days]: https://louismackey.bandcamp.com/track/these-flying-days
+[bc/track/rap-beers]: https://louismackey.bandcamp.com/track/rap-beers
+[bc/track/flammarion-garments]: https://louismackey.bandcamp.com/track/flammarion-garments
+[bc/track/same-old-same-old]: https://louismackey.bandcamp.com/track/same-old-same-old-2
+[bc/track/hyde-park-ave]: https://louismackey.bandcamp.com/track/hyde-park-ave
+[bc/track/interlude-jobes-lament]: https://louismackey.bandcamp.com/track/interlude-jobes-lament
+[bc/track/live-from-the-pit]: https://louismackey.bandcamp.com/track/live-from-the-pit
+[bc/track/paper-cups]: https://louismackey.bandcamp.com/track/paper-cups
+[bc/track/buckminster-fuller]: https://louismackey.bandcamp.com/track/buckminster-fuller-feat-godforbid
+[bc/track/it-cuts-either-way]: https://louismackey.bandcamp.com/track/it-cuts-either-way
+[bc/track/from-mouth-to-heart]: https://louismackey.bandcamp.com/track/from-mouth-to-heart
 
 <!-- Jesus Chrysler (2018) -->
 [bc/album/jesus-chrysler]: https://godforbid.bandcamp.com/album/jesus-chrysler
@@ -1824,6 +2160,9 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 [yt/track/strange-days]: https://youtu.be/sy0Nn0MqZKM
 [yt/track/jesus-chrysler/chrome]: https://youtu.be/KcJfS8Rr7_4
 [yt/track/night-nurse]: https://youtu.be/FCx1rnMhby0
+
+<!-- Mamas Don't Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover) (2019) -->
+[yt/track/mamas-dont-let-your-babies-grow-up-to-be-cowboys-cover]: https://youtu.be/uxrtBc2TGfA
 
 <!-- How to Make Your Art Matter (2020) -->
 [bc/album/how-to-make-your-art-matter]: https://godforbid.bandcamp.com/album/how-to-make-your-art-matter
@@ -1901,141 +2240,6 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 [bc/track/going-through-your-stuff]: https://godforbid.bandcamp.com/track/going-through-your-stuff
 [bc/track/spring]: https://godforbid.bandcamp.com/track/spring
 
-<!-- Mamas Don't Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover) -->
-[yt/track/mamas-dont-let-your-babies-grow-up-to-be-cowboys-cover]: https://youtu.be/uxrtBc2TGfA
-
-<!-- American Style Cardboard (2012) -->
-[bc/album/american-style-cardboard]: https://docdelay.bandcamp.com/album/american-style-cardboard
-[bc/track/a-bit-of-a-drag]: https://docdelay.bandcamp.com/track/a-bit-of-a-drag
-[bc/track/idle-worship]: https://docdelay.bandcamp.com/track/idle-worship
-[bc/track/selling-sleep]: https://docdelay.bandcamp.com/track/selling-sleep
-[bc/track/pity-party]: https://docdelay.bandcamp.com/track/pity-party
-[bc/track/baltimore-to-buenos-aires]: https://docdelay.bandcamp.com/track/baltimore-to-buenos-aires
-[bc/track/sickened-by-the-sight]: https://docdelay.bandcamp.com/track/sickened-by-the-sight
-[bc/track/driveway]: https://docdelay.bandcamp.com/track/driveway
-[bc/track/sodapop-bubblegum]: https://docdelay.bandcamp.com/track/sodapop-bubblegum-feat-thirtyseven
-
-[yt/album/american-style-cardboard]: https://youtu.be/WdZBScuhKRE
-[yt/track/a-bit-of-a-drag]: https://youtu.be/WdZBScuhKRE
-[yt/track/idle-worship]: https://youtu.be/WdZBScuhKRE?t=222
-[yt/track/selling-sleep]: https://youtu.be/WdZBScuhKRE?t=465
-[yt/track/pity-party]: https://youtu.be/WdZBScuhKRE?t=682
-[yt/track/baltimore-to-buenos-aires]: https://youtu.be/WdZBScuhKRE?t=937
-[yt/track/sickened-by-the-sight]: https://youtu.be/WdZBScuhKRE?t=1173
-[yt/track/driveway]: https://youtu.be/WdZBScuhKRE?t=1358
-[yt/track/sodapop-bubblegum]: https://youtu.be/WdZBScuhKRE?t=1551
-
-<!-- Fire & Ice (2002) -->
-[os/album/fire-and-ice]: https://thirstinhowlthe3rd.com/product/alaskan-fishermen-fire-ice-2002
-[lf/album/fire-and-ice]: https://www.last.fm/music/Alaskan+Fishermen/Fire+&+Ice
-[yt/album/fire-and-ice]: https://youtu.be/yampWFeBHkM
-[yt/track/fire-and-ice]: https://youtu.be/yampWFeBHkM
-[yt/track/do-what-you-want]: https://youtu.be/yampWFeBHkM?t=276
-[yt/track/interlude-1]: https://youtu.be/yampWFeBHkM?t=470
-[yt/track/ice-pic]: https://youtu.be/yampWFeBHkM?t=495
-[yt/track/cold-up-in-here]: https://youtu.be/yampWFeBHkM?t=698
-[yt/track/snow-bunny]: https://youtu.be/yampWFeBHkM?t=885
-[yt/track/oh-god]: https://youtu.be/yampWFeBHkM?t=1105
-[yt/track/row]: https://youtu.be/yampWFeBHkM?t=1336
-[yt/track/alaskan-fishermen]: https://youtu.be/yampWFeBHkM?t=1610
-[yt/track/interlude-2]: https://youtu.be/yampWFeBHkM?t=1802
-[yt/track/man-of-the-hour]: https://youtu.be/yampWFeBHkM?t=1833
-[yt/track/revenge]: https://youtu.be/yampWFeBHkM?t=2079
-[yt/track/drunken-publicness]: https://youtu.be/yampWFeBHkM?t=2324
-[yt/track/its-so-good]: https://youtu.be/yampWFeBHkM?t=2515 
-[yt/track/interlude-3]: https://youtu.be/yampWFeBHkM?t=2708
-[yt/track/ok]: https://youtu.be/yampWFeBHkM?t=2746
-[yt/track/the-itch]: https://youtu.be/yampWFeBHkM?t=2888
-[yt/track/get-a-life]: https://youtu.be/yampWFeBHkM?t=3296
-
-<!-- Alaskan Fishermen (2012) -->
-[lf/album/alaskan-fishermen]: https://www.last.fm/music/Alaskan+Fishermen/Alaskan+Fishermen
-[yt/album/alaskan-fishermen]: https://youtube.com/playlist?list=OLAK5uy_mZdU-AVZ9dhZ3GrNdSsJbTqJIrUPzng14
-[yt/track/cult-classic]: https://youtu.be/BTW7Ve-sDVA
-[yt/track/the-new-now]: https://youtu.be/zJpAOUfPnXI
-[yt/track/dirt]: https://youtu.be/s7yEgzm-O-c
-[yt/track/resonate]: https://youtu.be/kV7N1jcZbZk
-[yt/track/hooks-on-both-hands]: https://youtu.be/ot81VI7lL5E
-[yt/track/push]: https://youtu.be/zCcVwXvBHmU
-[yt/track/fly-fishing]: https://youtu.be/M1SbsmKhL_8
-[yt/track/fight-night]: https://youtu.be/OHsGei6uwqA
-[yt/track/lets-go]: https://youtu.be/3JofPNHKZZk
-[yt/track/order-of-the-alphabet]: https://youtu.be/OIGlR67JpBI
-[yt/track/pimphand]: https://youtu.be/3mNW-hkGTG8
-[yt/track/alaskan-fishermen/hands-up]: https://youtu.be/ELagixPYAkA
-
-<!-- I'm A Fool -->
-[yt/track/im-fool]: https://youtu.be/qsXdh1nO7dg
-
-<!-- Fear of Death and the Need for Reproduction (2014) -->
-[bc/album/fear-of-death-and-the-need-for-reproduction]: https://fdr1.bandcamp.com/album/fear-of-death-and-the-need-for-reproduction
-[bc/track/cold-shoulder-of-a-beautiful-woman-at-the-bar]: https://fdr1.bandcamp.com/track/cold-shoulder-of-a-beautiful-woman-at-the-bar
-[bc/track/showing-up]: https://fdr1.bandcamp.com/track/showing-up
-[bc/track/bedouin-dreams]: https://fdr1.bandcamp.com/track/bedouin-dreams
-[bc/track/destroyer-of-all-things]: https://fdr1.bandcamp.com/track/destroyer-of-all-things
-[bc/track/where-the-cameras-dont-see]: https://fdr1.bandcamp.com/track/where-the-cameras-dont-see
-[bc/track/night-owls]: https://fdr1.bandcamp.com/track/night-owls
-
-[yt/track/showing-up]: https://youtu.be/GnTumi_S83A
-[yt/track/bedouin-dreams]: https://youtu.be/CjqV6pP6ZaE
-[yt/track/destroyer-of-all-things]: https://youtu.be/5va8Q8c4JN4
-[yt/track/where-the-cameras-dont-see]: https://youtu.be/WUTGDiOjsck
-[yt/track/night-owls]: https://youtu.be/WHvZlvdc9Z8
-
-<!-- Anthembanger 2012 (2014) -->
-[bc/track/anthembanger-2012]: https://fdr1.bandcamp.com/track/anthembanger-2012
-
-<!-- Singles 2011-2012 (2013) -->
-[bc/album/singles-2001-2012]: https://worldaround.bandcamp.com/album/singles-2011-2012
-[bc/track/gonna-die-here]: https://worldaround.bandcamp.com/track/gonna-die-here
-[bc/track/the-patience]: https://worldaround.bandcamp.com/track/the-patience
-[bc/track/bad-weather-classic]: https://worldaround.bandcamp.com/track/bad-weather-classic-dr-quandary-remix-feat-mally-curly-castro
-[bc/track/everything-everywhere-always]: https://worldaround.bandcamp.com/track/everything-everywhere-always
-[bc/track/oneiric-field-mandala]: https://worldaround.bandcamp.com/track/oneiric-field-mandala
-[bc/track/big-day-for-the-little-people]: https://worldaround.bandcamp.com/track/big-day-for-the-little-people
-[bc/track/the-frame]: https://worldaround.bandcamp.com/track/the-frame
-[bc/track/stargazing]: https://worldaround.bandcamp.com/track/stargazing-feat-dlo
-[bc/track/open-ended]: https://worldaround.bandcamp.com/track/open-ended
-[bc/track/the-old-eleven]: https://worldaround.bandcamp.com/track/the-old-eleven
-
-[yt/track/gonna-die-here]: https://youtu.be/xzsoGRuPq6A
-[yt/track/the-patience]: https://youtu.be/nR_3RBVb8Ho
-[yt/track/bad-weather-classic]: https://youtu.be/Hy2wIhJBZDs
-[yt/track/everything-everywhere-always]: https://youtu.be/MwfxKXYqpoE
-[yt/track/oneiric-field-mandala]: https://youtu.be/6oOFee4FMlw
-[yt/track/big-day-for-the-little-people]: https://youtu.be/KT59sFCmVcs
-[yt/track/the-frame]: https://youtu.be/KGz6SkDnoSI
-[yt/track/open-ended]: https://youtu.be/LrRL1mxuaC4
-
-<!-- We Are World Around Vol. 4. (2014) -->
-[bc/album/we-are-world-around-vol-4]: https://worldaround.bandcamp.com/album/we-are-world-around-vol-4
-[bc/track/smile-soon-itll-be-winter]: https://worldaround.bandcamp.com/track/smile-soon-itll-be-winter
-[bc/track/super-not-a-cop]: https://worldaround.bandcamp.com/track/super-not-a-cop
-[bc/track/ghosts-of-the-common-wealth]: https://worldaround.bandcamp.com/track/ghosts-of-the-commonwealth
-[bc/track/hidden]: https://worldaround.bandcamp.com/track/hidden
-[bc/track/lots-of-lip]: https://worldaround.bandcamp.com/track/lots-of-lip-2
-[bc/track/sky]: https://worldaround.bandcamp.com/track/sky
-[bc/track/no-truce]: https://worldaround.bandcamp.com/track/no-truce
-[bc/track/maundy-thursday]: https://worldaround.bandcamp.com/track/maundy-thursday
-[bc/track/witch-doctor]: https://worldaround.bandcamp.com/track/witch-doctor
-[bc/track/i-think-about-you-all-of-the-time]: https://worldaround.bandcamp.com/track/i-think-about-you-all-of-the-time-2
-[bc/track/pale-white-cutie-pie-closing-theme]: https://worldaround.bandcamp.com/track/pale-white-cutie-pie-closing-theme
-
-[yt/track/lots-of-lip]: https://youtu.be/DqN2i6umPyM
-[yt/track/no-truce]: https://youtu.be/nByfKm-C-oc
-[yt/track/pale-white-cutie-pie-closing-theme]: https://youtu.be/ufEEElwl1XQ
-
-<!-- Monolith (2020) -->
-[bc/album/monolith]: https://cursedoutpro.bandcamp.com/album/monolith
-[bc/track/monolith]: https://cursedoutpro.bandcamp.com/track/monolith
-[bc/track/hate-to-do-this]: https://cursedoutpro.bandcamp.com/track/hate-to-do-this
-[bc/track/livestock]: https://cursedoutpro.bandcamp.com/track/livestock
-[bc/track/white-man]: https://cursedoutpro.bandcamp.com/track/white-man
-[bc/track/a-x-i-o-u-s]: https://cursedoutpro.bandcamp.com/track/a-x-i-o-u-s
-[bc/track/keep-moving]: https://cursedoutpro.bandcamp.com/track/keep-moving
-
-[yt/track/keep-moving]: https://youtu.be/VCbc4qfdPCs
-
 <!-- Ugly at Times (2018) -->
 [lf/album/ugly-at-times]: https://www.last.fm/music/Kemo+the+Blaxican/Ugly+at+Times
 [yt/album/ugly-at-times]: https://youtube.com/playlist?list=OLAK5uy_l9R_Ke-hTdSAvEv-Ct0_H-W9z5Np3ViJk
@@ -2046,180 +2250,8 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 <!-- No More Love Songs (2020) -->
 [yt/track/no-more-love-songs]: https://youtu.be/4Cb0cUHc-Rs
 
-<!-- Camarah Walleed & Jaxn (2020) -->
-[lf/album/camarah-walleed-and-jaxn]: https://www.last.fm/tr/music/Camarah+Walleed+&+Jaxn/Camarah+Walleed+&+Jaxn
-[yt/album/camarah-walleed-and-jaxn]: https://youtube.com/playlist?list=OLAK5uy_k-MLsd7d-DhlTyAxoAceZWUk5XaINN1Nc
-[yt/track/mami-blu]: https://youtu.be/-7CNeMoC7lI
-[yt/track/flying-hammerz]: https://youtu.be/KV76x9EEW_8
-[yt/track/say-that-to-say-this]: https://youtu.be/XsI4Y9zZoEc
-[yt/track/subtle-movements]: https://youtu.be/SUawepubeJw
-[yt/track/hi-speed-havok]: https://youtu.be/Ggn2tPNgcKM
-[yt/track/hey-kids]: https://youtu.be/f3MbCBAn7uA
-[yt/track/steel-sharpen-steel]: https://youtu.be/31d8kDHQIKY
-[yt/track/spitting-image]: https://youtu.be/OCdD-tGh15I
-[yt/track/goodnight-irene]: https://youtu.be/_aMxFdBgf24
-[yt/track/finer-things]: https://youtu.be/455n0iVAFXQ
-[yt/track/donde-esta]: https://youtu.be/5QPcRdS2XYU
-[yt/track/lasting-legacy]: https://youtu.be/Oi7YBEpHAHU
-
-<!-- Ripple Effect (2020) -->
-[bc/album/ripple-effect]: https://camarah.bandcamp.com/album/ripple-effect
-[bc/track/ripple-effect]: https://camarah.bandcamp.com/track/ripple-effect-feat-i-milies-long-skit
-[bc/track/cant-calm-me-down]: https://camarah.bandcamp.com/track/cant-calm-me-down
-[bc/track/beatz-n-thangz]: https://camarah.bandcamp.com/track/beatz-n-thangz-feat-ajax-lo-godforbid
-[bc/track/do-you]: https://camarah.bandcamp.com/track/do-you-feat-ajax-lo
-[bc/track/sandys-message-intro]: https://camarah.bandcamp.com/track/sandys-message-intro
-[bc/track/america]: https://camarah.bandcamp.com/track/america
-[bc/track/life-aint-so-easy]: https://camarah.bandcamp.com/track/life-aint-so-easy-feat-angel-gittens
-[bc/track/sandys-message-outro]: https://camarah.bandcamp.com/track/sandys-message-outro
-[bc/track/better-world-instrumental]: https://camarah.bandcamp.com/track/better-world-instrumental
-
-[yt/album/ripple-effect]: https://youtube.com/playlist?list=OLAK5uy_mG1TIHRWurPGn2_ah6_lNPUTw4C_QfH2g
-[yt/track/cant-calm-me-down]: https://youtu.be/Myjfdo9AerE
-[yt/track/beatz-n-thangz]: https://youtu.be/4skTlawnUJw
-[yt/track/do-you]: https://youtu.be/rS7yg52hbDs
-[yt/track/america]: https://youtu.be/FT_2N-A4bgo
-[yt/track/life-aint-so-easy]: https://youtu.be/WYJj-HSqiGM
-[yt/track/better-world-instrumental]: https://youtu.be/N9GJ4Bbqne4
-
-<!-- Follow My Leed (2017) -->
-[bc/album/follow-my-leed]: https://camarah.bandcamp.com/album/follow-my-leed
-[bc/track/follow-my-lead]: https://camarah.bandcamp.com/track/follow-my-leed
-[bc/track/motivation]: https://camarah.bandcamp.com/track/motivation-ft-gwen-leathers
-[bc/track/click]: https://camarah.bandcamp.com/track/click-ft-casta
-[bc/track/no-matter-what]: https://camarah.bandcamp.com/track/no-matter-what-ft-jesse-payo
-[bc/track/the-def-adder]: https://camarah.bandcamp.com/track/the-def-adder
-[bc/track/in-between-the-lines]: https://camarah.bandcamp.com/track/between-the-lines-ft-ms-behavd
-[bc/track/aint-runnin-with-me]: https://camarah.bandcamp.com/track/aint-runnin-with-me-ft-t-i-m-e
-[bc/track/issues]: https://camarah.bandcamp.com/track/issues
-[bc/track/walk-on]: https://camarah.bandcamp.com/track/walk-on-ft-godforbid
-[bc/track/i-told-jesus]: https://camarah.bandcamp.com/track/i-told-jesus
-[bc/track/make-u-do-right]: https://camarah.bandcamp.com/track/make-u-do-right
-[bc/track/place-2-go]: https://camarah.bandcamp.com/track/place-2-go
-[bc/track/feel-free]: https://camarah.bandcamp.com/track/feel-free-ft-ajaxlo
-[bc/track/cant-breath]: https://camarah.bandcamp.com/track/cant-breath
-
-[yt/album/follow-my-leed]: https://youtube.com/playlist?list=OLAK5uy_mTVKMSidVUo016euj8499Zrqr8QtlA6cM
-[yt/track/follow-my-lead]: https://youtu.be/4uTzDHy9QtQ
-[yt/track/motivation]: https://youtu.be/wyiPD6fzJTw
-[yt/track/click]: https://youtu.be/q3VTRd2Dhfo
-[yt/track/no-matter-what]: https://youtu.be/xyAZTtqGTc4
-[yt/track/the-def-adder]: https://youtu.be/CxKZ_k-2MIw
-[yt/track/in-between-the-lines]: https://youtu.be/ilVitYdVd8M
-[yt/track/aint-runnin-with-me]: https://youtu.be/VZWFaXL5qTY
-[yt/track/issues]: https://youtu.be/ThoDpnf-UgM
-[yt/track/walk-on]: https://youtu.be/1gWNVnAFByM
-[yt/track/i-told-jesus]: https://youtu.be/VhV4AbHIiBM
-[yt/track/94.5-skit-intro-live]: https://youtu.be/RvNUhTU-OAs
-[yt/track/make-u-do-right]: https://youtu.be/qDA8XedW7yw
-[yt/track/94.5-skit-outro-live]: https://youtu.be/w7ZLY9xDskI
-[yt/track/place-2-go]: https://youtu.be/SJ2VatxNt7Q
-[yt/track/feel-free]: https://youtu.be/yCoYLcaG4A4
-[yt/track/cant-breath]: https://youtu.be/1yLynuQ7QFE
-
-<!-- Declaration Of Independence (2001) -->
-[ds/album/declaration-of-independence]: https://www.discogs.com/release/14424918-Havok-House-Declaration-Of-Independence
-
-[yt/album/declaration-of-independence]: https://youtube.com/playlist?list=OLAK5uy_mP2MVT_D7HE7q6WZmCS0qUv3liTpb3e7c&si=3-irYi168sGg8uxD
-[yt/track/yo-jaxn]: https://youtu.be/sR3RvouRQ2U
-[yt/track/shit-happens]: https://youtu.be/gJtLYG2vGcc
-[yt/track/mission-control]: https://youtu.be/aTh-gecP_pM
-[yt/track/scattered-pictures]: https://youtu.be/-3wcyzBSKM0
-[yt/track/irresponsible]: https://youtu.be/JdgMD-R9VGU
-[yt/track/be-safe]: https://youtu.be/PYSqjEOIPt4
-[yt/track/declaration-of-independence]: https://youtu.be/3xtFxKy7N2Q
-[yt/track/growing-pains]: https://youtu.be/VgprgKYp620
-[yt/track/blitz]: https://youtu.be/uOijogbD2no
-[yt/track/free-will]: https://youtu.be/cJ0bh282I1s
-[yt/track/crown-jewel]: https://youtu.be/K88z4vxpd0k
-[yt/track/silent-rogue]: https://youtu.be/P3nAO3yH4DU
-
-<!-- The Backwards Thank You (2021) -->
-[bc/album/the-backwards-thank-you]: https://princessproblems.bandcamp.com/album/the-backwards-thank-you-2
-[bc/track/art-of-war]: https://princessproblems.bandcamp.com/track/art-of-war-3
-[bc/track/the-backwards-thank-you/chrome]: https://princessproblems.bandcamp.com/track/chrome-featuring-godforbid-2
-[bc/track/einstein]: https://princessproblems.bandcamp.com/track/einstein
-[bc/track/pussy]: https://princessproblems.bandcamp.com/track/pussy
-[bc/track/hungry]: https://princessproblems.bandcamp.com/track/hungry
-[bc/track/dont-you-worry]: https://princessproblems.bandcamp.com/track/dont-you-worry
-[bc/track/kneejerk]: https://princessproblems.bandcamp.com/track/kneejerk
-[bc/track/joseph]: https://princessproblems.bandcamp.com/track/joseph
-[bc/track/grey-grenade]: https://princessproblems.bandcamp.com/track/grey-grenade
-[bc/track/i-told-you-so]: https://princessproblems.bandcamp.com/track/i-told-you-so
-[bc/track/what-r-u-doing]: https://princessproblems.bandcamp.com/track/what-r-u-doing
-
-[yt/album/the-backwards-thank-you]: https://youtube.com/playlist?list=OLAK5uy_nndj8rs1cuJrlN2PiWcAtPdTvxvvFs-GM
-[yt/track/art-of-war]: https://youtu.be/bdAMePuE7rc
-[yt/track/the-backwards-thank-you/chrome]: https://youtu.be/5zPJ9J09XVE
-[yt/track/einstein]: https://youtu.be/ZiVqCgLP4WI
-[yt/track/pussy]: https://youtu.be/Rh1DjSxEq6k
-[yt/track/hungry]: https://youtu.be/B52rkZsAPHI
-[yt/track/dont-you-worry]: https://youtu.be/Jc-ePwHJAWU
-[yt/track/kneejerk]: https://youtu.be/OgcN8Ygus3c
-[yt/track/joseph]: https://youtu.be/02hJAP_QpY8
-[yt/track/grey-grenade]: https://youtu.be/wsf7KY_3-ck
-[yt/track/i-told-you-so]: https://youtu.be/lgL4SBdEeEM
-[yt/track/what-r-u-doing]: https://youtu.be/szgzVfV7TXM
-
-<!-- We Didn't Sign Up For This (2020) -->
-[bc/album/we-didnt-sign-up-for-this]: https://dunumdunum.bandcamp.com/album/we-didnt-sign-up-for-this
-[bc/track/i-want-more]: https://dunumdunum.bandcamp.com/track/i-want-more
-[bc/track/roll-with-us]: https://dunumdunum.bandcamp.com/track/roll-with-us
-[bc/track/animals]: https://dunumdunum.bandcamp.com/track/animals-feat-santosh-lalonde
-[bc/track/buried-alive]: https://dunumdunum.bandcamp.com/track/buried-alive
-[bc/track/turn-the-clocks-back]: https://dunumdunum.bandcamp.com/track/turn-the-clocks-back-feat-hua-li-lex-french
-[bc/track/build-a-machine]: https://dunumdunum.bandcamp.com/track/build-a-machine-feat-godforbid
-
-[yt/album/we-didnt-sign-up-for-this]: https://youtube.com/playlist?list=OLAK5uy_mAd1lHvRGooC8Rxh9J1If27u-O5hAKMI0
-[yt/track/i-want-more]: https://youtu.be/B_juwkPjH6A
-[yt/track/roll-with-us]: https://youtu.be/vpvUqaUk0Iw
-[yt/track/animals]: https://youtu.be/QmcXqGCrp0I
-[yt/track/buried-alive]: https://youtu.be/EhayVuRpDqs
-[yt/track/turn-the-clocks-back]: https://youtu.be/L7nZw9rL60w
-[yt/track/build-a-machine]: https://youtu.be/4RKnvSkB-jI
-
-<!-- Mockingbird (2013) -->
-[yt/album/mockingbird]: https://youtube.com/playlist?list=OLAK5uy_mSzSY8DhxXAMuNn6F4_Ukpanx-9Nqr0nU
-[yt/track/space-oddity]: https://youtu.be/6LXtxe3X87k
-[yt/track/as-long-as-ive-got-you]: https://youtu.be/XJGxsUPIKc0
-[yt/track/miss-you]: https://youtu.be/y6veM52yNQs
-[yt/track/walk-on-by]: https://youtu.be/cp2xRdjQtAg
-[yt/track/shine-on-you-crazy-diamond]: https://youtu.be/1N0joo4pHj4
-[yt/track/wicked-game]: https://youtu.be/A3JaaQLUI_0
-[yt/track/im-gonna-be-500-miles]: https://youtu.be/T840jfnSlng
-[yt/track/karma-police]: https://youtu.be/t0xE2LA7DHc
-[yt/track/ride-the-lightning]: https://youtu.be/gL6N8YEFXF0
-[yt/track/cry-me-a-river]: https://youtu.be/9XyZk1AzVdw
-[yt/track/walk-on-the-wild-side]: https://youtu.be/5xsXUt5kWF4
-[yt/track/black-hole-sun]: https://youtu.be/TT-alsef6zY
-[yt/track/dont-talk-put-your-head-on-my-shoulder]: https://youtu.be/0tN2dC7ZnVE
-[yt/track/no-love-but-your-love]: https://youtu.be/ZrGF8DEbphU
-
-<!-- New Drug (2019) -->
-[yt/track/new-drug]: https://youtu.be/4djW9cfTtys
-
-<!-- Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019) -->
-[yt/track/bury-me]: https://youtu.be/m8PnaS3uLlk
-
-<!-- I'm Real (2012) -->
-[yt/track/im-real]: https://youtu.be/RS5X1Y28QnU
-
-<!-- Super What? (2021) -->
-[lf/album/super-what]: https://www.last.fm/music/Czarface/Super+What
-[yt/album/super-what]: https://youtube.com/playlist?list=OLAK5uy_ndBwiTkRhbFcN49VSk2sR97-gIeLPj8v0
-[yt/track/the-king-and-eye]: https://youtu.be/wK6LNqH9NjM
-[yt/track/czarwyns-theory-of-people-getting-loose]: https://youtu.be/JMvjBLxOAHk
-[yt/track/mando-calrissian]: https://youtu.be/7-WcLXGnmSY
-[yt/track/doom-unto-others]: https://youtu.be/1iKCX0U7XRc
-[yt/track/jason-and-the-czargonauts]: https://youtu.be/EbqBpiQYPeA
-[yt/track/break-in-the-action]: https://youtu.be/dQlNCG5GQ2w
-[yt/track/a-name-to-the-face]: https://youtu.be/CVHw2Kha_mc
-[yt/track/this-is-canon-now]: https://youtu.be/K6aUsEA_eZQ
-[yt/track/so-strange]: https://youtu.be/b3mEy8STrOA
-[yt/track/young-world]: https://youtu.be/bij0bp1aoIk
-
-<!-- Hungry Wolf (New York Remix) (2015) -->
-[yt/track/hungry-wolf-new-york-remix]: https://youtu.be/unoYvcFsGVU
+<!-- Awkward (feat. Godforbid) (2020) -->
+[yt/tracks/awkward]: https://youtu.be/7GlFrXBe1SI
 
 <!-- HERMOSA (2020) -->
 [bc/album/hermosa]: https://skippwhitman.bandcamp.com/album/hermosa
@@ -2259,8 +2291,78 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 [yt/track/float]: https://youtu.be/fg1EyHfs_0w
 [yt/track/free]: https://youtu.be/01OSK7RIdfY
 
-<!-- Awkward (feat. Godforbid) (2020) -->
-[yt/tracks/awkward]: https://youtu.be/7GlFrXBe1SI
+<!-- Monolith (2020) -->
+[bc/album/monolith]: https://cursedoutpro.bandcamp.com/album/monolith
+[bc/track/monolith]: https://cursedoutpro.bandcamp.com/track/monolith
+[bc/track/hate-to-do-this]: https://cursedoutpro.bandcamp.com/track/hate-to-do-this
+[bc/track/livestock]: https://cursedoutpro.bandcamp.com/track/livestock
+[bc/track/white-man]: https://cursedoutpro.bandcamp.com/track/white-man
+[bc/track/a-x-i-o-u-s]: https://cursedoutpro.bandcamp.com/track/a-x-i-o-u-s
+[bc/track/keep-moving]: https://cursedoutpro.bandcamp.com/track/keep-moving
+
+[yt/track/keep-moving]: https://youtu.be/VCbc4qfdPCs
+
+<!-- We Didn't Sign Up For This (2020) -->
+[bc/album/we-didnt-sign-up-for-this]: https://dunumdunum.bandcamp.com/album/we-didnt-sign-up-for-this
+[bc/track/i-want-more]: https://dunumdunum.bandcamp.com/track/i-want-more
+[bc/track/roll-with-us]: https://dunumdunum.bandcamp.com/track/roll-with-us
+[bc/track/animals]: https://dunumdunum.bandcamp.com/track/animals-feat-santosh-lalonde
+[bc/track/buried-alive]: https://dunumdunum.bandcamp.com/track/buried-alive
+[bc/track/turn-the-clocks-back]: https://dunumdunum.bandcamp.com/track/turn-the-clocks-back-feat-hua-li-lex-french
+[bc/track/build-a-machine]: https://dunumdunum.bandcamp.com/track/build-a-machine-feat-godforbid
+
+[yt/album/we-didnt-sign-up-for-this]: https://youtube.com/playlist?list=OLAK5uy_mAd1lHvRGooC8Rxh9J1If27u-O5hAKMI0
+[yt/track/i-want-more]: https://youtu.be/B_juwkPjH6A
+[yt/track/roll-with-us]: https://youtu.be/vpvUqaUk0Iw
+[yt/track/animals]: https://youtu.be/QmcXqGCrp0I
+[yt/track/buried-alive]: https://youtu.be/EhayVuRpDqs
+[yt/track/turn-the-clocks-back]: https://youtu.be/L7nZw9rL60w
+[yt/track/build-a-machine]: https://youtu.be/4RKnvSkB-jI
+
+<!-- Super What? (2021) -->
+[lf/album/super-what]: https://www.last.fm/music/Czarface/Super+What
+[yt/album/super-what]: https://youtube.com/playlist?list=OLAK5uy_ndBwiTkRhbFcN49VSk2sR97-gIeLPj8v0
+[yt/track/the-king-and-eye]: https://youtu.be/wK6LNqH9NjM
+[yt/track/czarwyns-theory-of-people-getting-loose]: https://youtu.be/JMvjBLxOAHk
+[yt/track/mando-calrissian]: https://youtu.be/7-WcLXGnmSY
+[yt/track/doom-unto-others]: https://youtu.be/1iKCX0U7XRc
+[yt/track/jason-and-the-czargonauts]: https://youtu.be/EbqBpiQYPeA
+[yt/track/break-in-the-action]: https://youtu.be/dQlNCG5GQ2w
+[yt/track/a-name-to-the-face]: https://youtu.be/CVHw2Kha_mc
+[yt/track/this-is-canon-now]: https://youtu.be/K6aUsEA_eZQ
+[yt/track/so-strange]: https://youtu.be/b3mEy8STrOA
+[yt/track/young-world]: https://youtu.be/bij0bp1aoIk
+
+<!-- Welcome To Oz (2021) -->
+[am/album/welcome-to-oz]: https://music.apple.com/uz/album/welcome-to-oz/1571796679
+[gd/track/goodbye]: https://drive.google.com/file/d/1jg82jv9mG3mMyuyEdASBnKWpo5N4cHDu/view?usp=drive_link
+
+<!-- The Backwards Thank You (2021) -->
+[bc/album/the-backwards-thank-you]: https://princessproblems.bandcamp.com/album/the-backwards-thank-you-2
+[bc/track/art-of-war]: https://princessproblems.bandcamp.com/track/art-of-war-3
+[bc/track/the-backwards-thank-you/chrome]: https://princessproblems.bandcamp.com/track/chrome-featuring-godforbid-2
+[bc/track/einstein]: https://princessproblems.bandcamp.com/track/einstein
+[bc/track/pussy]: https://princessproblems.bandcamp.com/track/pussy
+[bc/track/hungry]: https://princessproblems.bandcamp.com/track/hungry
+[bc/track/dont-you-worry]: https://princessproblems.bandcamp.com/track/dont-you-worry
+[bc/track/kneejerk]: https://princessproblems.bandcamp.com/track/kneejerk
+[bc/track/joseph]: https://princessproblems.bandcamp.com/track/joseph
+[bc/track/grey-grenade]: https://princessproblems.bandcamp.com/track/grey-grenade
+[bc/track/i-told-you-so]: https://princessproblems.bandcamp.com/track/i-told-you-so
+[bc/track/what-r-u-doing]: https://princessproblems.bandcamp.com/track/what-r-u-doing
+
+[yt/album/the-backwards-thank-you]: https://youtube.com/playlist?list=OLAK5uy_nndj8rs1cuJrlN2PiWcAtPdTvxvvFs-GM
+[yt/track/art-of-war]: https://youtu.be/bdAMePuE7rc
+[yt/track/the-backwards-thank-you/chrome]: https://youtu.be/5zPJ9J09XVE
+[yt/track/einstein]: https://youtu.be/ZiVqCgLP4WI
+[yt/track/pussy]: https://youtu.be/Rh1DjSxEq6k
+[yt/track/hungry]: https://youtu.be/B52rkZsAPHI
+[yt/track/dont-you-worry]: https://youtu.be/Jc-ePwHJAWU
+[yt/track/kneejerk]: https://youtu.be/OgcN8Ygus3c
+[yt/track/joseph]: https://youtu.be/02hJAP_QpY8
+[yt/track/grey-grenade]: https://youtu.be/wsf7KY_3-ck
+[yt/track/i-told-you-so]: https://youtu.be/lgL4SBdEeEM
+[yt/track/what-r-u-doing]: https://youtu.be/szgzVfV7TXM
 
 <!-- Where Do I Go From Here? (2021) -->
 [bc/album/where-do-i-go-from-here]: https://therealdizzydustin.bandcamp.com/album/where-do-i-go-from-here-full-length
@@ -2339,68 +2441,6 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 [yt/track/know-thyself]: https://youtu.be/QS5aHKQsy78
 [yt/track/when-will-she-know]: https://youtu.be/yJQZn8fjh38
 
-<!-- You'll be Replaced (feat. Godforbid) (2023) -->
-[lf/track/youll-be-replaced]: https://www.last.fm/music/Fool+on+a+Hill/You%27ll+be+Replaced+(feat.+Godforbid)+-+Single
-[yt/track/youll-be-replaced]: https://youtu.be/CjeVVBC-aOk
-
-<!-- Jukebox Buddha (2017) -->
-[bc/album/jukebox-buddha]: https://quandary.bandcamp.com/album/jukebox-buddha
-[bc/track/bones-and-portents]: https://quandary.bandcamp.com/track/bones-portents-feat-timescanner
-[bc/track/the-boy-who-went-to-war]: https://quandary.bandcamp.com/track/the-boy-who-went-to-war-feat-premrock-elder-orange
-[bc/track/court-of-the-monkey-prince]: https://quandary.bandcamp.com/track/court-of-the-monkey-prince-feat-louis-mackey
-[bc/track/black-tar]: https://quandary.bandcamp.com/track/black-tar-feat-premrock-has-lo
-[bc/track/your-gods-and-mine]: https://quandary.bandcamp.com/track/your-gods-mine-feat-zilla-rocca
-[bc/track/the-blown-fuse]: https://quandary.bandcamp.com/track/the-blown-fuse-feat-has-lo
-[bc/track/jukebox-buddha]: https://quandary.bandcamp.com/track/jukebox-buddha-feat-godforbid-louis-mackey
-[bc/track/cant-go-on-without-you]: https://quandary.bandcamp.com/track/cant-go-on-without-you-feat-astrid-engberg
-[bc/track/into-the-dirt]: https://quandary.bandcamp.com/track/into-the-dirt-feat-elder-orange-has-lo-2
-
-[yt/album/jukebox-buddha]: https://youtube.com/playlist?list=OLAK5uy_kIKx4IJkrGT9iqL8Fhdr8qB-__Z1jRRBU
-[yt/track/bones-and-portents]: https://youtu.be/HK9Hk7WKmd4
-[yt/track/the-boy-who-went-to-war]: https://youtu.be/qZzihQfUPSk
-[yt/track/court-of-the-monkey-prince]: https://youtu.be/wbleZkuWYvM
-[yt/track/black-tar]: https://youtu.be/k3dRHnXDETk
-[yt/track/your-gods-and-mine]: https://youtu.be/SWkCIU3syBA
-[yt/track/the-blown-fuse]: https://youtu.be/Qrtsd4mwI4I
-[yt/track/jukebox-buddha]: https://youtu.be/-LEaaxem2Vs
-[yt/track/cant-go-on-without-you]: https://youtu.be/AEqhLtUHy9c
-[yt/track/into-the-dirt]: https://youtu.be/svTIufhaUIU
-
-<!-- Indica Jaxn 3 ( All Gas No Breaks ) (2024) -->
-[lf/album/indica-jaxn-3-all-gas-no-breaks]: https://www.last.fm/music/Ajax+Lo/Indica+Jaxn+3+(+All+Gas+No+Breaks+)
-[yt/album/indica-jaxn-3-all-gas-no-breaks]: https://youtube.com/playlist?list=OLAK5uy_lRtN5vxPhjx0LUetfTlFfaPUvMi9gF5lY
-[yt/track/the-snake-in-the-hawk-shadow]: https://youtu.be/SvAVG48PcS8
-[yt/track/shoulda-seen-it-coming]: https://youtu.be/q2cYBpK_AyI
-[yt/track/all-gas-no-breaks]: https://youtu.be/4hyv7mDzwv4
-[yt/track/the-people-have-spoken]: https://youtu.be/sjJIEpmfRDo
-[yt/track/brick-laying]: https://youtu.be/zzeAaUUih64
-[yt/track/varsity-letters]: https://youtu.be/b4uGRTZGfoU
-[yt/track/these-nights]: https://youtu.be/vrZbHfSyyKY
-[yt/track/they-gon-pay]: https://youtu.be/3p1WpJHCw7A
-[yt/track/pinky-promises]: https://youtu.be/gNg0Catm5L4
-[yt/track/line-em-up]: https://youtu.be/4vtF2xqD_tg
-[yt/track/still-alive-and-well]: https://youtu.be/iXrg3DOEZu4
-
-<!-- Fistful of Dollar$ (2017) -->
-[yt/album/fistful-of-dollars]: https://youtube.com/playlist?list=OLAK5uy_lAZaWBPc2hB1AmNYyGZ-SYhLebP1iqW10
-[yt/track/personal-business]: https://youtu.be/-f7buQBrd6k
-[yt/track/end-of-the-day]: https://youtu.be/-DaV4zdKH6w
-[yt/track/blood-from-a-stone]: https://youtu.be/bbBFf2dzwUU
-[yt/track/hamon-sazon]: https://youtu.be/HAn00NKavzY
-[yt/track/so-far-away]: https://youtu.be/4sgES7PUtvo
-[yt/track/the-little-things]: https://youtu.be/xeYfeV_bZKI
-[yt/track/rhyme-and-punishment]: https://youtu.be/1FpWc7vpQ3o
-[yt/track/from-the-sticks-to-the-bricks]: https://youtu.be/wQ3bzn_SkoM
-[yt/track/glad-you-think-so]: https://youtu.be/xK8PYSqXqRk
-[yt/track/paradox]: https://youtu.be/D5lPNzJrPDI
-[yt/track/take-a-look-around]: https://youtu.be/XyrmakQge4M
-[yt/track/marathon-monday]: https://youtu.be/hK6WWmU_H6o
-[yt/track/good-to-bad]: https://youtu.be/1EpiNhQ7ehU
-[yt/track/cold-case]: https://youtu.be/J3YQsI5uMhw
-
-<!-- Flutie Pass (2024) -->
-[yt/track/flutie-pass]: https://youtu.be/BYSYv9hdWOo
-
 <!-- The Ceremony of Innocence (2022) -->
 [bc/album/the-ceremony-of-innocence]: https://manbitesdogrecs.bandcamp.com/album/the-ceremony-of-innocence
 [bc/track/ab-initio]: https://manbitesdogrecs.bandcamp.com/track/ab-initio
@@ -2418,30 +2458,12 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 [yt/album/the-ceremony-of-innocence]: https://youtu.be/IAQGxNyQgvo
 
-<!-- The One (2007) -->
-[ds/album/the-one]: https://www.discogs.com/release/1172724-Oak-Lonetree-The-One
-[gd/album/the-one]: https://drive.google.com/drive/folders/1-AhTfwvrgYVtwh_RBa4nuX3pm77rbFVr?usp=drive_link
-[gd/track/the-one/intro]: https://drive.google.com/file/d/1559Q3eDHA1xm_FkxyZY7SwU4J90F7vaD/view?usp=drive_link 
-[gd/track/get-it-started]: https://drive.google.com/file/d/1JtL-xABSg-Op8E5J-yYVraRiEZAXpVlA/view?usp=drive_link
-[gd/track/a-toast-to-you]: https://drive.google.com/file/d/1kK5N4AU_Yyp7_3f8omWDT_TG_vUdUUtf/view?usp=drive_link
-[gd/track/crunchtime]: https://drive.google.com/file/d/1sexTZ_ihCuArxv0LjBWGWNeQCBhFx5wu/view?usp=drive_link
-[gd/track/tomato]: https://drive.google.com/file/d/1HTCWMNCjd7afRlV9OM60X54E6HiKZGcH/view?usp=drive_link
-[gd/track/throw-out-your-back]: https://drive.google.com/file/d/1d1eobEAvpe0bApcIcWQJE1CMvgo-k64h/view?usp=drive_link
-[gd/track/you-want-fire]: https://drive.google.com/file/d/1fQKapf2MwpwoqenqtkLXIeXm7X5oKUtH/view?usp=drive_link
-[gd/track/settle-down]: https://drive.google.com/file/d/1mO5gjifrG6WuUDogioDGlW5EIPpsxOuw/view?usp=drive_link
-[gd/track/crowd-control]: https://drive.google.com/file/d/1I6a0AwkKlXPRPXYXRSSAZ7RRZIh4uK1R/view?usp=drive_link
-[gd/track/bathtub]: https://drive.google.com/file/d/1oxWFSlKP0tD5xEOf7Jg8ITRvVcyvzt0I/view?usp=drive_link
-[gd/track/true-spit]: https://drive.google.com/file/d/1tnSnpcYCA6H4Shfe62oJXnrpdyu5Hpgm/view?usp=drive_link
-[gd/track/doin-it-big]: https://drive.google.com/file/d/12U2xR5j2tlRFxoyqsv0SLZ5h9_sSQR_3/view?usp=drive_link
-[gd/track/in-the-chair-crooked]: https://drive.google.com/file/d/1Ro5TrPY7uux57jYPMazKezTinIrBrzTP/view?usp=drive_link
-[gd/track/the-one-and-only]: https://drive.google.com/file/d/1LNXfQoUgv4Ycv9XTcEM-pGWSt942zN9x/view?usp=drive_link
+<!-- You'll be Replaced (feat. Godforbid) (2023) -->
+[lf/track/youll-be-replaced]: https://www.last.fm/music/Fool+on+a+Hill/You%27ll+be+Replaced+(feat.+Godforbid)+-+Single
+[yt/track/youll-be-replaced]: https://youtu.be/CjeVVBC-aOk
 
 <!-- Blood brothers (feat. Godforbid) (2024) -->
 [yt/track/blood-brothers]: https://youtu.be/MusyP7YFXlo
-
-<!-- Welcome To Oz (2021) -->
-[am/album/welcome-to-oz]: https://music.apple.com/uz/album/welcome-to-oz/1571796679
-[gd/track/goodbye]: https://drive.google.com/file/d/1jg82jv9mG3mMyuyEdASBnKWpo5N4cHDu/view?usp=drive_link
 
 <!-- Spring Feast (2025) -->
 [bc/album/spring-feast]: https://yoni-geller.bandcamp.com/album/spring-feast
@@ -2492,45 +2514,3 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 [yt/track/walross]: https://youtu.be/ZtOMuHPXFnY
 [yt/track/favor]: https://youtu.be/V6k2T9hb1qM
 [yt/track/silhouette]: https://youtu.be/KZkKZndF_6g
-
-<!-- Rack$ 2 Riches (2006) -->
-[bc/album/racks-2-riches]: https://racklo.bandcamp.com/album/rack-2-riches
-[bc/track/racks-2-riches]: https://racklo.bandcamp.com/track/racks-2-riches
-[bc/track/get-knocked-the-fuck-out]: https://racklo.bandcamp.com/track/get-knocked-the-fuck-out
-[bc/track/bullet-had-my-name]: https://racklo.bandcamp.com/track/bullet-had-my-name-feat-thirstin-howl-the-3rd
-[bc/track/the-meeahh]: https://racklo.bandcamp.com/track/the-meeahh
-[bc/track/pick-pocket]: https://racklo.bandcamp.com/track/pick-pocket
-[bc/track/ladder-of-success]: https://racklo.bandcamp.com/track/ladder-of-success-starring-richie-balance
-[bc/track/fishermen-files]: https://racklo.bandcamp.com/track/fishermen-files-feat-alaskan-fishermen
-[bc/track/slugz-blaze-u-down]: https://racklo.bandcamp.com/track/slugz-blaze-u-down
-[bc/track/run-their-gonna-kill-you]: https://racklo.bandcamp.com/track/run-their-gonna-kill-you-starring-rack-lo
-[bc/track/toe-to-toe]: https://racklo.bandcamp.com/track/toe-to-toe
-[bc/track/strong-arm]: https://racklo.bandcamp.com/track/strong-arm-feat-blaze-rock-arizona
-[bc/track/show-down]: https://racklo.bandcamp.com/track/show-down
-[bc/track/super-bubble]: https://racklo.bandcamp.com/track/super-bubble-feat-thirstin-howl-the-3rd
-[bc/track/dice-game]: https://racklo.bandcamp.com/track/dice-game
-[bc/track/hell-hole]: https://racklo.bandcamp.com/track/hell-hole
-[bc/track/rl-cartel]: https://racklo.bandcamp.com/track/rl-cartel-starring-rack-lo
-[bc/track/trust-no-bitch]: https://racklo.bandcamp.com/track/trust-no-bitch-starring-richie-balance
-[bc/track/russian-rullet-muzik]: https://racklo.bandcamp.com/track/russian-rullet-muzik
-[bc/track/internet-digiteck]: https://racklo.bandcamp.com/track/internet-digiteck-feat-godforbid-of-alaskan-fishermen
-[bc/track/the-legacy]: https://racklo.bandcamp.com/track/the-legacy-starring-rack-lo
-[bc/track/back-to-the-lab]: https://racklo.bandcamp.com/track/back-to-the-lab-starring-richie-balance
-[bc/track/arizonas-greatest]: https://racklo.bandcamp.com/track/arizonas-greatest-feat-atllas
-[bc/track/never-sold-my-sold]: https://racklo.bandcamp.com/track/never-sold-my-sold-feat-thirstin-howl-the-3rd
-[bc/track/steal]: https://racklo.bandcamp.com/track/steal-starring-rack-lo
-[bc/track/one-way-or-another]: https://racklo.bandcamp.com/track/one-way-or-another-feat-richie-balance
-
-<!-- AVGVSTVS (2017) -->
-[bc/album/avgvstvs]: https://louismackey.bandcamp.com/album/avgvstvs
-[bc/track/these-flying-days]: https://louismackey.bandcamp.com/track/these-flying-days
-[bc/track/rap-beers]: https://louismackey.bandcamp.com/track/rap-beers
-[bc/track/flammarion-garments]: https://louismackey.bandcamp.com/track/flammarion-garments
-[bc/track/same-old-same-old]: https://louismackey.bandcamp.com/track/same-old-same-old-2
-[bc/track/hyde-park-ave]: https://louismackey.bandcamp.com/track/hyde-park-ave
-[bc/track/interlude-jobes-lament]: https://louismackey.bandcamp.com/track/interlude-jobes-lament
-[bc/track/live-from-the-pit]: https://louismackey.bandcamp.com/track/live-from-the-pit
-[bc/track/paper-cups]: https://louismackey.bandcamp.com/track/paper-cups
-[bc/track/buckminster-fuller]: https://louismackey.bandcamp.com/track/buckminster-fuller-feat-godforbid
-[bc/track/it-cuts-either-way]: https://louismackey.bandcamp.com/track/it-cuts-either-way
-[bc/track/from-mouth-to-heart]: https://louismackey.bandcamp.com/track/from-mouth-to-heart
