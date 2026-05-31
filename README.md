@@ -471,6 +471,7 @@ Navigation:
 | 17 | Elephant Bones (GH2 Version) | [YouTube][yt/track/elephant-bones-gh2-version] |
 | 18 | Powderbomb (Alternate Version) | [YouTube][yt/track/powderbomb-alternate-version] |
 | 19 | It\'s Trump! | [YouTube][yt/track/its-trump] |
+| 20 | Watching You | [YouTube][yt/track/watching-you] |
 
 </div>
 
@@ -1823,6 +1824,7 @@ Navigation:
 [yt/track/elephant-bones-gh2-version]: https://youtu.be/yfYXYQ6WBFk
 [yt/track/powderbomb-alternate-version]: https://youtu.be/sUg452wQE4Y
 [yt/track/its-trump]: https://youtu.be/17AfoH3ns0E
+[yt/track/watching-you]: https://youtu.be/cY-gOxZiqiM
 
 <!-- Rack$ 2 Riches (2006) -->
 [bc/album/racks-2-riches]: https://racklo.bandcamp.com/album/rack-2-riches
