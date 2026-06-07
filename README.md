@@ -7,7 +7,8 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 ---
 
-Navigation:
+# Navigation:
+
 | First appear | Project|
 |--------------|--------|
 | 2001 | [Havok House](#havok-house) |
@@ -53,6 +54,8 @@ Navigation:
 | 11 | Crown Jewel | [YouTube][yt/track/crown-jewel] |
 | 12 | Silent Rogue | [YouTube][yt/track/silent-rogue] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ## Alaskan Fishermen:
@@ -86,6 +89,8 @@ Navigation:
 | 17 | The Itch | [YouTube][yt/track/the-itch] |
 | 18 | Get a Life | [YouTube][yt/track/get-a-life] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -113,6 +118,8 @@ Navigation:
 | 11 | Pimphand | [YouTube][yt/track/pimphand] |
 | 12 | Hands Up (feat. Thirtyseven) | [YouTube][yt/track/alaskan-fishermen/hands-up] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -124,6 +131,8 @@ Navigation:
 [YouTube][yt/track/im-fool]
 
 <img width="240" alt="I'm A Fool" src="images/I'm A Fool.jpg"/>
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -148,6 +157,8 @@ Navigation:
 | <ins>_5_</ins> | <ins>_How to Get Money (Instrumental)_</ins> | [YouTube][yt/track/how-to-get-money-(instrumental)] |
 | 6 | Don't Go | [YouTube][yt/track/dont-go] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 <div align="center">
@@ -167,6 +178,8 @@ Navigation:
 | 5 | Dating Tips | [Bandcamp][bc/track/dating-tips] · [YouTube][yt/track/dating-tips] |
 | 6 | Miss America | [Bandcamp][bc/track/miss-america] · [YouTube][yt/track/miss-america] |
 | 7 | James Dean | [Bandcamp][bc/track/james-dean] · [YouTube][yt/track/james-dean] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -199,6 +212,8 @@ Navigation:
 | 15 | Powderbomb | [YouTube][yt/track/powderbomb] |
 | 16 | Romance Is Dead | [YouTube][yt/track/romance-is-dead] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -218,6 +233,8 @@ Navigation:
 | 3 | Disco City | [Bandcamp][bc/track/disco-city] · [YouTube][yt/track/disco-city] |
 | 4 | Eristocrats (Viva Discordia Pt.II) | [Bandcamp][bc/track/eristocrats-viva-discordia-pt-ii] · [YouTube][yt/track/eristocrats-viva-discordia-pt-ii] |
 | 5 | Johnny Wouldn\'t Die | [Bandcamp][bc/track/johnny-wouldnt-die] · [YouTube][yt/track/johnny-wouldnt-die] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -241,6 +258,8 @@ Navigation:
 | 6 | Bare | [Bandcamp][bc/track/bare] · [YouTube][yt/track/bare] |
 | <ins>_7_</ins> | <ins>_Home_</ins> | [Bandcamp][bc/track/home] · [YouTube][yt/track/home] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -261,6 +280,8 @@ Navigation:
 | 4 | It\'s a Man\'s Man\'s Man\'s World | [YouTube][yt/track/its-a-mans-mans-mans-world] |
 | 5 | Mr. Grinch | [YouTube][yt/track/mr-grinch] |
 | 6 | Fairytale of New York | [YouTube][yt/track/fairytale-of-new-york] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -290,6 +311,8 @@ Navigation:
 | 12 | Inside You | [Bandcamp][bc/track/inside-you] · [YouTube][yt/track/inside-you] |
 | 13 | Party\'s Dead | [Bandcamp][bc/track/partys-dead] · [YouTube][yt/track/partys-dead] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -317,6 +340,8 @@ Navigation:
 | 11 | The Last Ones | [Bandcamp][bc/track/the-last-ones] · [YouTube][yt/track/the-last-ones] |
 | 12 | A Drink To Death | [Bandcamp][bc/track/a-drink-to-death] · [YouTube][yt/track/a-drink-to-death] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -336,6 +361,8 @@ Navigation:
 | 3 | Emergency | [Bandcamp][bc/track/emergency] · [YouTube][yt/track/emergency] |
 | 4 | Echo Chamber | [Bandcamp][bc/track/echo-chamber] · [YouTube][yt/track/echo-chamber] |
 | 5 | Pendulumonium | [Bandcamp][bc/track/pendulumonium] · [YouTube][yt/track/pendulumonium] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -366,6 +393,8 @@ Navigation:
 | 13 | La Di Frickin Da | [Bandcamp][bc/track/la-di-frickin-da] · [YouTube][yt/track/la-di-frickin-da] |
 | <ins>_14_</ins> | <ins>_Outro_</ins> | [Bandcamp][bc/track/outro] · [YouTube][yt/track/outro] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -394,6 +423,8 @@ Navigation:
 | 12 | Crooked Heart | [Bandcamp][bc/track/crooked-heart] · [YouTube][yt/track/crooked-heart] |
 | 13 | The Toilet That Killed Elvis | [Bandcamp][bc/track/the-toilet-that-killed-elvis] · [YouTube][yt/track/the-toilet-that-killed-elvis] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -405,6 +436,8 @@ Navigation:
 [Bandcamp][bc/track/charlie-2-the-money-grab] · [YouTube][yt/track/charlie-2-the-money-grab]
 
 <img width="240" alt="Charlie 2 (The Money Grab) (2025)" src="images/Charlie 2 (The Money Grab) (2025).jpg"/>
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -423,6 +456,8 @@ Navigation:
 | 1 | You\'ll Never Leave New York | [Bandcamp][bc/track/youll-never-leave-new-york] · [YouTube][yt/track/youll-never-leave-new-york] |
 | 2 | Let\'s Commit Crimes Together | [Bandcamp][bc/track/lets-commit-crimes-together] · [YouTube][yt/track/lets-commit-crimes-together] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -439,6 +474,8 @@ Navigation:
 | 2 | Shutup You\'re Stupid LIVE | [YouTube][yt/track/shutup-youre-stupid-live] |
 | 3 | Charlie\'s Inferno LIVE | [YouTube][yt/track/charlies-inferno-live] |
 | 4 | Junkies In Love LIVE | [YouTube][yt/track/junkies-in-love-live] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -472,6 +509,9 @@ Navigation:
 | 18 | Powderbomb (Alternate Version) | [YouTube][yt/track/powderbomb-alternate-version] |
 | 19 | It\'s Trump! | [YouTube][yt/track/its-trump] |
 | 20 | Watching You | [YouTube][yt/track/watching-you] |
+| 21 | Marvel Namedrop | [YouTube][yt/track/marvel-namedrop] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -515,6 +555,8 @@ Navigation:
 | 24 | Steal | [Bandcamp][bc/track/steal] |
 | 25 | One Way Or Another (feat. Richie Balance) | [Bandcamp][bc/track/one-way-or-another] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -546,6 +588,8 @@ Navigation:
 | 13 | In The Chair Crooked (feat. Ballcklub) | [Google Drive][gd/track/in-the-chair-crooked] · [YouTube][yt/track/in-the-chair-crooked] |
 | 14 | The One And Only | [Google Drive][gd/track/the-one-and-only] · [YouTube][yt/track/the-one-and-only] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -571,6 +615,8 @@ Navigation:
 | 7 | Driveway | [Bandcamp][bc/track/driveway] · [YouTube][yt/track/driveway] |
 | 8 | Sodapop & Bubblegum (feat. Thirtyseven) | [Bandcamp][bc/track/sodapop-bubblegum] · [YouTube][yt/track/sodapop-bubblegum] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -584,6 +630,8 @@ Navigation:
 [YouTube][yt/track/im-real]
 
 <img width="240" alt="I'm Real (2012)" src="images/I'm Real (2012).jpg"/>
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -614,6 +662,8 @@ Navigation:
 | 13 | Don\'t Talk (Put Your Head On My Shoulder) | [YouTube][yt/track/dont-talk-put-your-head-on-my-shoulder] |
 | 14 | No Love (But Your Love) | [YouTube][yt/track/no-love-but-your-love] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -626,6 +676,8 @@ Navigation:
 
 <img width="240" alt="New Drug (2019)" src="images/New Drug (2019).jpg"/>
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -637,6 +689,8 @@ Navigation:
 [YouTube][yt/track/bury-me]
 
 <img width="240" alt="Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019)" src="images/Bury Me (Jeremy Page Remix) feat. Kendra Morris & Godforbid (2019).webp"/>
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -665,6 +719,8 @@ Navigation:
 | 9 | Algorhythms — Open Ended | [Bandcamp][bc/track/open-ended] · [YouTube][yt/track/open-ended] |
 | 10 | Small Professor — The Old Eleven | [Bandcamp][bc/track/the-old-eleven] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -691,6 +747,8 @@ Navigation:
 | 10 | Louis Mackey — I Think About You All of the Time | [Bandcamp][bc/track/i-think-about-you-all-of-the-time] |
 | 11 | DJ Multiple Sex Partners — Pale White Cutie Pie (Closing Theme) | [Bandcamp][bc/track/pale-white-cutie-pie-closing-theme] · [YouTube][yt/track/pale-white-cutie-pie-closing-theme] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -704,6 +762,8 @@ Navigation:
 [Bandcamp][bc/track/anthembanger-2012]
 
 <img width="240" alt="Anthembanger 2012 (2014)" src="images/Anthembanger 2012 (2014).jpg"/>
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -726,6 +786,8 @@ Navigation:
 | 5 | Where the Cameras Don\'t See | [Bandcamp][bc/track/where-the-cameras-dont-see] · [YouTube][yt/track/where-the-cameras-dont-see] |
 | 6 | Night Owls | [Bandcamp][bc/track/night-owls] · [YouTube][yt/track/night-owls] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -739,6 +801,8 @@ Navigation:
 [YouTube][yt/track/hungry-wolf-new-york-remix]
 
 <img width="240" alt="Hungry Wolf (New York Remix) (2015)" src="images/Hungry Wolf (New York Remix) (2015).jpg"/>
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -773,6 +837,8 @@ Navigation:
 | 15 | Feel Free (feat. Jaxn) | [Bandcamp][bc/track/feel-free] · [YouTube][yt/track/feel-free] |
 | 16 | Can\'t Breath | [Bandcamp][bc/track/cant-breath] · [YouTube][yt/track/cant-breath] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -796,6 +862,8 @@ Navigation:
 | 7 | Life Ain\'t So Easy (feat. Angel Gittens) | [Bandcamp][bc/track/life-aint-so-easy] · [YouTube][yt/track/life-aint-so-easy] |
 | 8 | Sandy\'s Message (Outro) | [Bandcamp][bc/track/sandys-message-outro] |
 | 9 | Better World (Instrumental) | [Bandcamp][bc/track/better-world-instrumental] · [YouTube][yt/track/better-world-instrumental] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -823,6 +891,8 @@ Navigation:
 | 10 | Finer Things (feat. Father Time) | [YouTube][yt/track/finer-things] |
 | 11 | Donde Esta (feat. Hand Skillz & Zay Skillz) | [YouTube][yt/track/donde-esta] |
 | 12 | Lasting Legacy (feat. Father Time) | [YouTube][yt/track/lasting-legacy] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -855,6 +925,8 @@ Navigation:
 | 13 | Good to Bad | [YouTube][yt/track/good-to-bad] |
 | 14 | Cold Case (feat. King Author) | [YouTube][yt/track/cold-case] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -881,6 +953,8 @@ Navigation:
 | ***10*** | ***Line Em Up (feat. Godforbid & Camarah Walleed)*** | [YouTube][yt/track/line-em-up] |
 | 11 | Still Alive & Well | [YouTube][yt/track/still-alive-and-well] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -892,6 +966,8 @@ Navigation:
 [YouTube][yt/track/flutie-pass]
 
 <img width="240" alt="Flutie Pass (2024)" src="images/Flutie Pass (2024).png"/>
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -918,6 +994,8 @@ Navigation:
 | ***7*** | ***Jukebox Buddha (feat. Godforbid & Louis Mackey)*** | [Bandcamp][bc/track/jukebox-buddha] · [YouTube][yt/track/jukebox-buddha] |
 | 8 | Can\'t Go On Without You (feat. Astrid Engberg) | [Bandcamp][bc/track/cant-go-on-without-you] · [YouTube][yt/track/cant-go-on-without-you] |
 | 9 | Into the Dirt (feat. Elder Orange & Has-Lo) | [Bandcamp][bc/track/into-the-dirt] · [YouTube][yt/track/into-the-dirt] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -947,6 +1025,8 @@ Navigation:
 | 10 | It Cuts Either Way | [Bandcamp][bc/track/it-cuts-either-way] |
 | 11 | From Mouth to Heart | [Bandcamp][bc/track/from-mouth-to-heart] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -974,6 +1054,8 @@ Navigation:
 | 9 | Chrome | [Bandcamp][bc/track/jesus-chrysler/chrome] · [YouTube][yt/track/jesus-chrysler/chrome] |
 | 10 | Night Nurse | [Bandcamp][bc/track/night-nurse] · [YouTube][yt/track/night-nurse] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -985,6 +1067,8 @@ Navigation:
 [YouTube][yt/track/mamas-dont-let-your-babies-grow-up-to-be-cowboys-cover]
 
 <img width="240" alt="Mamas Don't Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover)" src="images/Mamas Don't Let Your Babies Grow Up To Be Cowboys - Larry Lee Oppel & Godforbid (Cover).jpg"/>
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -1011,6 +1095,8 @@ Navigation:
 | 9 | Communication Nowhere | [Bandcamp][bc/track/communication-nowhere] · [YouTube][yt/track/communication-nowhere] |
 | 10 | Real Fake (feat. A-F-R-O) | [Bandcamp][bc/track/real-fake] · [YouTube][yt/track/real-fake] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -1032,6 +1118,8 @@ Navigation:
 | 5 | Zombi | [Bandcamp][bc/track/zombi] · [YouTube][yt/track/zombi] |
 | 6 | Janet | [Bandcamp][bc/track/janet] · [YouTube][yt/track/janet] |
 | 7 | Dead Best Friends | [Bandcamp][bc/track/dead-best-friend] · [YouTube][yt/track/dead-best-friend] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -1058,6 +1146,8 @@ Navigation:
 | 9 | Gollum | [Bandcamp][bc/track/gollum] · [YouTube][yt/track/gollum] |
 | 10 | Curse of the Haunted Mic (feat. LIONSMITH) | [Bandcamp][bc/track/curse-of-the-haunted-mic] · [YouTube][yt/track/curse-of-the-haunted-mic] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -1076,6 +1166,34 @@ Navigation:
 | 2 | My Horoscope was Wrong | [Bandcamp][bc/track/my-horoscope-was-wrong] |
 | 3 | Going Through Your Stuff | [Bandcamp][bc/track/going-through-your-stuff] |
 | 4 | Spring | [Bandcamp][bc/track/spring] |
+
+[--To Navigation--](#navigation)
+
+</div>
+
+---
+
+<div align="center">
+
+### Stories
+
+<img width="240" alt="Stories" src="images/Stories.jpg"/>
+
+| № | Name | Links |
+|---|------|-------|
+| 1 | Edgar, the Pigeon Kicker | [Bandcamp][bc/track/edgar-the-pigeon-kicker] |
+| 2 | Phil's Chance | [Bandcamp][bc/track/phils-chance] |
+| 3 | Connie's Fate | [Bandcamp][bc/track/connies-fate] |
+| 4 | Strawberry's Great Escape | [Bandcamp][bc/track/strawberrys-great-escape] |
+| 5 | W.D.E. | [Bandcamp][bc/track/w-d-e] |
+| 6 | Where Was Kyle? | [Bandcamp][bc/track/where-was-kyle] |
+| 7 | T.G.I.F.F. | [Bandcamp][bc/track/t-g-i-f-f] |
+| 8 | Cloudy Head Fred | [Bandcamp][bc/track/cloudy-head-fred] |
+| 9 | Audio Transcription 117.Buried the Body | [YouTube][yt/track/buried-the-body] |
+| 10 | I'd Really Like to Meet You | [YouTube][bc/track/id-really-like-to-meet-you] |
+| 11 | Charlie And Buttons | [YouTube][bc/track/charlie-and-buttons] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -1097,6 +1215,8 @@ Navigation:
 | 2 | Ugly At Times (feat. Godforbid) | [YouTube][yt/track/ugly-at-times] |
 | 3 | What You Might Do (feat. Godforbid) | [YouTube][yt/track/what-you-might-do] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -1108,6 +1228,8 @@ Navigation:
 [YouTube][yt/track/no-more-love-songs]
 
 <img width="240" alt="No More Love Songs (2020)" src="images/No More Love Songs (2020).jpg"/>
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -1122,6 +1244,8 @@ Navigation:
 [YouTube][yt/tracks/awkward]
 
 <img width="240" alt="Awkward (feat. Godforbid) (2020)" src="images/Awkward (feat. Godforbid) (2020).webp"/>
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -1143,6 +1267,8 @@ Navigation:
 | 4 | Player ft. Kendra Morris | [Bandcamp][bc/track/player-ft-kendra-morris] · [YouTube][yt/track/player-ft-kendra-morris] |
 | 5 | Never Afraid | [Bandcamp][bc/track/never-afraid] · [YouTube][yt/track/never-afraid] |
 | 6 | Lana Baby | [Bandcamp][bc/track/lana-baby] · [YouTube][yt/track/lana-baby] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -1167,6 +1293,8 @@ Navigation:
 | 7 | FLOAT | [Bandcamp][bc/track/float] · [YouTube][yt/track/float] |
 | 8 | FREE | [Bandcamp][bc/track/free] · [YouTube][yt/track/free] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -1190,6 +1318,8 @@ Navigation:
 | 5 | A.X.I.O.U.S. | [Bandcamp][bc/track/a-x-i-o-u-s] |
 | 6 | Keep Moving | [Bandcamp][bc/track/keep-moving] · [YouTube][yt/track/keep-moving] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -1212,6 +1342,8 @@ Navigation:
 | 4 | Buried Alive | [Bandcamp][bc/track/buried-alive] · [YouTube][yt/track/buried-alive] |
 | 5 | Turn the Clocks Back (feat. Hua Li & Lex French) | [Bandcamp][bc/track/turn-the-clocks-back] · [YouTube][yt/track/turn-the-clocks-back] |
 | ***6*** | ***Build a Machine (feat. Godforbid)*** | [Bandcamp][bc/track/build-a-machine] · [YouTube][yt/track/build-a-machine] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -1240,6 +1372,8 @@ Navigation:
 | ***9*** | ***So Strange*** | [YouTube][yt/track/so-strange] |
 | 10 | Young World | [YouTube][yt/track/young-world] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -1263,6 +1397,8 @@ Navigation:
 | 5 | Haven\'t you heard? (feat. Jenny March) | |
 | ***6*** | ***Goodbye (feat. Godforbid)*** | [Google Drive][gd/track/goodbye] |
 | 7 | All Together Now (feat. Mr. Mountain) | |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -1291,6 +1427,8 @@ Navigation:
 | 9 | Grey Grenade | [Bandcamp][bc/track/grey-grenade] · [YouTube][yt/track/grey-grenade] |
 | 10 | I Told You So | [Bandcamp][bc/track/i-told-you-so] · [YouTube][yt/track/i-told-you-so] |
 | 11 | What R U Doing | [Bandcamp][bc/track/what-r-u-doing] · [YouTube][yt/track/what-r-u-doing] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -1327,6 +1465,8 @@ Navigation:
 | 17 | Vertigo Flow (feat. Swiss Precise, Pkon & LMNO) | [Bandcamp][bc/track/vertigo-flow] · [YouTube][yt/track/vertigo-flow] |
 | 18 | The Real Ones (feat. Master Fuol, Slaine & Hochii) | [Bandcamp][bc/track/the-real-ones] · [YouTube][yt/track/the-real-ones] |
 | 19 | Rain Delays (feat. Meemz) (Remix) | [Bandcamp][bc/track/rain-delays-remix] · [YouTube][yt/track/rain-delays-remix] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -1367,6 +1507,8 @@ Navigation:
 | 21 | Kamala (feat. Mr. Muthafuckin\' eXquire x A-F-R-O) | [Bandcamp][bc/track/kamala] |
 | ***22*** | ***Flower Print (feat. Godforbid x Thirstin Howl III) (remix by Krohme)*** | [Bandcamp][bc/track/flower-print-remix] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -1396,6 +1538,22 @@ Navigation:
 | 11 | Hell or High Water (feat. Breez Evahflowin, Muja Messiah, Kahlee, Cesar Comanche & L.I.F.E. Long) | [Bandcamp][bc/track/hell-or-high-water] |
 | 12 | Ad Finem | [Bandcamp][bc/track/ad-finem] |
 
+[--To Navigation--](#navigation)
+
+</div>
+
+---
+
+<div align="center">
+
+### Ode to the Scumbag (2025)
+
+[YouTube][yt/track/ode-to-the-scumbag]
+
+<img width="240" alt="Ode to the Scumbag (2025)" src="images/Ode to the Scumbag (2025).jpg"/>
+
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -1410,6 +1568,8 @@ Navigation:
 
 <img width="240" alt="You'll be Replaced (feat. Godforbid) (2023)" src="images/You'll be Replaced (feat. Godforbid) (2023).png"/>
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -1423,6 +1583,8 @@ Navigation:
 [YouTube][yt/track/blood-brothers]
 
 <img width="240" alt="Blood brothers (feat. Godforbid) (2024)" src="images/Blood brothers (feat. Godforbid) (2024).png"/>
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -1451,6 +1613,8 @@ Navigation:
 | 9 | Spring Feast | [Bandcamp][bc/track/spring-feast] · [YouTube][yt/track/spring-feast] |
 | 10 | Green Peach | [Bandcamp][bc/track/green-peach] · [YouTube][yt/track/green-peach] |
 
+[--To Navigation--](#navigation)
+
 </div>
 
 ---
@@ -1477,6 +1641,8 @@ Navigation:
 | 8 | WALROSS | [Bandcamp][bc/track/walross] · [YouTube][yt/track/walross] |
 | 9 | FAVOR | [Bandcamp][bc/track/favor] · [YouTube][yt/track/favor] |
 | 10 | SILHOUETTE | [Bandcamp][bc/track/silhouette] · [YouTube][yt/track/silhouette] |
+
+[--To Navigation--](#navigation)
 
 </div>
 
@@ -1825,6 +1991,7 @@ Navigation:
 [yt/track/powderbomb-alternate-version]: https://youtu.be/sUg452wQE4Y
 [yt/track/its-trump]: https://youtu.be/17AfoH3ns0E
 [yt/track/watching-you]: https://youtu.be/cY-gOxZiqiM
+[yt/track/marvel-namedrop]: https://youtu.be/8Ok5BLG9p4U
 
 <!-- Rack$ 2 Riches (2006) -->
 [bc/album/racks-2-riches]: https://racklo.bandcamp.com/album/rack-2-riches
@@ -2242,6 +2409,20 @@ Navigation:
 [bc/track/going-through-your-stuff]: https://godforbid.bandcamp.com/track/going-through-your-stuff
 [bc/track/spring]: https://godforbid.bandcamp.com/track/spring
 
+<!-- Stories -->
+[bc/track/edgar-the-pigeon-kicker]: https://godforbid.bandcamp.com/track/edgar-the-pigeon-kicker
+[bc/track/phils-chance]: https://godforbid.bandcamp.com/track/phils-chance
+[bc/track/connies-fate]: https://godforbid.bandcamp.com/track/connies-fate
+[bc/track/strawberrys-great-escape]: https://godforbid.bandcamp.com/track/strawberrys-great-escape
+[bc/track/w-d-e]: https://godforbid.bandcamp.com/track/w-d-e
+[bc/track/where-was-kyle]: https://godforbid.bandcamp.com/track/where-was-kyle
+[bc/track/t-g-i-f-f]: https://godforbid.bandcamp.com/track/t-g-i-f-f
+[bc/track/cloudy-head-fred]: https://godforbid.bandcamp.com/track/cloudy-head-fred
+
+[yt/track/buried-the-body]: https://youtu.be/XqEnSzBXo8w
+[bc/track/id-really-like-to-meet-you]: https://youtu.be/g-VgW1bhAkM
+[bc/track/charlie-and-buttons]: https://youtu.be/Zsu_AU6wm7Q
+
 <!-- Ugly at Times (2018) -->
 [lf/album/ugly-at-times]: https://www.last.fm/music/Kemo+the+Blaxican/Ugly+at+Times
 [yt/album/ugly-at-times]: https://youtube.com/playlist?list=OLAK5uy_l9R_Ke-hTdSAvEv-Ct0_H-W9z5Np3ViJk
@@ -2459,6 +2640,9 @@ Navigation:
 [bc/track/ad-finem]: https://manbitesdogrecs.bandcamp.com/track/ad-finem
 
 [yt/album/the-ceremony-of-innocence]: https://youtu.be/IAQGxNyQgvo
+
+<!-- Ode to the Scumbag (2025) -->
+[yt/track/ode-to-the-scumbag]: https://youtu.be/gLS4ZSO1pNY
 
 <!-- You'll be Replaced (feat. Godforbid) (2023) -->
 [lf/track/youll-be-replaced]: https://www.last.fm/music/Fool+on+a+Hill/You%27ll+be+Replaced+(feat.+Godforbid)+-+Single
