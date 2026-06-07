@@ -143,9 +143,9 @@ Navigation:
 |---|------|-------|
 | 1 | Dating Tips (Clean) | [YouTube][yt/track/dating-tips-(clean)] |
 | 2 | Dating Tips (Album version) | [YouTube][yt/track/dating-tips-(album-version)] |
-| 3 | Dating Tips (Instrumental) | [YouTube][yt/track/dating-tips-(instrumental)] |
+| <ins>_3_</ins> | <ins>_Dating Tips (Instrumental)_</ins> | [YouTube][yt/track/dating-tips-(instrumental)] |
 | 4 | How to Get Money (Clean) | [YouTube][yt/track/how-to-get-money-(clean)] |
-| 5 | How to Get Money (Instrumental) | [YouTube][yt/track/how-to-get-money-(instrumental)] |
+| <ins>_5_</ins> | <ins>_How to Get Money (Instrumental)_</ins> | [YouTube][yt/track/how-to-get-money-(instrumental)] |
 | 6 | Don't Go | [YouTube][yt/track/dont-go] |
 
 </div>
