@@ -161,6 +161,8 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 
 </div>
 
+---
+
 <div align="center">
 
 ### That Handsome Devil (2005)
@@ -584,7 +586,7 @@ A complete list of songs featuring **Christian James Oppel** (aka. **Godforbid**
 | 9 | Crowd Control (feat. Ed O.G., The Yukonn MC & DJ Frank White) | [Google Drive][gd/track/crowd-control] · [YouTube][yt/track/crowd-control] |
 | 10 | Bathtub | [Google Drive][gd/track/bathtub] · [YouTube][yt/track/bathtub] |
 | 11 | True Spit (feat. Big Dese) | [Google Drive][gd/track/true-spit] · [YouTube][yt/track/true-spit] |
-| 12 | Doin\' It Big | [Google Drive][gd/track/doin-it-big] · [YouTube][] |
+| 12 | Doin\' It Big | [Google Drive][gd/track/doin-it-big] · [YouTube][yt/track/doin-it-big] |
 | 13 | In The Chair Crooked (feat. Ballcklub) | [Google Drive][gd/track/in-the-chair-crooked] · [YouTube][yt/track/in-the-chair-crooked] |
 | 14 | The One And Only | [Google Drive][gd/track/the-one-and-only] · [YouTube][yt/track/the-one-and-only] |
 
